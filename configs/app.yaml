@@ -1,0 +1,17 @@
+project_name: data-warehouse-proj
+
+environment: development
+
+event_rate_per_second: 20
+
+aws:
+  region: ap-southeast-2
+  bucket: abhinav-ecommerce-data-lake
+
+kafka:
+  bootstrap_servers: localhost:9092
+
+snowflake:
+  warehouse: COMPUTE_WH
+  database: ECOMMERCE_DW
+  schema: RAW

@@ -1,0 +1,6 @@
+#!/Users/abhinav.shukla/Documents/data-warehouse-proj/.venv/bin/python3.12
+import sys
+from Tree.cli import create_tree
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(create_tree())
