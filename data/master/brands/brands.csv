@@ -1,0 +1,20 @@
+brand_id,brand_name,category_id,is_active
+BR001,Apple,CAT001,True
+BR002,Samsung,CAT001,True
+BR003,Sony,CAT001,True
+BR004,Dell,CAT001,True
+BR005,Nike,CAT002,True
+BR006,Adidas,CAT002,True
+BR007,Puma,CAT002,True
+BR008,IKEA,CAT003,True
+BR009,Home Centre,CAT003,True
+BR010,Penguin,CAT004,True
+BR011,HarperCollins,CAT004,True
+BR012,Wilson,CAT005,True
+BR013,Yonex,CAT005,True
+BR014,L'Oréal,CAT006,True
+BR015,Nivea,CAT006,True
+BR016,Nestlé,CAT007,True
+BR017,Kellogg's,CAT007,True
+BR018,LEGO,CAT008,True
+BR019,Mattel,CAT008,True

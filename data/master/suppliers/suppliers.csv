@@ -1,0 +1,9 @@
+supplier_id,supplier_name,country,contact_email,is_active
+SUP001,Apple Australia Pty Ltd,Australia,contact@apple-au.com,True
+SUP002,Samsung Australia,Australia,sales@samsung-au.com,True
+SUP003,Sony Australia,Australia,sales@sony-au.com,True
+SUP004,Nike Australia,Australia,orders@nike-au.com,True
+SUP005,Adidas Australia,Australia,orders@adidas-au.com,True
+SUP006,LEGO Australia,Australia,sales@lego-au.com,True
+SUP007,Nestlé Australia,Australia,sales@nestle-au.com,True
+SUP008,L'Oréal Australia,Australia,sales@loreal-au.com,True

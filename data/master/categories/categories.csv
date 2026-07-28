@@ -1,0 +1,9 @@
+category_id,category_name,description,is_active
+CAT001,Electronics,Electronic devices and accessories,True
+CAT002,Fashion,Clothing and accessories,True
+CAT003,Home,Home and kitchen products,True
+CAT004,Books,Books and magazines,True
+CAT005,Sports,Sports equipment,True
+CAT006,Beauty,Beauty and personal care,True
+CAT007,Groceries,Daily grocery items,True
+CAT008,Toys,Kids toys and games,True

@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone_number,gender,date_of_birth,city,state,country,postal_code,loyalty_tier,registration_date,is_active
+C36DDBF6F,Justin,Johnson,juanlee@example.net,+61-3-4116-4220,Male,1980-11-16,West Edwardview,New South Wales,Australia,2918,Bronze,2025-10-08,False
+C80E24ABE,Jason,Williamson,jamespatricia@example.net,0765935418,Male,1952-11-05,St. Jamesberg,Tasmania,Australia,1673,Silver,2022-03-23,True
+C0755312A,Sherry,Shaw,lisa62@example.org,+61.421.795.832,Female,2003-01-10,St. Kelly,Northern Territory,Australia,2255,Bronze,2024-10-14,True
+C141B5962,Jeremy,Sullivan,vpark@example.org,0460 616 958,Male,1958-04-02,West Teresatown,Western Australia,Australia,2613,Silver,2023-07-06,True
+CC5DF92EE,Brandy,Alexander,sjohnson@example.org,0478.230.479,Female,1966-12-28,West Jillberg,Northern Territory,Australia,2621,Bronze,2023-01-14,True
+CF15DCC30,Ethan,Shannon,collierkevin@example.org,0424 835 507,Male,2002-09-16,Lake Dawn,Northern Territory,Australia,2618,Silver,2023-08-09,True
+C72E5FCE3,Mason,Hill,lacosta@example.net,7181 7581,Male,1995-11-23,Michaelfurt,Western Australia,Australia,2990,Silver,2025-07-19,True
+CAAD2EAEE,Melanie,Wells,adaniels@example.org,+61-3-0423-3473,Female,1952-03-25,Courtneybury,Western Australia,Australia,2900,Bronze,2025-04-02,True
+C9E8034E4,Theresa,Holt,ikelly@example.org,+61 2 4442 2725,Female,1975-09-10,St. William,Tasmania,Australia,2877,Silver,2022-06-02,True
+CDDA237C8,Katherine,Bonilla,deanwendy@example.org,+61749036480,Female,1971-04-09,Port Andrew,New South Wales,Australia,2435,Silver,2024-06-23,True
+CBB9F4A54,Brian,Wood,katherinematthews@example.net,0273393179,Male,1967-01-19,North James,Tasmania,Australia,2679,Silver,2022-08-04,False
+C1B80739A,Laurie,Powell,andreamiller@example.net,+61.466.424.782,Female,2001-07-20,Williamsmouth,Tasmania,Australia,4908,Bronze,2023-11-29,True
+C6521B22A,Whitney,Roth,kimphillip@example.com,(07)-3343-3934,Female,2007-06-14,St. Danielton,Victoria,Australia,6011,Bronze,2023-09-07,True
+C3860DF8C,Todd,Cruz,rodriguezcody@example.net,08.5304.2003,Male,1950-02-25,West Sarah,South Australia,Australia,2683,Bronze,2025-03-11,True
+C6D6BEB3C,Trevor,Johnston,ashleywarren@example.net,(08)-0298-9676,Male,2002-08-04,Youngland,Western Australia,Australia,3387,Silver,2023-05-24,True
+C10383DE1,Seth,Cooper,brucebryan@example.org,+61 8 8823 4481,Male,1963-04-14,Payneborough,Tasmania,Australia,2920,Bronze,2023-08-05,True
+CA8E50F37,Christopher,Nelson,doris63@example.net,+61354781032,Male,1970-03-25,Port Hannah,Tasmania,Australia,3681,Bronze,2023-06-23,True
+CEA45279F,Melanie,Gross,williamschristina@example.org,03-2336-9351,Female,1957-12-22,Mosleymouth,Australian Capital Territory,Australia,2920,Gold,2022-10-10,True
+C9F5C5077,Theresa,Lee,nsullivan@example.com,0440-637-272,Female,1968-01-23,St. Jeffreytown,Northern Territory,Australia,2962,Bronze,2023-11-02,False
+C591B16DA,Charles,Lopez,ramirezcarrie@example.org,+61 7 1548 6112,Male,1971-09-08,Williamland,Australian Capital Territory,Australia,2693,Bronze,2021-12-03,True
+CD07569CE,Megan,Martinez,debraharris@example.org,+61 3 9766 2417,Female,1985-09-13,Shannonburgh,Western Australia,Australia,2682,Bronze,2024-09-18,True
+C7BDD18F8,Bradley,Rodriguez,kimberly52@example.com,(07) 9804 5367,Male,1957-04-30,Kingview,Tasmania,Australia,6365,Bronze,2024-02-16,True
+C64A450D9,Shari,Gomez,smithmelissa@example.org,0491-640-851,Female,2000-07-29,Kirkmouth,Queensland,Australia,2688,Silver,2021-09-29,False
+CB3BA0E9D,Cheryl,Dickson,johnbowman@example.com,(02).6918.3632,Female,1957-08-07,Port Kyle,Tasmania,Australia,7385,Platinum,2023-08-15,True
+CD192BA50,Paul,Smith,alejandrogomez@example.org,(07)99804716,Male,1991-07-14,Willieville,South Australia,Australia,0972,Bronze,2021-09-09,True
+CD5B04C8F,Jason,Moore,meyerjames@example.net,(02)64786228,Male,1947-01-05,East Shawn,Northern Territory,Australia,2841,Platinum,2025-08-22,True
+C61E899D5,Ruth,Bridges,larryperry@example.org,(02) 0124 7530,Female,2005-06-01,West Rachelside,Western Australia,Australia,9160,Bronze,2022-12-21,True
+CA2A2A469,Breanna,Hayden,wthompson@example.com,1260.3850,Female,1947-08-05,Woodside,Queensland,Australia,2969,Silver,2025-06-24,True
+C91AC00A4,Emily,Cox,carlosrusso@example.org,07.1512.1084,Female,2002-06-11,Port Jenniferton,New South Wales,Australia,6488,Silver,2022-07-18,True
+CB8DBE964,Patrick,Perry,meyerjacqueline@example.net,+61.7.4202.3733,Male,1947-10-22,Lake Scott,Western Australia,Australia,2619,Gold,2025-10-02,False
+C5EF26892,Elizabeth,Mcintyre,longlinda@example.net,+61 465 231 596,Female,1998-10-31,Mooreburgh,Tasmania,Australia,2551,Bronze,2021-12-22,True
+C73C0F2FF,Christopher,Dennis,eric66@example.net,+61.461.983.630,Male,1964-11-08,Lake Alexander,South Australia,Australia,2380,Bronze,2023-07-26,True
+C3156B2E4,Michael,Elliott,jill35@example.net,0401 746 508,Male,2003-06-18,Port Andrewhaven,South Australia,Australia,7725,Silver,2023-12-01,True
+CA466C3DD,Jonathan,Ramirez,thomasrodney@example.com,2247.2340,Male,1949-08-26,East Hannah,Tasmania,Australia,2623,Silver,2021-12-20,True
+C1C503223,Nicholas,Garcia,fishermeagan@example.net,+61.411.748.291,Male,1974-05-16,Kellychester,New South Wales,Australia,2211,Bronze,2026-03-20,True
+C62C09908,Taylor,Morse,jonesjohn@example.com,+61.432.683.041,Female,2003-06-29,Port Allison,South Australia,Australia,2945,Bronze,2024-08-18,True
+C0BBF8320,Debra,Norton,kenneth90@example.com,0427 660 666,Female,1966-02-14,Reynoldsbury,Victoria,Australia,0924,Bronze,2023-06-23,True
+C8787A80B,Valerie,Gonzalez,florescynthia@example.net,07-2145-4047,Female,1951-06-22,Port Miguel,Victoria,Australia,2920,Gold,2024-12-17,True
+C260FCEEB,Jeremy,Martinez,derekcarter@example.com,08.5317.6216,Male,1979-04-24,Wrightborough,Tasmania,Australia,2981,Bronze,2022-12-01,True
+CD2C06D2B,Mary,Chase,mariaspencer@example.org,+61-8-8155-2511,Female,1951-05-21,Jessicaburgh,Australian Capital Territory,Australia,0223,Bronze,2026-05-08,True
+C19B079CB,Adam,Mann,ericadiaz@example.com,+61.7.0039.9226,Male,1949-03-06,St. Matthewland,Western Australia,Australia,2687,Bronze,2023-10-11,True
+CF103F5A8,Gina,Hawkins,meganguzman@example.com,+61-489-110-172,Female,1983-02-07,St. Robert,Australian Capital Territory,Australia,2660,Silver,2021-09-27,True
+C93B0704F,Rebecca,Welch,latasha07@example.org,+61.412.692.427,Female,1950-07-16,St. Carolview,South Australia,Australia,2619,Silver,2024-06-06,True
+CA1E258F3,Mark,Harrison,pbrown@example.org,+61.7.7415.2760,Male,1946-04-26,Deborahfort,Queensland,Australia,0206,Bronze,2022-09-02,True
+C10835514,Amanda,Martinez,ortizscott@example.com,(02).7265.6549,Female,1999-11-06,North Seanburgh,Northern Territory,Australia,2644,Silver,2023-03-03,False
+CB8B4301A,Antonio,York,crosscory@example.net,1031 3886,Male,1998-12-20,Mayhaven,Western Australia,Australia,1125,Silver,2024-09-22,True
+CB39CAA2B,Alan,Vargas,norman76@example.org,+61.413.082.724,Male,1993-09-28,Michelebury,Queensland,Australia,8739,Bronze,2023-05-10,True
+C75DCFE39,James,Leblanc,janice80@example.net,9782.7132,Male,1973-03-13,St. Kelly,Australian Capital Territory,Australia,2462,Bronze,2023-03-20,True
+C28908C2A,Matthew,Cordova,ynavarro@example.net,02 2592 1611,Male,1968-02-07,New Theresa,Queensland,Australia,2678,Silver,2022-11-17,True
+CBD7AA760,Megan,Rodriguez,aallen@example.org,+61 476 085 674,Female,1973-04-05,Susanside,Northern Territory,Australia,2653,Bronze,2025-09-16,True
+C5C2F6B15,Leah,Jackson,cthompson@example.net,+61.3.2888.9692,Female,1972-11-12,Millerton,Northern Territory,Australia,2666,Bronze,2025-08-14,True
+CE6137486,Jasmine,Jacobs,michaelthomas@example.net,+61.7.2932.3888,Female,1946-04-23,St. Michael,Northern Territory,Australia,2976,Bronze,2024-01-24,True
+C79EF23CC,Annette,Garza,cynthiaromero@example.org,61557937,Female,2001-11-29,New Alisonmouth,Western Australia,Australia,2925,Bronze,2025-07-13,False
+C6F2460F9,Julia,Gray,kevinburgess@example.net,0442.423.915,Female,1949-11-29,Lisamouth,Northern Territory,Australia,2933,Silver,2024-05-28,False
+C27263D0C,Jessica,Hull,ronnie55@example.org,+61.8.5493.2678,Female,1973-05-21,Lake Jesus,Queensland,Australia,5650,Platinum,2023-03-19,True
+CA063A8ED,Matthew,Watkins,benjamin17@example.com,+61-409-769-352,Male,1947-07-10,Stewartmouth,Western Australia,Australia,2958,Bronze,2023-08-25,True
+C1A3B6963,Sara,Hendricks,abender@example.com,08-8269-1771,Female,1973-03-06,Port Kennethbury,Northern Territory,Australia,2619,Bronze,2023-10-23,True
+C8A12ACD2,Rebecca,Shelton,katiewest@example.com,+61-8-8030-2748,Female,1960-08-27,Jamestown,Victoria,Australia,2972,Gold,2022-11-21,True
+C5A96EE2A,Stacy,Hayes,rubiojason@example.org,0838518246,Female,1955-09-27,North Shannonberg,Queensland,Australia,2614,Bronze,2021-09-27,True
+C4A4E2939,Melissa,Nichols,joshuamerritt@example.net,+61-417-041-214,Female,1990-01-21,St. Kelly,Australian Capital Territory,Australia,2684,Gold,2026-01-31,True
+C10F98BED,Kenneth,Davis,syoung@example.com,9727 8115,Male,2005-08-10,Lake Jeffrey,South Australia,Australia,0885,Bronze,2023-07-05,True
+C9B81F741,Robert,Nelson,sheamadison@example.net,02 6594 2544,Male,1960-02-27,Rioston,Victoria,Australia,0201,Bronze,2022-08-26,True
+CD4585D80,David,Day,jessicabrown@example.org,0410 573 354,Male,1948-07-16,West Stacey,Victoria,Australia,0274,Bronze,2026-07-13,True
+C9323A41B,Chris,Daniels,jacksonruben@example.org,(02)-4734-3759,Male,2003-11-10,Christinaborough,Victoria,Australia,2920,Bronze,2026-05-20,False
+C0A240C79,Lori,Ramirez,leestephen@example.net,9278.5638,Female,1981-11-02,Hardinfurt,Victoria,Australia,2946,Silver,2025-11-01,True
+C56BB662B,Jonathan,Marshall,ashley71@example.org,+61317892062,Male,1987-02-24,St. Samantha,Australian Capital Territory,Australia,3797,Silver,2022-07-05,False
+C706E7969,Amanda,Adkins,david31@example.org,+61312474131,Female,1997-12-09,Wolfemouth,South Australia,Australia,2676,Platinum,2026-06-09,True
+CAE9C733E,David,Padilla,howardmichael@example.com,8915-2781,Male,1984-03-17,St. Justinchester,Western Australia,Australia,2315,Bronze,2023-09-18,True
+C181F74C3,Joseph,Guzman,kimberly40@example.com,03 4652 6994,Male,1953-09-24,New Gregoryborough,Victoria,Australia,5606,Silver,2025-12-17,True
+C4678F3B7,Michael,Williams,mpowers@example.net,+61-7-1882-0061,Male,1945-08-07,Sullivanshire,South Australia,Australia,2924,Bronze,2025-05-30,True
+C1C54264E,Samantha,Blanchard,rogerjohnson@example.net,8113-5380,Female,1953-05-21,Kelseystad,Victoria,Australia,2350,Bronze,2025-07-16,True
+C6B633C38,Donald,Black,leah22@example.org,(02) 0488 4978,Male,1978-09-15,North Rebecca,Australian Capital Territory,Australia,2929,Silver,2026-03-27,True
+CC2919A33,Joseph,Chen,tcurry@example.com,0442 985 733,Male,1953-08-20,Anthonyview,Northern Territory,Australia,2977,Silver,2026-01-02,False
+CAA5E14E6,Kelly,Horton,brian54@example.com,0445.299.128,Female,1995-09-07,Tracyfurt,New South Wales,Australia,2676,Platinum,2023-09-14,True
+C2BEC0068,Jose,Perkins,tracey83@example.net,+61 496 635 750,Male,1965-11-04,Port Ericborough,New South Wales,Australia,2436,Bronze,2026-01-10,False
+CF21C617C,Joseph,Trevino,samuel85@example.net,0452 558 380,Male,1997-03-07,Martinezside,South Australia,Australia,7495,Bronze,2025-07-20,True
+C93C89699,Jamie,Smith,lindsayjohnson@example.org,08.8502.9767,Female,1951-02-04,Port Jason,Northern Territory,Australia,2991,Silver,2024-10-05,True
+C3DD33CE2,Christopher,Brown,usummers@example.org,+61.416.882.177,Male,2002-01-18,St. Barbaraville,Northern Territory,Australia,2955,Silver,2025-03-17,True
+C95AFCE2C,Jeffrey,Hale,graytina@example.org,0719208587,Male,1967-04-25,Melissahaven,Victoria,Australia,2660,Bronze,2022-08-10,True
+C674F20F6,Maria,Manning,kimjuarez@example.com,07-4157-5547,Female,1995-01-20,Brianshire,Victoria,Australia,2619,Bronze,2023-06-21,True
+CC93C8A59,Elizabeth,Wilson,keith44@example.net,7926 6600,Female,1988-04-15,Lake Debrafurt,Tasmania,Australia,2955,Bronze,2024-11-13,True
+CB752D908,Robert,Jackson,mathismark@example.com,+61742029831,Male,1993-02-18,Nelsonchester,New South Wales,Australia,2924,Bronze,2021-11-16,True
+C1BCDE566,Scott,Patterson,thomaskatherine@example.com,03-7644-5077,Male,1951-09-30,Heidiport,Victoria,Australia,6257,Bronze,2023-09-21,True
+C13FE4CB4,Joseph,Wilkinson,sara53@example.org,(08)-1703-7758,Male,2006-07-10,Russellfurt,South Australia,Australia,8449,Silver,2024-09-30,False
+C35E7C93B,Scott,Parker,andrew84@example.org,+61-3-6585-3384,Male,2003-03-10,Perezside,Northern Territory,Australia,0884,Bronze,2025-12-20,True
+CE24DFB19,Tammy,Ford,kimberly66@example.org,(03) 9753 0595,Female,2000-09-10,Schwartzland,South Australia,Australia,2724,Bronze,2024-05-04,True
+C690E08C5,Mike,Green,vandrews@example.com,+61.402.209.470,Male,1979-09-24,Ayalafort,Tasmania,Australia,0202,Bronze,2024-10-28,True
+CFAEE50C2,Debbie,Wise,cochranmatthew@example.org,08 2093 7323,Female,1992-03-06,St. Jonport,New South Wales,Australia,0921,Bronze,2024-09-10,True
+C4A1004D5,Manuel,Alvarez,mwilliams@example.com,(07) 9749 3591,Male,1978-01-11,Pruittshire,Western Australia,Australia,2605,Silver,2024-10-15,True
+C85E7F837,Nancy,Shields,pamela94@example.net,2584 9275,Female,1968-09-09,North Sarah,Victoria,Australia,2974,Platinum,2023-01-03,True
+CD181ADFE,Ashley,Flores,rtaylor@example.org,02 4604 9542,Female,1971-04-15,Ellenstad,Queensland,Australia,2644,Bronze,2025-08-01,True
+C29476314,Holly,Mathis,epace@example.com,07-1803-8212,Female,1980-12-27,South Jillview,Western Australia,Australia,8804,Bronze,2024-07-04,True
+C85479066,Laura,Thompson,pmcdonald@example.org,+61 424 250 625,Female,1992-06-23,Lisaberg,Queensland,Australia,2267,Bronze,2025-05-27,True
+CC4F0AEB8,Tina,Richards,mvargas@example.com,3864 8678,Female,1992-12-01,West Gary,Queensland,Australia,2629,Bronze,2023-09-03,True
+C65A7970B,Whitney,Moore,xjones@example.com,47906015,Female,1998-11-18,Tonyside,Tasmania,Australia,2962,Gold,2023-09-13,True
+C643F7B4C,Destiny,Esparza,grantwilliam@example.org,0388096801,Female,1979-10-03,Ryanfort,Western Australia,Australia,2610,Bronze,2025-05-21,True
+C20C2B55F,Troy,Burgess,ndiaz@example.org,+61 8 1068 3572,Male,1977-02-08,Manuelton,Victoria,Australia,0895,Silver,2023-10-08,True
+CC19A1EFD,Emily,Mckinney,yanderson@example.com,0412-132-355,Female,2006-10-24,New James,Western Australia,Australia,2988,Bronze,2022-09-22,True
+CFEEC0D3E,Keith,Morgan,dgeorge@example.com,0494 919 394,Male,1987-04-03,Williamfort,Queensland,Australia,2340,Silver,2023-11-05,True
+C911687E2,Katie,Bell,udiaz@example.net,0458-677-975,Female,2001-12-22,St. Taylorland,Queensland,Australia,2849,Bronze,2022-10-23,True
+C35E680B1,Tyler,Cooper,zball@example.com,0861806771,Male,1962-06-20,Port Robert,Australian Capital Territory,Australia,2123,Bronze,2022-12-08,True
+CD06CF41E,Caitlyn,Arnold,garrettlaurie@example.org,+61.427.921.946,Female,1978-03-31,Lake Joshua,Australian Capital Territory,Australia,2924,Silver,2021-09-30,True
+CDBCFB56E,Wendy,Anderson,john84@example.org,(03) 5842 4774,Female,2003-04-12,North Meganburgh,Australian Capital Territory,Australia,9458,Silver,2026-07-07,True
+C474A70B1,Rebecca,Chen,vbarrett@example.com,+61 2 9069 2200,Female,1991-03-01,Christinachester,Victoria,Australia,9501,Silver,2025-12-16,True
+C6248A4BE,Theodore,Hoffman,tammycarroll@example.org,(02)-1592-5419,Male,1948-03-22,South Ricardo,New South Wales,Australia,2665,Gold,2023-10-01,False
+C3727B92C,Sandra,Martin,xmata@example.org,02-9664-3820,Female,1963-11-13,Williamsport,South Australia,Australia,2926,Bronze,2023-01-29,True
+CAFF4C091,Jessica,Drake,nbenson@example.org,+61-8-1533-8602,Female,1979-12-13,St. Susan,Western Australia,Australia,4925,Bronze,2024-09-17,True
+CB6363B33,Jose,West,donnachristian@example.com,+61.2.9902.0727,Male,1966-03-26,Port Thomaston,Australian Capital Territory,Australia,1949,Gold,2023-09-24,True
+C4F2BB60E,Allison,Howe,campbellcynthia@example.com,0448 245 142,Female,1996-08-06,Lake Samuel,Victoria,Australia,2776,Silver,2022-11-28,False
+C0143CDC5,Anthony,Sanchez,kristinmcdonald@example.org,07 6971 2000,Male,1975-05-21,Schwartzbury,New South Wales,Australia,2770,Silver,2026-06-30,True
+CE5A850D7,Kimberly,Tran,nicholasmorrison@example.com,(02)-9949-4618,Female,1966-10-17,West Justin,South Australia,Australia,2690,Bronze,2025-06-25,True
+CF1F8A719,John,Williams,margaretfox@example.org,1647-5772,Male,1989-03-08,Gaineston,Queensland,Australia,0984,Silver,2025-11-28,True
+C2EEF1306,Brandon,Thompson,fieldsmarc@example.net,0428 598 559,Male,1993-12-26,West Valerie,South Australia,Australia,2722,Gold,2021-09-04,True
+C6D1ED7CC,Janet,Ramsey,kcase@example.com,0765152167,Female,1951-09-04,North Michellefurt,Tasmania,Australia,2647,Bronze,2023-02-28,True
+C0FC43EB5,Nancy,Brown,gregory66@example.org,(02)19118873,Female,1967-07-06,East Erinmouth,Victoria,Australia,2944,Bronze,2023-01-01,True
+C3E5EEAEB,Alyssa,Clayton,james87@example.net,+61 2 0011 5190,Female,2001-12-10,Stevenmouth,Victoria,Australia,2678,Bronze,2022-04-02,True
+CF98EFB4D,Tyler,Cantrell,smithwanda@example.net,07 3355 9786,Male,1995-09-21,Patriciachester,Northern Territory,Australia,9014,Gold,2025-01-12,True
+C1E2B044F,Robert,Anderson,srobinson@example.net,2184-1825,Male,1998-11-26,Tylermouth,Northern Territory,Australia,2951,Bronze,2023-12-09,True
+C5D013936,Jessica,Anderson,ygarrett@example.com,+61 410 313 662,Female,1972-12-11,Valencialand,South Australia,Australia,2914,Bronze,2026-03-26,True
+CCBC45DC6,Scott,Morris,paynepenny@example.com,+61 8 5340 6645,Male,1984-08-11,Smithtown,New South Wales,Australia,5412,Bronze,2022-01-27,True
+C95BDAC3B,Courtney,Coleman,changapril@example.org,+61751543153,Female,1966-05-14,St. Robinfort,Western Australia,Australia,2655,Gold,2023-01-23,True
+C8B3C5040,Shelley,Hanson,martinwilson@example.com,(08).9498.6812,Female,1955-08-23,Jillberg,Australian Capital Territory,Australia,2352,Bronze,2024-01-30,True
+C8E6A933C,Stephanie,Chavez,tonygonzalez@example.org,+61-7-5387-2199,Female,2004-07-16,Lake Karenview,Victoria,Australia,2675,Bronze,2022-04-19,True
+CDD0BD6B7,Todd,Atkinson,whitecurtis@example.com,+61-3-4148-1320,Male,1999-10-20,New Michelle,Western Australia,Australia,2678,Silver,2025-12-26,True
+CB1A55C5F,Robert,Graves,cathy55@example.com,+61-463-129-733,Male,1986-07-03,Cordovabury,Australian Capital Territory,Australia,2648,Bronze,2026-01-06,True
+C626D4A62,Patricia,Zhang,bobbymiller@example.org,(07).8265.6617,Female,2001-01-24,East Kaitlynfort,Tasmania,Australia,2945,Bronze,2023-02-16,True
+CB944F0D3,Danielle,Dunn,omartinez@example.com,+61 469 264 743,Female,2006-06-16,Port Joann,Tasmania,Australia,0881,Bronze,2023-05-04,True
+CAFC58B85,Brandon,Lee,christian53@example.com,(08)-3237-4602,Male,1968-08-18,South Johnfurt,New South Wales,Australia,2916,Bronze,2022-12-04,True
+CA8918EBC,Crystal,Walsh,lindsey06@example.com,03 5387 5212,Female,1995-04-06,South Sarah,South Australia,Australia,8539,Bronze,2022-11-10,True
+CFECF8AF1,Anne,Hicks,kevinhammond@example.net,05625877,Female,1993-06-19,Joannchester,Northern Territory,Australia,2610,Bronze,2022-06-16,True
+C1F304755,James,Garcia,travis93@example.org,08-2879-0404,Male,1963-01-23,Mayview,Tasmania,Australia,2636,Gold,2025-02-28,True
+C00CA3FE6,Charles,Aguilar,jonathan48@example.com,68620827,Male,1978-01-12,Lake Cheyenne,Tasmania,Australia,2661,Bronze,2024-03-06,True
+C7610AB9F,Benjamin,Sosa,cooperbrian@example.com,0441.593.118,Male,2007-03-10,Karafurt,South Australia,Australia,2868,Gold,2026-04-01,False
+C45B36A19,Cheryl,Johnson,browland@example.net,+61-8-4599-9529,Female,1989-03-28,Richardsonton,Queensland,Australia,2685,Bronze,2025-04-01,False
+CEC494CA8,Michael,Schneider,phillipsmark@example.net,0477.456.480,Male,1973-05-20,North Christine,Western Australia,Australia,2663,Gold,2026-03-08,True
+C61A1B94B,Ana,Collins,mkim@example.com,+61 8 9275 4703,Female,1948-07-31,East Dianehaven,Tasmania,Australia,2894,Gold,2021-11-07,True
+C7BA8F298,Joseph,Meadows,jasonsalas@example.com,08.4236.6784,Male,1953-01-01,Jonesview,New South Wales,Australia,2650,Bronze,2024-10-09,True
+C46BCC232,Luis,Nunez,amylong@example.org,+61745595778,Male,1990-10-07,Michaelmouth,Victoria,Australia,0810,Bronze,2023-03-16,True
+C0B59A4FE,Laura,Perez,lyonsjanet@example.com,+61.2.1790.1549,Female,1949-01-09,Jimmyhaven,South Australia,Australia,2685,Bronze,2022-06-11,True
+C4DCF7329,Julie,Rhodes,chuber@example.org,(02)-9565-9267,Female,1982-09-15,Lindamouth,Australian Capital Territory,Australia,2651,Bronze,2024-03-02,True
+CAC2A2293,Deborah,Carson,vsmith@example.net,+61-454-420-041,Female,1987-10-15,Frankburgh,Australian Capital Territory,Australia,2674,Bronze,2022-11-10,True
+CAF943944,Jennifer,Harrison,nharris@example.org,03 3359 6439,Female,1957-05-25,New Rodneystad,Western Australia,Australia,0902,Bronze,2024-01-03,True
+C4C1B79CC,Laura,Randall,palmermark@example.net,+61.2.1446.7925,Female,1963-03-16,North Jacob,Queensland,Australia,2905,Bronze,2023-03-05,True
+CEB78119F,Sara,Porter,annette32@example.com,0861419628,Female,1977-03-23,Amybury,Victoria,Australia,2928,Silver,2026-01-19,True
+CBBC1334A,Courtney,Kelley,david58@example.net,+61.415.439.400,Female,1976-07-01,Brianborough,Australian Capital Territory,Australia,2940,Bronze,2026-07-13,True
+CA609FD5B,Tammie,Koch,mannjames@example.org,+61.411.800.004,Female,1947-03-30,New Jacobtown,Western Australia,Australia,2552,Bronze,2025-01-13,True
+CEAECFCD8,Brent,Garcia,shirleyvega@example.com,0496.138.274,Male,1977-10-09,Erinland,Northern Territory,Australia,2658,Silver,2021-11-03,True
+C70B5F177,Suzanne,Brown,eric30@example.net,+61273332861,Female,1954-04-22,North Tammybury,Victoria,Australia,2626,Bronze,2022-03-17,False
+C5EB5DADA,Sally,Hill,youngrick@example.com,9243.4094,Female,1999-11-18,East Melissa,Tasmania,Australia,2407,Silver,2025-06-18,True
+C00D5066B,Rebecca,Garcia,dcantrell@example.com,+61 8 7667 6654,Female,1983-01-29,Davisport,Queensland,Australia,2606,Bronze,2022-08-12,True
+CED38F13E,Victoria,Sanchez,murphychelsea@example.org,(07) 7828 4753,Female,1949-12-28,Maryhaven,South Australia,Australia,2661,Silver,2024-08-29,True
+C8EA862E4,Jaime,West,jcox@example.net,5777.1737,Female,1962-12-10,Christensenbury,South Australia,Australia,2921,Silver,2023-02-02,True
+CF8229B58,Jennifer,Barnett,christopher78@example.com,(02).6450.0882,Female,1954-06-16,Kellytown,Victoria,Australia,3658,Bronze,2024-02-27,True
+C54F09F03,Krista,Williams,smithcindy@example.org,+61 2 7536 1301,Female,1990-02-06,Johnathanhaven,New South Wales,Australia,2617,Gold,2021-09-08,True
+CFB71EC10,John,Cameron,sierrataylor@example.org,6793-1910,Male,1954-02-16,Potterport,Queensland,Australia,2778,Bronze,2021-12-18,True
+CF40BFE00,Joseph,Clark,robertmcknight@example.org,+61-3-6249-1552,Male,1998-10-06,Lake Veronicafurt,Tasmania,Australia,6259,Silver,2024-05-03,False
+CADF537BA,Sherry,Rocha,ryan64@example.com,0491.452.991,Female,1991-08-20,Billystad,South Australia,Australia,2969,Bronze,2024-10-06,True
+CB43F2966,Whitney,Wright,perkinssamantha@example.net,1732.4603,Female,1996-02-13,New Isaac,Tasmania,Australia,2793,Silver,2022-02-19,True
+CF42FBC9B,Kenneth,Martin,barrymoore@example.net,1026.3557,Male,1967-05-23,Lake Stephaniestad,Australian Capital Territory,Australia,2987,Bronze,2026-05-29,True
+CBF172BC4,Maxwell,Clark,rebeccarodriguez@example.com,0446.939.226,Male,1987-06-14,Lake Mario,Australian Capital Territory,Australia,5513,Bronze,2024-08-19,True
+C92EB834C,Christian,Schmitt,rileyholly@example.org,+61.498.960.048,Male,1978-12-15,Richardbury,Tasmania,Australia,2914,Bronze,2022-12-06,True
+C8E824BE6,Latasha,Spencer,brian86@example.org,03-3208-1630,Female,2006-04-01,Jimfurt,New South Wales,Australia,2239,Bronze,2025-08-26,True
+CBE696F5C,Jason,Thompson,jonesmaria@example.com,0434-359-850,Male,1951-03-10,South Ann,New South Wales,Australia,2632,Bronze,2023-01-06,True
+CB3BBBAF9,Jordan,Banks,kylesmith@example.net,(03)90359013,Female,1973-06-01,St. Nataliechester,Australian Capital Territory,Australia,6104,Silver,2023-01-23,True
+C8C9069AB,Sarah,Anderson,traviscarson@example.org,+61.419.458.678,Female,1961-01-30,East Katieside,New South Wales,Australia,5077,Gold,2022-02-10,True
+CC52DDF70,Kristin,Gregory,lisabernard@example.com,+61-7-5395-8017,Female,2000-06-04,Clarkfurt,Queensland,Australia,2958,Bronze,2021-08-16,True
+C46C59801,Stephen,Lewis,dcopeland@example.org,82935458,Male,1965-08-15,Stuartport,Queensland,Australia,2619,Silver,2023-09-07,True
+CB431CBBF,Victor,Schneider,waltersbrian@example.net,+61-448-412-166,Male,1995-11-01,New Michealshire,Victoria,Australia,2676,Silver,2026-04-27,True
+C928E6232,Diana,Gibson,adamstodd@example.net,7645 5394,Female,1960-02-02,Martinton,New South Wales,Australia,2954,Bronze,2021-10-08,True
+C59BD32F5,Matthew,Hardy,xdavis@example.com,+61-451-637-571,Male,1980-03-08,North Michaelhaven,Australian Capital Territory,Australia,2062,Platinum,2023-05-12,True
+C03F48D2A,Alex,Miranda,taylorbrooke@example.com,(07)94715241,Male,2005-04-29,East Julieville,South Australia,Australia,2624,Bronze,2023-11-02,True
+C9D14E35C,Jessica,Ali,tingram@example.net,0844070133,Female,2007-04-22,Coryborough,Victoria,Australia,2783,Bronze,2022-05-03,True
+CF3135680,Erik,Guerrero,heatherduran@example.net,+61-3-3643-6948,Male,1999-10-26,South Kristyport,Australian Capital Territory,Australia,2966,Bronze,2025-10-16,False
+CD2BAC12A,Kevin,Mcconnell,hestersherry@example.com,0489.199.395,Male,1990-07-01,Lake Michaelmouth,Queensland,Australia,2732,Silver,2025-08-12,True
+CA0B22C9F,Raymond,Decker,stuartwashington@example.com,07-3351-1255,Male,1970-11-26,North Elizabeth,Tasmania,Australia,2845,Gold,2025-04-01,True
+C4E8FDA44,Arthur,Keith,cantrellcourtney@example.com,+61 438 656 452,Male,1967-05-20,West Tim,Western Australia,Australia,2997,Bronze,2024-08-31,True
+C59C47351,Jennifer,Weaver,crosskyle@example.net,64923840,Female,1973-11-04,South Shanetown,Tasmania,Australia,2637,Silver,2026-05-31,True
+C3FCAB8DF,Alice,Rodriguez,jkennedy@example.com,+61.2.2699.0196,Female,2004-08-28,Staffordborough,Queensland,Australia,3178,Bronze,2025-07-02,False
+CCF2A54BC,Michael,Foster,jonathan38@example.net,3982-9491,Male,1971-10-04,New Thomasstad,South Australia,Australia,2862,Silver,2026-02-20,True
+C88E64719,Elaine,Moore,sanchezmadison@example.com,8916.8408,Female,1981-12-29,Port Amanda,Victoria,Australia,6540,Silver,2024-10-16,True
+C895DD636,Shelly,Bennett,jacob49@example.net,(02).7851.8612,Female,1990-01-30,Pamelafort,New South Wales,Australia,2187,Silver,2025-05-18,True
+C28E53FDF,William,Blankenship,jgriffith@example.com,0499.210.478,Male,1966-08-16,Torresshire,New South Wales,Australia,3270,Bronze,2022-09-15,True
+C5594A5FA,Randall,Greer,diane89@example.com,(07)-8850-6056,Male,2000-02-16,West Ashley,Tasmania,Australia,2690,Bronze,2026-04-05,True
+C3D0191A9,Caroline,Thomas,kimberly33@example.org,0486 975 416,Female,1953-06-15,St. Joseph,South Australia,Australia,2397,Bronze,2024-04-05,True
+C4C9C348D,Travis,Fischer,nathandiaz@example.net,0496.564.902,Male,2005-08-17,Jasonstad,South Australia,Australia,2699,Bronze,2022-06-19,True
+C8066F03D,Cassandra,Knight,hernandezpamela@example.org,51627242,Female,1974-08-31,Port Taylorside,Western Australia,Australia,2920,Bronze,2022-04-14,True
+CAB073220,Danielle,Juarez,rnewman@example.com,03 4553 9559,Female,1954-11-09,Mariofort,Western Australia,Australia,2776,Gold,2025-02-07,False
+C932C4D90,Tamara,Medina,austinsmith@example.com,0472.973.190,Female,1970-03-09,North Thomasberg,Victoria,Australia,2678,Bronze,2025-04-21,True
+C65C84D09,Daniel,Johnson,beckjessica@example.net,+61 7 0394 8142,Male,1948-12-18,West Willie,Tasmania,Australia,7806,Bronze,2024-01-24,True
+CADA51297,Dean,Davis,hharris@example.com,2258.3014,Male,1969-10-07,Lake Daleberg,Northern Territory,Australia,9957,Bronze,2026-02-15,True
+CA03334D6,Roberto,Powell,michaelgross@example.com,+61.7.1809.7149,Male,1974-06-27,West Jennifer,Northern Territory,Australia,2999,Bronze,2024-03-03,True
+CE8A6342E,Audrey,Smith,dclark@example.org,+61.3.2571.4965,Female,1949-12-18,St. Georgeburgh,New South Wales,Australia,2385,Gold,2023-06-07,True
+C1811CA4D,John,Hernandez,clarkmitchell@example.net,+61.488.575.940,Male,1998-11-01,New Kellyfurt,Western Australia,Australia,1477,Bronze,2024-08-10,True
+C886EB8A4,Tracey,Allen,justin06@example.com,+61-3-9999-2809,Female,1981-10-28,Victoriafort,Australian Capital Territory,Australia,7551,Silver,2026-06-01,True
+C63F9238A,Kelli,Contreras,kmorales@example.org,+61.2.0505.8367,Female,1967-03-16,Shannonhaven,Victoria,Australia,2299,Silver,2021-10-29,True
+CFF0C7F21,Kenneth,Mcdaniel,qbarton@example.net,0233305890,Male,1973-06-13,Deniseview,Queensland,Australia,2798,Silver,2024-10-22,True
+C08267D05,Christy,Miller,patrickmiller@example.com,03.4472.1913,Female,1994-04-16,East Shelley,Northern Territory,Australia,2689,Silver,2021-09-16,True
+C936BCC29,Phillip,Woods,wdaniels@example.net,6096-7435,Male,1995-02-25,Edwardston,Victoria,Australia,6264,Bronze,2021-11-24,True
+C48802FCD,Craig,Adams,ihuff@example.net,+61.446.469.711,Male,2005-03-05,Armstrongfurt,Queensland,Australia,6233,Silver,2022-11-25,True
+C8F14D3C3,Savannah,Duncan,michael68@example.org,+61-3-0276-9676,Female,1994-04-04,Port Andrew,Tasmania,Australia,2996,Bronze,2023-01-12,True
+C1170C2E0,Jeffrey,Wells,amynavarro@example.net,0469.316.618,Male,1969-08-25,Thomasmouth,Northern Territory,Australia,2917,Silver,2022-07-24,True
+C37E454B6,Veronica,Contreras,pgomez@example.net,07.7880.9125,Female,1988-03-21,Hoffmanview,Tasmania,Australia,0964,Bronze,2025-03-15,True
+C5C1ECE7B,Kelly,Dean,barrondana@example.net,+61-409-725-205,Female,1982-10-18,Yorkhaven,New South Wales,Australia,2441,Bronze,2026-05-11,True
+CD1C10C7B,Andrew,Brandt,eric49@example.org,(07).9006.2005,Male,1960-10-23,Ericburgh,Queensland,Australia,2980,Bronze,2025-02-07,True
+C340B6F56,Andrew,Larson,portertroy@example.net,+61391280840,Male,1968-03-20,Port Randall,New South Wales,Australia,2619,Bronze,2023-11-23,True
+C4A6FF3CA,Charles,Austin,powerscory@example.com,0475.539.829,Male,1969-04-27,Cynthiashire,Western Australia,Australia,1548,Gold,2023-10-28,True
+C5500E214,Kevin,Sullivan,john94@example.org,+61-8-3618-7560,Male,1952-07-10,Fordton,Northern Territory,Australia,2933,Silver,2022-08-09,False
+CC29BF9BC,Erin,Bryant,mark36@example.org,7546-4013,Female,1955-10-25,Carpenterton,Queensland,Australia,2682,Bronze,2022-10-31,True
+CA39A2128,Carol,Hunter,gonzalezclaudia@example.net,0467-419-999,Female,1968-03-09,St. Judy,New South Wales,Australia,2912,Bronze,2025-02-11,True
+C3CBD74BC,Brian,Williams,contrerashunter@example.net,+61.7.1447.4489,Male,1991-11-15,Johnsonshire,South Australia,Australia,2343,Bronze,2023-04-23,True
+CD130FA0D,Andre,Hanna,jonathan08@example.org,+61838564138,Male,2003-04-18,Joehaven,Queensland,Australia,2912,Silver,2024-06-29,False
+C68F3F909,Brenda,Valdez,sarahanderson@example.com,+61 3 8657 1619,Female,1990-05-10,Billmouth,Victoria,Australia,8772,Silver,2023-01-24,True
+CE181AC20,Wendy,Stein,jenna74@example.net,0438-248-163,Female,1950-12-27,Allenhaven,Western Australia,Australia,2932,Bronze,2023-08-16,True
+C8AC68F32,Jacob,Silva,rdiaz@example.net,+61 3 3855 5950,Male,1961-12-20,New Williamhaven,Northern Territory,Australia,2994,Bronze,2023-02-25,True
+C0812A15A,Victor,Luna,julia88@example.org,+61 447 021 346,Male,2003-12-07,East Marvinport,Victoria,Australia,2952,Bronze,2025-04-11,True
+CD6FD3ECA,Chase,Stevens,peterharris@example.com,(03).3903.1655,Male,1947-04-27,Port Johnshire,Northern Territory,Australia,2619,Bronze,2024-12-19,True
+CE5DC21D4,Veronica,Malone,danieljacqueline@example.org,(08)90820866,Female,1972-05-04,Alicemouth,Queensland,Australia,5850,Bronze,2021-09-15,True
+C8C46ADC5,Kellie,Ibarra,wgarza@example.net,(07)85847614,Female,2007-04-22,West Erica,Australian Capital Territory,Australia,8441,Bronze,2022-12-21,False
+C26F663E5,Sandra,Ochoa,zmadden@example.com,0463 342 921,Female,2000-05-24,Matthewhaven,Northern Territory,Australia,2062,Bronze,2023-05-20,True
+CDECEC7F2,Krista,Ramirez,elizabeth84@example.net,+61810421796,Female,1987-07-31,Whitefort,Tasmania,Australia,2242,Silver,2024-01-29,True
+C0261F1EB,Scott,Stanley,gregory71@example.org,(02)-4367-6809,Male,1961-07-17,Lake Michael,South Australia,Australia,2920,Platinum,2024-12-30,True
+C9900118F,Aaron,Brown,michael26@example.com,+61 3 1392 3484,Male,2005-12-27,South Linda,South Australia,Australia,2911,Silver,2022-11-16,True
+CF8C39ED2,Amy,Gomez,anthonydavenport@example.net,+61.443.988.831,Female,1971-02-25,Rodneychester,Tasmania,Australia,9908,Gold,2024-04-08,True
+C72B0BCDE,Daniel,Cox,joseph78@example.net,02-7181-1484,Male,1965-11-21,East Michael,Northern Territory,Australia,2048,Bronze,2025-02-21,True
+C5A770A60,Kevin,Kelley,zturner@example.org,+61.433.926.124,Male,1982-02-17,Martinezshire,Australian Capital Territory,Australia,2921,Bronze,2024-09-17,True
+C5E377084,Tina,Brooks,wrightmatthew@example.net,(07)-7015-2330,Female,1979-11-25,West Williamburgh,South Australia,Australia,2619,Bronze,2022-04-26,True
+CB685F33C,Tracy,Burke,earlwilson@example.org,0480-108-569,Male,1956-11-22,Wilsonhaven,Victoria,Australia,2906,Gold,2026-06-20,True
+CFDF4431C,Chad,Russell,kelseyyork@example.com,07-5275-4659,Male,1971-01-28,Coxfurt,South Australia,Australia,2920,Bronze,2025-06-19,True
+CF80449AD,Patrick,Ramsey,pcraig@example.com,4179.2941,Male,2001-07-14,West Jennifer,Western Australia,Australia,2953,Gold,2026-03-23,True
+C4E1B302A,Sherry,Lam,collinsleslie@example.org,+61397024041,Female,1958-01-11,East Jamesberg,South Australia,Australia,2994,Bronze,2022-09-16,True
+C5100E231,Tonya,Leon,webstertaylor@example.net,+61.3.9630.9208,Female,1973-09-02,Lake Michael,Queensland,Australia,7306,Gold,2025-03-27,True
+C3168994B,Alan,Flowers,vprice@example.org,82828982,Male,2007-04-15,Lake Kelly,Northern Territory,Australia,2673,Silver,2023-01-24,True
+C9D39ED2C,Patricia,Miller,anasullivan@example.org,07529033,Female,1993-12-18,Sethview,Western Australia,Australia,2369,Bronze,2023-01-17,True
+C5CE39CA4,Justin,Erickson,lmartinez@example.net,+61879513339,Male,1967-09-07,Lake Kathleen,New South Wales,Australia,2783,Silver,2021-08-14,True
+CC62AD284,Diane,Stout,teresa10@example.net,0403.351.074,Female,2004-09-04,Foxland,Australian Capital Territory,Australia,2696,Bronze,2024-04-03,True
+C7383902E,Courtney,Padilla,fhuffman@example.net,0488-856-863,Female,1999-01-18,South Rachaelchester,Victoria,Australia,2079,Gold,2024-11-04,True
+CBC45DA0C,William,Mason,ericyork@example.net,6161.5908,Male,1969-03-28,New Destinytown,Northern Territory,Australia,2725,Platinum,2022-08-03,True
+C461AE058,Melissa,Johnson,aquinn@example.net,+61-2-5581-1508,Female,1967-10-25,Clarkborough,South Australia,Australia,3999,Silver,2025-03-06,False
+CEF5BCED9,Ian,Cruz,thomaslewis@example.org,+61 411 441 417,Male,1967-06-22,New Tonya,Tasmania,Australia,2662,Bronze,2022-03-30,True
+CC40034C8,Kent,Ellison,jacqueline31@example.com,46644537,Male,1951-07-14,Port Cynthia,Tasmania,Australia,2739,Bronze,2024-08-02,False
+C4A888E1A,Clayton,Ellis,dorothy55@example.com,(07)-0612-2264,Male,1980-12-24,St. Kevinburgh,South Australia,Australia,2688,Gold,2023-07-12,True
+C6778D7B5,Ryan,Smith,hollycross@example.com,07 6893 9261,Male,2005-12-28,Tapiaview,Victoria,Australia,2952,Bronze,2022-03-25,True
+C0DC80039,Nicole,Clay,katrina24@example.com,8527 7381,Female,2007-05-28,Port Carolynside,Australian Capital Territory,Australia,2235,Bronze,2021-11-03,True
+C44A7F022,Jamie,Larson,johncastillo@example.org,34620466,Female,1995-03-18,Baxterview,Australian Capital Territory,Australia,5707,Bronze,2022-05-07,True
+C439CBDEA,Misty,Meyers,hansendavid@example.net,03-1605-9396,Female,1955-10-17,Smithmouth,Northern Territory,Australia,2968,Bronze,2026-02-12,True
+C97612D0A,Emily,Eaton,margaretmorales@example.com,0293654635,Female,1969-09-01,Evanshaven,Northern Territory,Australia,2951,Silver,2024-09-02,True
+C04DB7EF6,Richard,Johnson,matthew52@example.org,+61 450 463 097,Male,1956-12-27,Seanchester,Tasmania,Australia,2780,Silver,2025-07-19,True
+C576DF36D,Erika,Alexander,sharpjulie@example.net,0482 261 071,Female,1964-06-08,Copelandmouth,South Australia,Australia,2660,Gold,2023-04-07,True
+C154E9FE0,Wendy,Harris,melissahester@example.com,0864-2665,Female,1955-01-06,Brownfort,Northern Territory,Australia,0872,Silver,2022-11-24,True
+C98DC03DD,Ruth,Fowler,zrowe@example.com,(08) 4443 2837,Female,1983-11-19,Granttown,Queensland,Australia,2220,Bronze,2025-08-23,True
+C105017F6,Matthew,Francis,brookecarter@example.org,07.4075.2885,Male,1953-12-31,West Karitown,Tasmania,Australia,2988,Bronze,2022-04-14,True
+C16F63088,Michael,Miller,nberry@example.net,+61 2 0881 9882,Male,1971-07-18,Kathrynbury,New South Wales,Australia,4325,Gold,2024-10-08,True
+CABD0197A,Jennifer,Byrd,gregorymartinez@example.com,+61-415-593-198,Female,1950-03-06,Thomashaven,Australian Capital Territory,Australia,3732,Bronze,2023-10-26,True
+CC7255528,Patricia,Miller,jfoster@example.net,0415-483-739,Female,1968-08-24,New Lisa,Victoria,Australia,0294,Gold,2026-02-10,False
+C4B1C11BC,Joshua,Snow,coreyjackson@example.org,1369 1785,Male,1967-10-09,Stokesport,Australian Capital Territory,Australia,2228,Platinum,2021-11-18,False
+C0E0FBF06,Zachary,Woodard,olsenpatrick@example.org,+61894018989,Male,1989-09-08,North Courtneymouth,Queensland,Australia,6776,Bronze,2023-11-02,True
+CCC1BEEE5,Jeremy,Weber,bgriffin@example.net,+61.407.550.882,Male,1947-03-03,Port Robertport,Queensland,Australia,2071,Silver,2022-10-05,True
+CD0F532AC,Melinda,Lewis,annettecastillo@example.net,03-0181-1935,Female,2000-06-07,New Sandra,New South Wales,Australia,2640,Bronze,2022-01-26,True
+CDD7D19E1,Charles,Anderson,amanda19@example.org,0431.707.558,Male,1992-11-16,West Caitlinmouth,Western Australia,Australia,2913,Bronze,2022-10-26,True
+C5DFBDACC,James,Bush,uhughes@example.com,0404.881.931,Male,1994-02-12,Robinbury,Australian Capital Territory,Australia,2644,Bronze,2021-11-14,True
+C92E2D1B2,James,Herrera,boothjohn@example.com,(02)67327508,Male,2002-08-22,Jonesshire,Australian Capital Territory,Australia,2621,Silver,2025-11-02,True
+C58BF83DE,Gabriel,Boyd,clarkcynthia@example.net,+61259841123,Male,1971-11-17,Kennedytown,New South Wales,Australia,2649,Bronze,2025-12-28,True
+CF0A6A7B5,Brian,Caldwell,akane@example.com,0486 427 620,Male,1964-02-23,New Jamestown,Northern Territory,Australia,7528,Silver,2024-07-04,True
+C21EF105B,James,Juarez,lisaglover@example.net,07.7097.0925,Male,1960-08-19,Williamsberg,Queensland,Australia,2916,Bronze,2021-11-15,True
+C68E2B1C1,Gabriela,Russell,johnsonmichele@example.org,3130-8824,Female,2000-02-01,North Frank,South Australia,Australia,5999,Silver,2022-01-06,True
+C7E454B53,Emily,Cox,vmiller@example.com,(08)-3377-5508,Female,1950-01-14,Wattsside,Tasmania,Australia,2575,Silver,2021-09-19,True
+CAD8563C1,Alison,Curry,hunterturner@example.com,+61887642004,Female,1945-11-15,Lake Krystal,Western Australia,Australia,2911,Silver,2025-08-25,True
+C65A52DA2,Audrey,Gibson,utran@example.org,(02).0260.5763,Female,1995-04-16,New Charles,Northern Territory,Australia,2619,Bronze,2024-07-19,True
+C66D1A6EC,Thomas,Singh,regina27@example.org,+61-471-624-702,Male,1967-04-17,St. Christinaland,Australian Capital Territory,Australia,2692,Silver,2022-09-17,True
+CAAFCB9C1,Gregory,Snow,jonesheather@example.org,(08) 6311 9566,Male,1971-08-17,Jenniferstad,Australian Capital Territory,Australia,2646,Platinum,2024-07-02,True
+C648F2632,Beth,Garcia,hesterpatricia@example.net,1057.2397,Female,1987-08-28,New Carolmouth,Tasmania,Australia,4126,Bronze,2023-12-06,True
+C5BBB5BC6,Cynthia,Yang,chavezsamantha@example.org,25918330,Female,1981-04-18,Mendozaberg,South Australia,Australia,2928,Gold,2025-07-15,True
+CACC03C49,John,Davenport,veronicaswanson@example.net,08.9920.3443,Male,1999-02-09,Mathisshire,Tasmania,Australia,2619,Bronze,2025-12-09,False
+CE61C9D65,Brittany,Johnson,deancatherine@example.net,56352148,Female,1953-08-03,West Tony,Victoria,Australia,2620,Gold,2023-10-30,True
+C4D1487AF,Rita,Kelly,burnscatherine@example.net,+61 3 4333 2291,Female,2003-02-11,Jasonland,Tasmania,Australia,2645,Bronze,2023-03-12,True
+CBD08F55E,Andrea,Hanson,fuentesmatthew@example.net,1223 2222,Female,1986-06-29,Hintonbury,Northern Territory,Australia,2034,Gold,2024-04-15,True
+C1D7A122F,Mark,Perez,ashley24@example.com,+61 7 3084 7194,Male,1973-02-04,South Austinhaven,New South Wales,Australia,8825,Silver,2025-08-09,True
+CDF1EC719,James,Campos,vlamb@example.net,54401776,Male,1988-12-18,Port Julieburgh,Northern Territory,Australia,2625,Bronze,2025-12-25,True
+CADDD87A8,Larry,Sanchez,johnsonryan@example.org,6668.4529,Male,2006-09-23,Port Kristinhaven,South Australia,Australia,2960,Gold,2022-02-22,False
+C4DE31A19,Harold,Snow,williambates@example.net,+61759664152,Male,1971-07-03,Lake Charlesborough,Western Australia,Australia,2976,Bronze,2022-06-03,True
+C3C29FC80,Joseph,Lynch,aaron79@example.com,(03)-0035-9476,Male,1992-04-04,Davidshire,Tasmania,Australia,2920,Silver,2025-04-16,True
+C61A5A4D8,Shannon,Reyes,theresa06@example.com,02.9806.1217,Female,1963-07-23,Nathanielstad,Western Australia,Australia,2461,Silver,2023-07-13,True
+CDCD39497,Ricardo,Welch,stephen71@example.net,+61 410 881 612,Male,1964-10-20,Stevenhaven,Victoria,Australia,2900,Bronze,2024-08-03,True
+C9AC3DD82,Sabrina,James,mcarter@example.org,07-1432-7006,Female,1989-03-10,Masontown,Northern Territory,Australia,5953,Bronze,2023-09-11,True
+C1140E532,Patrick,Flowers,rlewis@example.com,02 2550 2889,Male,2004-05-07,Khanmouth,Western Australia,Australia,2601,Bronze,2025-04-13,False
+C61CE798D,Calvin,Vargas,christina62@example.net,03-7812-0604,Male,1958-03-17,Harveychester,Tasmania,Australia,2693,Bronze,2025-03-20,False
+C8391FEA3,Christopher,Rios,timothymontgomery@example.com,07 6735 6052,Male,1971-06-27,New Bethstad,Australian Capital Territory,Australia,2619,Bronze,2024-06-26,True
+CE09B16F6,Michael,Wang,xbolton@example.com,+61 7 2414 7710,Male,1995-08-31,Aliciastad,Australian Capital Territory,Australia,2673,Gold,2024-01-12,True
+C14C21AC2,Julie,Roberts,webstereric@example.com,+61-400-584-422,Female,1948-11-26,Port Brittanyport,Northern Territory,Australia,2645,Gold,2025-04-26,True
+C6F090425,James,Nelson,michael02@example.org,(07).0351.4837,Male,1994-06-22,Kimberlyhaven,South Australia,Australia,2672,Bronze,2023-08-14,True
+C33AFE2F9,Julie,Dunn,michael54@example.org,7932 0643,Female,1992-02-05,Zacharyland,Tasmania,Australia,2987,Bronze,2025-03-16,True
+CC059714C,Cynthia,Spencer,gloveralexis@example.net,+61 449 929 341,Female,1952-09-03,Karenview,Queensland,Australia,2289,Bronze,2024-06-22,True
+CBD9A7EF1,Jonathan,Sanchez,kevin40@example.net,90755178,Male,1960-02-07,Alyssahaven,Northern Territory,Australia,2662,Bronze,2024-03-24,True
+CEA0639A7,Gina,Nguyen,jbowers@example.net,0776.9646,Female,1954-01-16,New Jenniferchester,New South Wales,Australia,2653,Bronze,2024-04-14,True
+C3E85C037,Monica,Blake,nicholsonrobin@example.org,(03)-0072-9006,Female,1978-12-10,East Jacqueline,Victoria,Australia,2973,Bronze,2022-02-21,True
+C55F63FC2,Tony,Guzman,michaelmorris@example.org,03-2931-6193,Male,1991-01-03,East Raymond,Northern Territory,Australia,2274,Platinum,2024-07-24,True
+CBA2A3D8B,Mary,Carson,mjones@example.org,(07).6243.8295,Female,1975-12-07,East Lori,Australian Capital Territory,Australia,6365,Bronze,2025-01-30,True
+C565BE55A,Keith,Smith,sierragutierrez@example.net,+61 442 666 907,Male,1992-12-31,Ronaldside,Queensland,Australia,2867,Platinum,2022-04-22,True
+CB9D5565B,Jean,Ray,brad44@example.com,+61 441 647 156,Female,1980-01-01,Jefferyton,South Australia,Australia,2818,Silver,2025-01-10,True
+C93301391,Jennifer,Terry,walkerdanielle@example.org,0116.4267,Female,1947-07-12,Wrightfurt,Tasmania,Australia,6274,Silver,2025-06-11,True
+C86464525,Sharon,Peterson,scrawford@example.net,0771160615,Female,1996-11-27,North Erin,Queensland,Australia,2659,Bronze,2024-06-16,True
+CF650DE57,Michael,Mitchell,rachelcampbell@example.net,(08) 5172 5409,Male,1992-03-08,Kimberlystad,Tasmania,Australia,2950,Bronze,2024-08-25,True
+C5AAA1DFC,Ian,Watts,cortiz@example.org,0468-720-627,Male,2002-05-13,Kristenport,Australian Capital Territory,Australia,2604,Bronze,2025-11-16,True
+C7FBBE1A8,Dawn,Torres,colleen48@example.net,(08).3147.1075,Female,1963-05-24,Floresshire,Northern Territory,Australia,2619,Platinum,2024-05-30,True
+CF3AF2D54,Stephen,White,michaelfreeman@example.com,22660231,Male,1997-11-01,Kellyton,South Australia,Australia,2689,Bronze,2023-05-22,True
+CE63F7113,Kristen,Costa,sophiadaniels@example.net,93126467,Female,1957-07-03,Johnbury,Western Australia,Australia,2920,Gold,2022-06-30,True
+CD8E73002,Eric,Henderson,nguyencourtney@example.com,+61 447 094 907,Male,1960-09-04,Arianatown,New South Wales,Australia,2920,Bronze,2025-09-07,True
+CE6FA0DC6,Katrina,Rodriguez,matthewwright@example.net,02 1549 6125,Female,1984-09-23,Lake Shane,New South Wales,Australia,2574,Bronze,2024-07-07,True
+C6919B637,Sarah,Johnson,smithkelly@example.org,+61-2-1664-0048,Female,1951-04-05,Nicholasburgh,South Australia,Australia,2987,Bronze,2024-08-16,True
+CC9A1AAD9,James,Taylor,ortiznathan@example.com,0465-651-005,Male,1975-12-02,Port Rickybury,New South Wales,Australia,2596,Silver,2024-08-07,True
+C6A2566BC,Vanessa,Lloyd,gibsoncarolyn@example.net,+61 2 6962 4402,Female,1960-06-10,Maldonadoside,Tasmania,Australia,2627,Bronze,2022-01-14,True
+CB3B685CE,Laura,Scott,maria58@example.net,+61.413.880.880,Female,2005-01-01,Haysmouth,Western Australia,Australia,2673,Bronze,2022-04-24,True
+CA8BD2919,Maureen,Flores,johnsonsamantha@example.net,0431.176.618,Female,1990-10-28,Port Edwardbury,New South Wales,Australia,2981,Platinum,2023-07-15,True
+C6794AD85,Maria,Clark,alyssakaiser@example.org,02-9488-0816,Female,1968-09-16,Port Terri,Victoria,Australia,5657,Gold,2024-07-03,True
+CE880DAC1,Mary,Barron,david26@example.net,0341689010,Female,1984-11-11,Fitzgeraldtown,South Australia,Australia,2920,Bronze,2023-04-04,True
+CF5277042,Kimberly,Dean,kscott@example.org,+61-3-8145-4019,Female,1955-06-18,West Susanstad,Western Australia,Australia,0884,Silver,2025-05-16,True
+C11ABC310,Leslie,Todd,lucasmichelle@example.org,0267960194,Female,1974-11-15,Barnesside,Australian Capital Territory,Australia,2910,Bronze,2026-07-20,True
+C0D6A48F7,Adam,Brooks,phillipsjanet@example.net,(08)-2315-6995,Male,1949-07-16,West Daniel,Western Australia,Australia,2927,Silver,2022-03-25,True
+CAFC8A004,Renee,Brady,gperez@example.com,+61 8 4289 2491,Female,1997-05-31,Lake Craigville,New South Wales,Australia,2630,Bronze,2024-04-01,False
+C04CEE071,John,Sweeney,sdodson@example.com,(02)25514013,Male,1995-01-22,North Andrew,Western Australia,Australia,2403,Silver,2023-03-04,True
+CC30FB0E7,Amy,Shaw,helen98@example.net,0809948502,Female,1951-04-15,Port Leahside,Australian Capital Territory,Australia,2656,Bronze,2024-07-18,True
+CECB5CE12,Lindsey,Beck,jimmy10@example.net,1031 7745,Female,1953-11-16,South Shari,Victoria,Australia,3904,Bronze,2025-11-25,True
+C5750E5F5,Rachel,Anderson,megan34@example.com,0410 207 309,Female,1994-12-29,Port Karla,Tasmania,Australia,6157,Gold,2022-01-13,True
+CBCEF7898,Dana,Howell,jacksonjessica@example.org,+61-2-6783-9978,Female,1974-01-04,Port Gina,Victoria,Australia,2661,Gold,2025-07-22,True
+C78153D10,Martha,Stevens,timothyallen@example.net,79002453,Female,1954-07-18,West Bradley,Queensland,Australia,2657,Bronze,2025-01-18,True
+CD4486B7E,Robert,Floyd,terryjensen@example.org,2818-1635,Male,2004-11-14,Port Kaitlinborough,Northern Territory,Australia,2648,Bronze,2025-10-26,True
+CE833ABD8,Angela,Nielsen,burkekathryn@example.net,+61-8-0084-1874,Female,1958-08-14,Port Susan,New South Wales,Australia,0236,Gold,2021-10-24,True
+C779749C0,Jerome,Williamson,allennathaniel@example.net,+61 8 4779 7607,Male,1956-11-02,Erichaven,Northern Territory,Australia,0861,Silver,2023-06-22,True
+C53E2026A,Jennifer,Lang,skhan@example.net,6085-4676,Female,1997-08-22,Lake Michelleport,New South Wales,Australia,7088,Bronze,2024-05-04,True
+C12CC8FC6,Cheryl,Martin,jorge56@example.org,+61723240657,Female,1999-04-10,South Brittanystad,New South Wales,Australia,0243,Silver,2024-12-05,True
+C51BFBBEC,Linda,Kramer,foxeric@example.net,+61268842566,Female,1957-05-29,New Sarahview,Northern Territory,Australia,2977,Bronze,2025-08-03,True
+CCE0D7E02,Jeffrey,Brooks,ievans@example.net,0810767327,Male,1963-09-17,Christopherport,Victoria,Australia,2092,Gold,2023-06-10,True
+C0607982F,David,Mckay,shelby69@example.com,0657.4198,Male,1959-02-19,West Rebeccaberg,Western Australia,Australia,2936,Gold,2023-10-04,True
+C103D487E,Toni,Scott,wallen@example.org,0775127871,Female,1950-07-15,East Scottland,Australian Capital Territory,Australia,2602,Bronze,2022-08-20,True
+C13DE4E3F,Laura,Smith,kaylabell@example.com,(03)-9030-2057,Female,2005-05-08,Lake Marvinfort,Queensland,Australia,2603,Bronze,2024-09-27,True
+C745FECE2,Jose,Combs,ramirezmark@example.net,08-6558-0825,Male,1967-10-05,Robbinsborough,Queensland,Australia,2906,Bronze,2023-03-31,True
+CB2479AE4,Jason,Morris,salinasscott@example.net,(08)-3304-8521,Male,1953-12-28,Alexmouth,Victoria,Australia,2007,Silver,2022-11-20,True
+CC9CE565A,Michael,Banks,smithveronica@example.net,(08)-1841-7320,Male,1973-09-09,Ramseymouth,Queensland,Australia,2811,Bronze,2026-07-19,True
+CCDB9531E,John,Stephenson,hallandrew@example.org,04453953,Male,1981-03-24,Port Johnchester,Western Australia,Australia,5015,Bronze,2024-07-26,True
+C655EBA28,Mariah,Smith,jason81@example.com,(03).0163.8569,Female,1982-11-06,East Justin,Australian Capital Territory,Australia,8666,Silver,2021-09-30,True
+CCBEBF3CA,Michelle,Franklin,riveradominic@example.com,(02) 6011 3409,Female,1982-07-31,Oneillbury,Victoria,Australia,2996,Platinum,2026-01-07,True
+C284BA888,Christopher,Richardson,paul02@example.com,0497.033.523,Male,1985-01-29,South Robinshire,Western Australia,Australia,2369,Bronze,2023-05-11,True
+C290E09C9,Sheila,Jennings,ojohnson@example.com,08.8215.0412,Female,1974-06-23,New Sandra,Western Australia,Australia,2692,Bronze,2021-12-18,True
+CEE4CB24F,Christina,Robles,bdavis@example.com,+61-2-2386-4163,Female,1968-06-18,East Vicki,Victoria,Australia,0850,Bronze,2022-04-22,True
+CC801E0CC,Rachel,Trevino,markmartinez@example.com,(02)15376482,Female,1950-01-30,Blakefurt,Tasmania,Australia,2631,Bronze,2023-12-05,True
+C6FE717DE,Jason,Lowery,jlivingston@example.org,02.6943.7130,Male,1964-09-11,Fisherport,Queensland,Australia,9572,Gold,2022-04-10,True
+C69544050,Christopher,Hopkins,christine32@example.org,+61 469 464 584,Male,2001-08-12,East Angela,Northern Territory,Australia,8055,Bronze,2022-09-12,True
+CE3F6EEDF,Rachel,Robinson,christopher43@example.net,98120425,Female,1979-05-31,Michaelchester,Northern Territory,Australia,2341,Bronze,2024-02-24,True
+C5A8FEB2A,Elizabeth,Klein,kburns@example.org,+61 414 090 695,Female,1960-08-09,Phyllisshire,Northern Territory,Australia,5944,Silver,2024-04-09,True
+C984B29D1,Jonathan,French,courtney28@example.org,(08) 1582 3257,Male,1987-05-30,Lake Jayfort,New South Wales,Australia,2116,Gold,2026-04-20,True
+CEFA9E733,Nancy,Martinez,achavez@example.com,03.8045.7113,Female,1995-11-19,North Josephport,Australian Capital Territory,Australia,2820,Bronze,2025-06-20,True
+C839EC400,Jessica,Davis,grahamsherri@example.org,+61.7.4381.5712,Female,2003-05-16,St. Mary,Northern Territory,Australia,2943,Bronze,2022-04-22,True
+CD3C17592,Joshua,Mercado,hmclaughlin@example.com,0448.760.753,Male,1947-03-02,Jonesborough,Northern Territory,Australia,2643,Platinum,2023-01-26,True
+C76471930,Eric,Sparks,coffeyjohn@example.com,07 0407 4716,Male,1982-06-03,Port Brenda,Victoria,Australia,2957,Bronze,2022-09-09,True
+C8FEDD30E,Regina,Hill,aalexander@example.com,07-4353-7245,Female,1991-12-10,North Erik,Victoria,Australia,2679,Bronze,2022-02-26,True
+CBD1AC3F2,Joyce,Smith,cdennis@example.net,07.3461.1406,Female,1947-08-01,Lisaberg,Western Australia,Australia,2697,Bronze,2026-07-27,True
+C8C67CE8A,Andrea,Underwood,taylorcaitlyn@example.net,0495 762 991,Female,1950-12-16,South Alan,South Australia,Australia,2073,Bronze,2023-07-10,True
+CA468D0FB,Anthony,Mcgrath,vjones@example.net,7942-1315,Male,1997-03-22,Jamesmouth,Victoria,Australia,6457,Silver,2026-04-09,True
+CB3207BFB,George,Bennett,valerieramirez@example.org,0345818143,Male,1959-03-26,St. Jeremyhaven,South Australia,Australia,2922,Bronze,2023-08-14,True
+C21300B51,Michelle,Bentley,rodriguezmary@example.com,(03)42927995,Female,1973-11-15,South Kevinburgh,Queensland,Australia,8208,Bronze,2025-11-20,True
+C901F69BD,Natasha,Burgess,jonesjessica@example.org,+61-473-991-011,Female,2004-12-23,St. Aaron,Western Australia,Australia,2632,Silver,2024-09-02,True
+CBCDDD9E0,Jonathan,Hart,lewissteven@example.net,+61 3 2518 5492,Male,1987-02-12,Port Howardburgh,Queensland,Australia,2619,Bronze,2022-01-29,True
+C817B4F78,Kelly,Martinez,rebecca11@example.com,+61-412-216-123,Female,1997-08-25,Lindsayside,New South Wales,Australia,2925,Bronze,2023-03-02,False
+CB16C0265,Brenda,Roth,perezhannah@example.com,(03)16183271,Female,2004-11-30,Marissachester,Queensland,Australia,5212,Bronze,2022-01-12,True
+C8C1215B3,Melanie,Zhang,schroederrobert@example.net,0418-424-474,Female,1948-05-19,Tiffanyville,Northern Territory,Australia,2951,Bronze,2025-03-06,True
+C811BA7C3,Richard,Huynh,goodsteven@example.org,07.8436.1963,Male,1958-07-26,Chapmanville,Tasmania,Australia,2651,Silver,2023-12-04,True
+CDA77C99C,Jeffrey,Anderson,amyjohnson@example.com,+61-487-359-379,Male,1959-02-19,Joelbury,Victoria,Australia,2065,Bronze,2024-05-03,True
+CB0AC2309,William,Ramirez,bernard59@example.com,(07) 6298 8493,Male,1957-03-12,East Travis,Victoria,Australia,2992,Silver,2024-02-24,True
+C85066C18,Kelsey,Henderson,paulcohen@example.com,(03)13348810,Female,1997-02-19,Hillhaven,Australian Capital Territory,Australia,2947,Bronze,2023-03-12,True
+C1EF474CE,Patricia,Cooper,mark53@example.com,+61-7-5003-2767,Female,1958-09-15,Blackville,Australian Capital Territory,Australia,2918,Bronze,2022-04-08,True
+C1F384CE2,Angela,Daniels,martinsmith@example.net,7276.0597,Female,1982-10-17,Ashleymouth,New South Wales,Australia,2916,Gold,2026-01-09,True
+C68E7F950,Maria,Allen,plogan@example.org,(08) 5016 1289,Female,2004-07-24,Lake Kenneth,Australian Capital Territory,Australia,2552,Bronze,2024-02-29,True
+C7EB4D8A2,Edward,White,maria14@example.com,0446 434 721,Male,1958-02-10,Port Sarah,Northern Territory,Australia,2605,Bronze,2022-11-14,True
+CE9554467,Annette,Scott,robbinscolleen@example.org,(03)-7283-9903,Female,1989-11-30,Davidfurt,Western Australia,Australia,2964,Platinum,2026-06-03,True
+CF1EEAD95,Patrick,Jones,kim51@example.org,+61 8 1544 7043,Male,2006-04-18,Lake Micheal,Australian Capital Territory,Australia,2998,Bronze,2021-08-03,True
+CFB79851B,Lisa,Mclaughlin,tclarke@example.com,(02) 4637 1279,Female,1972-05-21,North James,Australian Capital Territory,Australia,2620,Silver,2023-06-16,True
+C6E39E8C4,Caroline,Brennan,shannonblevins@example.net,07-1370-8864,Female,2006-07-16,Changstad,New South Wales,Australia,2651,Bronze,2026-02-14,True
+CB87B5A75,Michael,Marshall,coxjacob@example.net,+61366724647,Male,1992-04-06,Saundersmouth,Western Australia,Australia,0814,Bronze,2022-01-27,True
+C3F8609E9,James,Stevens,makayla47@example.net,+61.418.089.241,Male,1954-01-18,Lake Joann,Victoria,Australia,2051,Bronze,2024-07-13,True
+C2A8791EB,Laurie,Mcclain,iroth@example.org,+61 416 533 972,Female,2003-10-11,North Jonville,South Australia,Australia,2839,Bronze,2021-10-24,True
+CBEB13213,Raymond,Rich,brandon12@example.net,0450.556.023,Male,1962-12-20,South Zachary,Western Australia,Australia,2975,Bronze,2023-09-29,True
+CF399D1BD,Anna,Adams,jasmine11@example.net,02-4027-9915,Female,1946-10-26,St. Eric,Western Australia,Australia,2092,Bronze,2025-08-23,True
+C313A81EA,Cory,Silva,bcarroll@example.net,0448 635 627,Male,1971-04-14,Molinaland,New South Wales,Australia,2583,Bronze,2022-09-29,True
+C41779F81,Joseph,George,heather86@example.com,+61-404-754-390,Male,1987-11-17,South Kimberlyton,South Australia,Australia,2638,Silver,2022-03-15,True
+CA9250DF6,Courtney,Manning,jameseverett@example.org,(02)-3247-7596,Female,2005-05-19,Brianfort,Victoria,Australia,2930,Bronze,2024-05-28,True
+C7CD71C8C,Gary,Caldwell,marcusmann@example.com,+61 8 5628 5234,Male,1955-04-24,North Davidmouth,Victoria,Australia,4485,Bronze,2024-05-22,True
+C4CC54733,Greg,Conway,woodjimmy@example.net,+61-419-960-254,Male,1982-12-07,Maymouth,Northern Territory,Australia,3333,Silver,2024-10-10,True
+CED654D3B,Steven,Clark,amysloan@example.com,08.6733.3914,Male,1997-08-21,Reyestown,Western Australia,Australia,2665,Bronze,2023-10-27,True
+CD75E6A65,Andre,Rogers,ericsummers@example.net,0482.542.822,Male,1969-01-26,South Chrisshire,Queensland,Australia,2908,Bronze,2024-01-09,True
+C6C559330,Stephanie,Clark,john36@example.com,0407.973.447,Female,1987-10-02,South Juan,Queensland,Australia,2993,Gold,2025-12-14,True
+C57ACA8FB,Charlotte,Johnson,ehouston@example.org,0493 948 528,Female,1992-01-07,Greenborough,Queensland,Australia,2920,Silver,2024-02-21,True
+C0221FACA,Deborah,Duffy,tammy39@example.org,+61.7.6154.0768,Female,1975-04-16,Taylorstad,Australian Capital Territory,Australia,2547,Bronze,2022-10-31,True
+C8F886232,Benjamin,Chapman,chasegarcia@example.org,+61-2-3446-9894,Male,1952-10-13,New Samanthafort,Tasmania,Australia,3340,Bronze,2023-07-07,True
+CC525938C,Joshua,Klein,christopherbrown@example.org,+61.461.623.031,Male,1987-11-21,Darleneland,Western Australia,Australia,2500,Platinum,2022-09-07,True
+CA093A2DE,Destiny,Sanchez,greenmichael@example.com,+61 7 2879 1704,Female,1971-11-28,Banksmouth,Victoria,Australia,2602,Bronze,2022-01-21,True
+C718CC0D3,Joshua,Wood,margarethoover@example.com,(08)14661169,Male,2006-04-08,Justinview,Northern Territory,Australia,2619,Bronze,2025-12-03,True
+C971A1D36,Alex,Hutchinson,brianvillegas@example.com,+61 442 232 504,Male,1983-12-09,West Morgan,Australian Capital Territory,Australia,2920,Bronze,2021-11-20,True
+CBBE9582D,Michael,Welch,qferguson@example.net,+61-8-2814-8054,Male,1988-07-17,Ericachester,South Australia,Australia,2619,Bronze,2024-06-06,True
+CC8BC03C4,Katie,Dunn,jamesmelanie@example.org,+61.442.841.627,Female,1953-03-06,Stephenfort,Tasmania,Australia,2643,Platinum,2024-01-30,True
+C035B4AAE,Roberta,Jordan,john68@example.com,(08) 0259 8829,Female,1960-03-06,Lynnshire,New South Wales,Australia,4865,Bronze,2024-03-13,True
+CAC7CDED8,William,Gilmore,qbrown@example.com,+61 476 658 139,Male,1996-10-06,West Matthew,Australian Capital Territory,Australia,5126,Bronze,2023-05-03,True
+CE3B6D5DD,Sharon,Love,sheila22@example.org,(03).1939.7228,Female,1997-10-19,South Amy,Tasmania,Australia,2660,Bronze,2024-06-21,True
+CA7CEBFC2,Tracy,Peterson,aaron89@example.net,+61-2-9966-3699,Female,1963-08-29,Juliebury,Tasmania,Australia,2989,Bronze,2025-11-11,True
+C35F4AC53,Sylvia,Flores,vmueller@example.com,(03)94025637,Female,2004-04-04,Martinmouth,South Australia,Australia,2933,Silver,2024-11-05,True
+C58EF524A,Brian,Lyons,yberry@example.org,5854 9388,Male,1967-10-21,St. Elijahchester,Tasmania,Australia,2926,Silver,2021-11-22,True
+C52017BF4,Howard,Oliver,rachelcolon@example.org,02-1149-4775,Male,1948-07-05,Rollinsbury,Tasmania,Australia,0245,Bronze,2024-10-28,True
+C785BE7F5,Chris,Garcia,fmcclure@example.net,+61-3-9233-5679,Male,1988-09-09,East Ethan,Queensland,Australia,2945,Bronze,2022-08-15,True
+CE1E56A2A,Anthony,Bird,stacy02@example.com,0417-336-611,Male,1993-12-04,Castillomouth,South Australia,Australia,2557,Bronze,2026-02-25,True
+C0FB904B1,Angela,Jones,darren24@example.net,0401 332 030,Female,1973-11-19,Lake Joseph,Northern Territory,Australia,2467,Silver,2021-11-03,True
+C54F9CAE2,Miguel,Walker,kjones@example.net,+61 462 398 932,Male,1989-01-26,Jenniferville,New South Wales,Australia,2973,Silver,2026-05-26,True
+CB5BDBC17,Brittany,Miles,nicholsmia@example.com,+61880425589,Female,2004-06-16,Gregorybury,Australian Capital Territory,Australia,2914,Bronze,2024-05-18,True
+C959B47FD,William,Kirby,zsutton@example.org,08-1886-9914,Male,1975-10-08,East Nicoleshire,Tasmania,Australia,2627,Bronze,2025-01-18,True
+CE8479BA7,Paul,Larsen,christopherbeltran@example.com,(03).6809.9279,Male,1958-08-07,West Aprilside,Tasmania,Australia,2624,Bronze,2023-04-19,True
+CFE555759,Shannon,Cannon,melissawilliams@example.net,+61289103250,Female,1978-02-28,Smithport,New South Wales,Australia,3538,Silver,2022-03-20,True
+C9FDDE2A4,Jessica,Miranda,qyoung@example.com,+61 7 5960 4805,Female,2006-03-26,South Robert,New South Wales,Australia,2256,Bronze,2026-06-16,True
+C0E80C060,Jordan,Garrett,kathryn18@example.com,+61-3-5705-0107,Female,1981-11-17,East Erin,Australian Capital Territory,Australia,3333,Gold,2023-07-21,True
+CAB01F22A,Mary,Brown,simschristopher@example.org,0486.063.208,Female,1992-04-04,West Christine,Western Australia,Australia,2937,Bronze,2025-10-27,True
+C1DBCB7E1,Danielle,Grant,schneiderjacqueline@example.org,+61.3.4912.3408,Female,1947-09-27,Ritaview,New South Wales,Australia,2689,Gold,2026-03-15,True
+CD61C2324,Christina,Walker,tylerroberto@example.org,(07).2074.9662,Female,1982-01-19,Ravenshire,Tasmania,Australia,2205,Bronze,2024-06-02,True
+CEA428159,Timothy,Hunter,heathantonio@example.com,(08)-0766-3560,Male,2006-11-10,North Megan,New South Wales,Australia,0816,Silver,2024-07-15,True
+CAB195014,Gabrielle,Brown,rmarks@example.com,0479-179-252,Female,1967-02-06,Sharpshire,Western Australia,Australia,6820,Silver,2025-09-01,True
+C953A4B70,David,Nelson,wandacollins@example.com,+61892262113,Male,1988-06-19,West Kelly,Northern Territory,Australia,2998,Bronze,2025-02-26,True
+C51D6C122,Amy,Russell,clarkpamela@example.com,0439.190.793,Female,1950-06-21,Johntown,Australian Capital Territory,Australia,2946,Bronze,2026-07-13,False
+C87F8B118,Brenda,Harris,smithtyler@example.net,(07) 4453 3943,Female,1976-10-27,Angelashire,Australian Capital Territory,Australia,2619,Bronze,2023-08-12,True
+C4286D053,Marisa,Bush,nicholas90@example.org,(07)-1822-6901,Female,1976-01-02,Melissamouth,Western Australia,Australia,2972,Bronze,2025-04-23,True
+CA53BCBF2,Donna,Hahn,ktanner@example.net,0736329713,Female,2005-09-19,Port Carl,South Australia,Australia,2612,Bronze,2022-12-25,True
+C1935DBFF,Zachary,Pena,johnsonjay@example.com,(07) 3289 5236,Male,1982-01-30,Williamsfort,Victoria,Australia,2609,Bronze,2022-07-01,False
+C5D72863F,David,Washington,howardsamuel@example.net,+61.8.8007.6591,Male,1959-05-29,Petersonstad,Western Australia,Australia,2699,Bronze,2023-12-18,True
+C63EDB4CE,Sydney,Morris,williamsjoseph@example.net,(03)-4236-5928,Female,1967-07-18,Hollyville,Victoria,Australia,2678,Silver,2024-10-14,True
+C2894B3C9,Jaime,Anderson,othornton@example.net,+61 8 1567 2894,Female,2006-04-24,St. Kristin,Victoria,Australia,2934,Silver,2023-02-08,False
+C4CF3E40B,Kendra,Myers,mary13@example.net,02.1345.0998,Female,1984-06-07,West Tracyville,Australian Capital Territory,Australia,2120,Bronze,2025-08-20,True
+CA2D66890,John,Kent,katiebrandt@example.net,+61-426-674-831,Male,1976-12-01,Robinsonport,Tasmania,Australia,2951,Bronze,2022-07-14,True
+C6D1FCC17,Samantha,Jordan,shepardleonard@example.org,(08) 4046 3686,Female,2001-04-14,East Sheila,Tasmania,Australia,2925,Bronze,2021-10-16,True
+C71893EF0,Carolyn,Moore,karenmoore@example.net,0439.226.532,Female,1996-08-01,South Dana,Western Australia,Australia,2623,Gold,2022-10-07,False
+C2E0D2C77,Ruben,Johnson,williamsjeffrey@example.com,0423-432-457,Male,1992-07-08,East Jay,Tasmania,Australia,9906,Bronze,2025-04-29,True
+C9089AABA,Brenda,Murray,melissa82@example.com,(08).0440.5631,Female,1957-10-24,South Hectorborough,Western Australia,Australia,5912,Gold,2022-07-31,True
+C841099B9,Joseph,Flowers,porteramanda@example.org,08-6336-8797,Male,1969-12-06,West Paulchester,Tasmania,Australia,2947,Bronze,2022-07-05,True
+C057D9C34,Kathy,Noble,christine22@example.com,+61.487.375.615,Female,1950-11-25,Baileymouth,Tasmania,Australia,2927,Silver,2024-04-13,True
+C447BD190,Stephen,Gonzales,ramirezjustin@example.com,8938.2090,Male,1970-11-17,Johnmouth,Tasmania,Australia,2646,Gold,2023-03-14,True
+C39F91167,Tracy,Harris,gordon65@example.org,0149-3737,Female,1962-07-12,Johnsonfort,South Australia,Australia,2971,Bronze,2022-03-08,True
+C3F9655C6,Kristopher,Martin,donaldsonmitchell@example.com,(08)-7327-0605,Male,1959-09-06,Port Oliviaside,Australian Capital Territory,Australia,2619,Silver,2021-11-04,True
+CD8F0118A,Jennifer,Smith,cooperlaura@example.com,57971619,Female,1955-10-02,Wendyville,Victoria,Australia,2977,Bronze,2026-06-11,True
+C9CE7A444,Carol,Henderson,pittscynthia@example.net,0422 189 044,Female,1946-11-03,Parksville,Australian Capital Territory,Australia,2506,Bronze,2024-04-28,True
+C76013394,Douglas,Rivera,thompsonjason@example.net,+61-423-803-506,Male,1995-04-26,East Sheenaberg,Australian Capital Territory,Australia,4439,Silver,2021-12-27,True
+CB014B4E9,Elizabeth,Hernandez,sharon83@example.org,07.0861.6538,Female,2007-12-06,Lake Tamarafurt,Tasmania,Australia,2918,Silver,2024-07-09,True
+C6BB1E237,Jennifer,Knight,lucas00@example.com,+61.466.242.632,Female,1959-10-27,Davidstad,New South Wales,Australia,2775,Bronze,2023-02-14,True
+CA0FA0085,Danielle,Fox,eclark@example.org,+61-480-269-274,Female,1987-03-30,North Mirandaville,Tasmania,Australia,2694,Silver,2022-05-28,True
+C78ED720E,Heather,Ruiz,yhall@example.net,07-4132-0551,Female,1979-02-25,Murrayberg,Tasmania,Australia,2998,Bronze,2023-05-15,True
+C8B1EECB8,Tara,Liu,kochjames@example.net,2810.8861,Female,1971-01-25,Port Lisaville,Queensland,Australia,1283,Platinum,2022-01-10,False
+C8A589EBB,Mary,Peters,lauriehouse@example.org,0416 930 073,Female,1999-03-06,Lake Christinaville,Tasmania,Australia,2318,Silver,2022-09-05,True
+C4C3A3435,Jason,Henderson,martin05@example.com,0403 712 624,Male,1989-01-11,West Jesus,Australian Capital Territory,Australia,2619,Bronze,2026-01-20,True
+C18CB71F1,Jennifer,Serrano,zwilliams@example.org,(07).7801.8364,Female,1990-05-24,Lake Hollytown,Northern Territory,Australia,2636,Silver,2023-06-02,False
+CCC87FED6,Christopher,Byrd,noblescott@example.org,0415 799 293,Male,1958-08-31,East Audreyshire,Western Australia,Australia,2551,Bronze,2023-08-15,True
+CD602DD4A,Nicholas,Nolan,kritter@example.org,(08) 9208 9033,Male,1994-12-27,North Annashire,South Australia,Australia,2931,Bronze,2023-06-19,True
+C2841F673,Paul,Garrett,amy54@example.net,0412 309 269,Male,2007-03-10,Susanport,South Australia,Australia,2657,Silver,2026-01-16,True
+CDC829F7C,Lynn,Schultz,fsanchez@example.com,+61.442.507.012,Female,1984-11-24,Martinezstad,Australian Capital Territory,Australia,2918,Bronze,2026-04-22,True
+C0B226A5A,Troy,Small,melissarobinson@example.net,+61875080285,Male,1957-08-21,Lake Brittany,South Australia,Australia,2428,Silver,2022-09-01,True
+CC01FF2FA,Seth,Johnson,ucastillo@example.org,0889809760,Male,1980-08-12,Jessicaview,Northern Territory,Australia,1752,Bronze,2024-06-01,True
+CE6FD154F,Aaron,Whitehead,april37@example.net,(02) 5296 6061,Male,1971-10-19,East Olivia,New South Wales,Australia,2652,Gold,2026-04-22,False
+CED4D64E1,Lindsay,Roberts,raymondyoder@example.net,+61396761845,Female,1987-08-15,North Teresa,Western Australia,Australia,2675,Silver,2022-02-20,True
+CD61EF3C3,Lisa,Watkins,copelandjohn@example.com,+61.495.815.798,Female,1970-09-20,Natashaborough,Queensland,Australia,9486,Bronze,2025-02-15,True
+CA8D4865E,Alison,Rivera,david14@example.org,+61-456-938-050,Female,1949-10-15,Reyesland,Victoria,Australia,0863,Platinum,2025-04-16,True
+C676C4B8E,Chase,Norris,zjoseph@example.com,(07) 7436 2534,Male,1960-06-09,Simmonsshire,Northern Territory,Australia,2921,Gold,2023-12-01,True
+CCC86D586,Brandi,King,lynnbird@example.net,0416.842.824,Female,2002-11-11,Kevinfurt,South Australia,Australia,2611,Silver,2022-02-02,True
+C8D568AB0,Laurie,Thomas,hallkrista@example.com,(02)-0858-4842,Female,1994-04-29,Gregorymouth,South Australia,Australia,2917,Bronze,2024-08-10,True
+CF6E6EC72,Terry,Pierce,martinezpatricia@example.com,+61-410-688-541,Male,1993-10-01,Rogersmouth,Tasmania,Australia,2909,Bronze,2021-08-07,True
+CC7B1B54F,Albert,Kelley,grayjacob@example.com,+61.7.4557.0483,Male,2001-07-17,North Stacybury,Queensland,Australia,2343,Bronze,2026-01-27,True
+C7403C1F4,Aaron,Alvarez,angela67@example.net,+61.407.059.313,Male,1983-05-09,Hectorport,Victoria,Australia,0927,Bronze,2026-04-10,True
+C3EBA1197,Michael,Frazier,stacie03@example.net,+61 7 3304 9719,Male,1957-04-03,Edgarton,South Australia,Australia,3477,Silver,2021-09-02,True
+C344D3B8C,Steven,Hernandez,joneserica@example.net,2871-7022,Male,1979-11-03,Priceberg,Australian Capital Territory,Australia,2616,Bronze,2024-08-25,True
+C68CBBDE9,Trevor,Obrien,dnichols@example.com,9198.3898,Male,1946-05-02,St. Robertfort,Australian Capital Territory,Australia,2636,Bronze,2022-11-30,True
+C602C1D32,Loretta,Chapman,powelldiana@example.net,+61205537272,Female,1983-08-19,North Alexandra,South Australia,Australia,2620,Bronze,2023-04-11,True
+C5DCE8B1F,Rebecca,Harris,meganpalmer@example.org,(07).8606.0901,Female,1976-11-11,West Kevinmouth,Queensland,Australia,2619,Bronze,2023-02-05,True
+CF741391F,Taylor,Mayer,matthewramirez@example.net,+61-475-839-223,Female,1955-01-07,Webbhaven,Queensland,Australia,2685,Gold,2025-08-31,True
+C50FFA80A,Christine,Perry,zjohnson@example.com,08.6877.4940,Female,1950-02-07,Allenville,Victoria,Australia,2254,Gold,2022-10-07,True
+CD88D332F,Melinda,Thomas,rfarrell@example.com,+61-430-585-673,Female,2005-04-27,St. Olivia,Victoria,Australia,2648,Silver,2021-10-19,False
+C3CB305DD,Krista,Arnold,johnsonwesley@example.net,+61250002707,Female,2000-10-15,Nunezton,Queensland,Australia,2673,Bronze,2025-06-19,True
+C1E685339,Jeffery,Shields,oanderson@example.net,+61743896994,Male,2001-12-29,St. Sarah,Western Australia,Australia,2979,Bronze,2023-04-07,True
+C7A6ACEFB,Michael,Miller,monica75@example.org,+61-8-3084-4189,Male,1975-10-24,Lyonsville,Tasmania,Australia,2905,Bronze,2026-03-08,True
+C9891C9DF,Ashley,Lloyd,millerjoshua@example.com,0445 996 175,Female,2004-07-11,North Kenneth,Tasmania,Australia,2217,Bronze,2022-11-12,True
+C5D673AF7,Tracy,Velazquez,qharvey@example.net,+61262342433,Female,1976-06-10,North Amandaville,Western Australia,Australia,2995,Silver,2025-10-25,True
+C649CC3D3,Madeline,Hughes,lambertbrenda@example.org,03-1087-8818,Female,1997-01-20,New Huntermouth,South Australia,Australia,2114,Bronze,2023-07-23,False
+C6EE4C397,Charles,Carroll,osmith@example.net,80289024,Male,1950-10-17,St. Jacob,Northern Territory,Australia,2647,Bronze,2026-06-26,True
+C3CE7B700,Jessica,Alexander,williamrose@example.com,+61338698097,Female,1999-04-10,Kirkberg,Western Australia,Australia,2607,Bronze,2024-02-06,True
+CDF6484A4,John,Hernandez,collierkaitlyn@example.net,0879645250,Male,1957-07-29,East Sean,Western Australia,Australia,2938,Gold,2022-02-02,True
+C9BA21B3A,Penny,Jacobs,duncanpamela@example.org,+61-425-799-061,Female,1946-03-16,Nicoleville,Victoria,Australia,2673,Bronze,2026-01-02,True
+CCDCDF54B,Gregory,Ryan,lesliegriffin@example.org,0389642977,Male,1967-04-15,Lake Catherinemouth,Western Australia,Australia,0954,Gold,2025-10-04,True
+CBD51EFE0,Roger,Smith,wheelerjohn@example.com,5226.6072,Male,1974-04-14,Jarvisview,South Australia,Australia,2061,Silver,2024-12-22,True
+CEE168942,Allison,Hernandez,cporter@example.net,+61.7.8227.6574,Female,1950-12-19,North Sally,Northern Territory,Australia,2698,Bronze,2026-01-04,True
+C5FABB4B7,Nathaniel,Lucas,richardsonsandra@example.net,0467 4150,Male,2000-11-17,North Katrina,Australian Capital Territory,Australia,2918,Platinum,2022-05-07,True
+C5AB3C893,James,Simpson,seanray@example.com,82818045,Male,1958-05-17,South William,Queensland,Australia,2469,Bronze,2023-06-10,True
+C1B572FEC,Jennifer,Gonzalez,brianadams@example.net,+61-8-5848-9219,Female,2000-03-15,New Roger,Australian Capital Territory,Australia,2988,Silver,2022-02-09,False
+CEBFFD27E,Kimberly,Smith,kimberlyblackburn@example.com,02.5177.4002,Female,1966-08-19,Port Christopherstad,South Australia,Australia,4986,Platinum,2025-07-18,True
+C362CEF22,Jacqueline,Hunt,mary38@example.net,(02).1359.8220,Female,1963-09-27,Carterfurt,Queensland,Australia,2772,Bronze,2024-05-06,True
+CED042D93,Lisa,Harris,kaitlynmoses@example.net,1280.5042,Female,1946-09-27,St. Timothy,Queensland,Australia,2641,Bronze,2024-05-12,False
+C8DA7A8CA,Chase,Carlson,leepaul@example.net,+61 7 7011 4058,Male,1958-08-27,Johnmouth,Australian Capital Territory,Australia,2993,Silver,2024-08-29,True
+CE280952E,Luis,Haney,barrettdeanna@example.org,02 3592 6453,Male,1964-09-14,North Robert,Western Australia,Australia,2530,Bronze,2023-06-24,True
+C2C933505,Judy,Tyler,yday@example.com,+61-426-469-271,Female,1972-09-23,Melissaland,Victoria,Australia,3691,Bronze,2025-12-03,True
+C3852A212,Richard,Luna,donna46@example.org,+61 478 725 772,Male,1996-02-10,Port Taylorland,South Australia,Australia,2684,Bronze,2023-09-23,True
+C2B4F8911,Wesley,Kline,jenkinsmelissa@example.net,+61 8 9536 6493,Male,1981-01-15,Lake Austinfurt,Victoria,Australia,2799,Bronze,2024-10-25,False
+CFD504E9D,Madison,Becker,angelamartin@example.org,1158-1489,Female,1983-08-13,Lake Jennifertown,New South Wales,Australia,9935,Gold,2023-08-01,True
+CBD52DE22,Gary,Johnson,stephendaniels@example.net,+61.495.020.781,Male,1986-08-25,West Cassandra,Tasmania,Australia,2400,Bronze,2023-05-09,True
+CC2DE1CBF,Katie,Mitchell,brownkristi@example.org,(07)-2341-2595,Female,1979-12-21,West Rodneyhaven,Tasmania,Australia,5421,Silver,2025-11-04,True
+CA753BEA1,Kendra,Webb,munderwood@example.com,+61.8.7950.4347,Female,1999-09-01,Lake Jamesstad,South Australia,Australia,2662,Bronze,2025-07-25,True
+C0246858E,Jordan,Campbell,jgood@example.net,+61346416918,Male,1975-01-20,East Tyler,Tasmania,Australia,3329,Silver,2023-06-04,True
+CD45E9123,Joseph,Ramirez,ronald98@example.com,+61.2.1604.4308,Male,1980-05-19,Lake Chelsea,South Australia,Australia,2624,Silver,2023-11-28,True
+C11D89891,Jeremy,Harris,jameskelly@example.com,03.6391.4437,Male,1997-04-30,North Alyssa,Queensland,Australia,2645,Bronze,2022-03-02,True
+C43153DD0,Cheryl,Reed,heather00@example.org,(02).8868.9387,Female,1947-03-08,New Hannahside,South Australia,Australia,8046,Bronze,2026-07-07,True
+C3376362E,Matthew,Martinez,cduke@example.net,(02)48473457,Male,1986-04-22,New Angela,Tasmania,Australia,2648,Bronze,2025-07-09,True
+C95102D46,Joseph,Cross,ztaylor@example.org,6827-3924,Male,1960-11-12,Kelleyfort,South Australia,Australia,2649,Silver,2025-11-08,False
+C79B09ED8,Kevin,Robles,rachel68@example.com,03 3732 0708,Male,1995-06-24,St. Tammiehaven,Northern Territory,Australia,2293,Bronze,2021-11-11,True
+C23B3BF25,Hayden,Thomas,melanie63@example.net,03-3616-7262,Male,1994-01-01,North Ralphmouth,New South Wales,Australia,2678,Bronze,2024-10-17,False
+C682F71CB,Thomas,Thompson,jsalinas@example.net,(03)-1530-1522,Male,1979-07-24,South Heatherfort,Queensland,Australia,0215,Gold,2025-08-13,True
+C42DB9EE8,Robin,Vang,katherinehill@example.net,(02)89039624,Female,1988-12-15,East Gina,Western Australia,Australia,1756,Bronze,2023-12-28,True
+C7CAA7624,Cynthia,Carpenter,michellepreston@example.org,8800-6115,Female,1988-10-31,St. Nicholasfort,South Australia,Australia,2684,Silver,2025-09-07,True
+C17EDC967,Timothy,Banks,jane09@example.org,2595.7003,Male,2007-05-05,South Jeffreyport,Australian Capital Territory,Australia,2616,Bronze,2023-11-25,True
+CC537E487,Jesse,Smith,kellyjohn@example.com,08.8266.6091,Male,1977-02-08,Donnamouth,Western Australia,Australia,2222,Bronze,2021-08-02,True
+CB2A91B53,Reginald,Dominguez,gcarlson@example.org,3709.9935,Male,1957-12-07,Simpsonton,Australian Capital Territory,Australia,2677,Bronze,2024-10-30,True
+C9EBAC83E,Sandra,Duncan,wilsoneric@example.com,+61 2 3412 1899,Female,1994-05-21,Andersonborough,Australian Capital Territory,Australia,0202,Bronze,2025-05-24,True
+CF7319360,Ryan,Gomez,nicolemaxwell@example.com,+61.7.9711.8693,Male,1988-04-03,West Jaredchester,Australian Capital Territory,Australia,2619,Bronze,2021-10-22,True
+C8AC52843,Michael,Parker,carterryan@example.com,+61739628201,Male,1962-12-10,Haleyport,Queensland,Australia,8226,Silver,2025-03-09,True
+C4B8A901D,Adam,Walton,mary00@example.org,0734578975,Male,1981-07-18,Matthewsville,Australian Capital Territory,Australia,1327,Silver,2026-06-05,False
+C77ABDFCA,Stefanie,Floyd,dmartinez@example.com,0437-859-648,Female,1979-07-29,New Laurenfurt,New South Wales,Australia,0865,Bronze,2023-12-24,True
+C3460EE84,Eric,Wang,fzimmerman@example.com,(07)-4850-7224,Male,1949-05-23,North Philip,Tasmania,Australia,2541,Bronze,2021-08-27,True
+C4FF9D127,Virginia,Harrison,craigsingleton@example.org,03 1422 6269,Female,2003-01-03,St. Robyn,Victoria,Australia,0259,Bronze,2024-05-12,True
+C6F4153E1,Claire,Sweeney,michaelolsen@example.net,+61 2 7858 1443,Female,1956-12-02,East Brianchester,Tasmania,Australia,2991,Silver,2022-07-08,True
+CB1DC4EE7,Cynthia,Chavez,carol29@example.net,0430.496.027,Female,1997-09-24,Jonesmouth,Northern Territory,Australia,2490,Bronze,2024-12-11,True
+C68D1B6AE,Kimberly,Romero,echristensen@example.org,(08) 7022 2842,Female,1996-12-22,Cookshire,South Australia,Australia,2727,Silver,2026-03-03,True
+C3C171BA4,Aaron,Bowen,asmith@example.net,(02)-2607-3958,Male,1959-03-25,Kelleyshire,Tasmania,Australia,2295,Gold,2022-03-27,True
+C6E2D41FD,Zachary,Wood,hallelizabeth@example.org,+61-453-292-542,Male,1973-03-12,Stephaniehaven,Queensland,Australia,2911,Bronze,2021-08-01,True
+CAB76ACB8,Daniel,Olson,brownjeffrey@example.net,(07)70241301,Male,1992-11-29,North Shawn,Northern Territory,Australia,2608,Bronze,2024-02-23,True
+C0225F123,Jessica,Cunningham,evansbreanna@example.com,+61-447-543-990,Female,2001-11-19,Langmouth,South Australia,Australia,2198,Bronze,2026-03-02,True
+C2D2D16D2,Jeffrey,Taylor,malonemark@example.com,3701 4044,Male,1961-04-19,Ryanchester,Australian Capital Territory,Australia,2711,Silver,2022-05-11,True
+CAB4CFBC6,Cory,Jackson,robert44@example.com,02 9292 9805,Male,1953-08-31,Arthurville,Victoria,Australia,2951,Bronze,2022-09-24,True
+C147B0565,Ashley,Hobbs,juliefischer@example.org,+61-3-2958-1222,Female,1963-09-03,Christinaton,Victoria,Australia,2155,Silver,2022-07-31,False
+CC09D19FC,Nicole,Rice,thompsondiana@example.com,0202879944,Female,2004-11-30,East Andrew,South Australia,Australia,2998,Bronze,2025-09-26,True
+C819362A6,Mitchell,Lopez,lopezjohn@example.org,0772162540,Male,1968-02-03,South Danville,New South Wales,Australia,8689,Bronze,2024-08-04,False
+C0B8FA241,Michelle,Morgan,robinsonkevin@example.org,4059-6496,Female,1957-10-25,South Ronald,Tasmania,Australia,2907,Bronze,2023-11-04,True
+C0CCF34F6,Jesse,Miller,jasmine15@example.com,3344 2055,Male,1974-09-27,Paulview,Western Australia,Australia,2912,Silver,2026-07-10,True
+C7DFF7C46,Christopher,Randall,andreakane@example.org,(03)73758752,Male,1986-01-24,Port Melissabury,Northern Territory,Australia,2674,Silver,2024-12-04,True
+C0DEFC7AE,Tamara,Weaver,fford@example.com,0808368312,Female,1995-07-30,Parkertown,South Australia,Australia,2999,Bronze,2022-09-29,True
+CBD4F3180,Holly,Scott,brittanyfields@example.org,1736.2314,Female,1956-05-31,Lopezport,Victoria,Australia,4756,Bronze,2026-05-30,True
+C953B24EF,Patrick,Cox,paul76@example.org,0428.059.193,Male,1951-10-20,Rhondabury,Tasmania,Australia,2999,Silver,2022-07-10,True
+CAB3F0F9D,Cassandra,Rodriguez,zimmermananne@example.net,0153.0582,Female,1979-05-21,North Jimmy,Victoria,Australia,2680,Bronze,2023-10-03,True
+C450D666B,Denise,Hart,ksmith@example.com,+61.7.7629.5420,Female,1947-11-29,New Ryanhaven,Queensland,Australia,2688,Bronze,2026-01-24,True
+CEDE4DD36,Steven,Hughes,omason@example.org,0350627773,Male,1955-06-08,Albertstad,Northern Territory,Australia,2669,Bronze,2026-03-03,True
+CD7FC69E5,Brandon,Clark,bianca79@example.net,+61279625233,Male,1975-04-15,Meyersfort,Northern Territory,Australia,2924,Bronze,2023-05-26,True
+CC6D55836,Shaun,Watson,ujohnson@example.net,+61215543239,Male,2004-01-02,Lake Erika,Northern Territory,Australia,2546,Gold,2026-03-27,True
+CB5138CDE,Tiffany,Mayer,christopher26@example.net,+61.446.586.766,Female,1946-02-21,Lake Maureenhaven,Tasmania,Australia,2922,Bronze,2025-07-10,True
+C6B44D909,Robert,Miller,parcher@example.org,75799791,Male,1978-01-14,Markview,Queensland,Australia,3386,Bronze,2023-03-16,True
+CE2BDEB86,Monica,Mcpherson,lopezkelly@example.com,0423-921-367,Female,2005-04-10,Curryview,Queensland,Australia,2400,Bronze,2023-10-16,True
+C7B351145,Andrea,Carr,tim62@example.com,3577-9910,Female,1993-01-28,Hannahland,Queensland,Australia,2920,Silver,2022-06-02,True
+CC25E48C4,Gabriel,Hardy,bridgetduffy@example.org,0097.5948,Male,1994-12-22,New John,Australian Capital Territory,Australia,2093,Gold,2022-02-01,True
+C84138879,Rachel,Cruz,rachel31@example.com,0794908833,Female,1972-06-08,East Harryshire,Victoria,Australia,2976,Bronze,2021-11-10,True
+CEF3AC57F,Jamie,Hall,lesterjacqueline@example.org,0434-021-236,Female,1951-09-14,Port Sarashire,Northern Territory,Australia,2619,Silver,2024-06-04,True
+C124D6536,David,Morton,lindseylatoya@example.net,(02).2343.8001,Male,1958-06-07,Levinetown,Queensland,Australia,2925,Bronze,2025-12-10,True
+C08425C0C,Melissa,Freeman,john22@example.org,+61 475 086 608,Female,1979-02-21,Haystown,South Australia,Australia,0293,Bronze,2025-12-13,True
+C7DD0DB29,Matthew,Combs,sgrant@example.net,(08)-1045-4497,Male,1980-05-16,Monicaview,Western Australia,Australia,0809,Bronze,2024-05-01,True
+C499EE471,Nicolas,Lawrence,johnanthony@example.org,73227237,Male,1950-02-15,Jessicaburgh,Australian Capital Territory,Australia,0268,Bronze,2025-02-20,True
+C89BE071A,Matthew,Hayes,maryaguilar@example.net,+61 438 823 334,Male,1960-02-11,Bryanbury,Australian Capital Territory,Australia,2638,Silver,2026-01-24,True
+CF4BB7D34,Kelly,Howard,timothy05@example.com,0457.992.522,Female,1953-09-14,North Deborah,Victoria,Australia,2419,Bronze,2023-05-28,True
+CBD925081,Amanda,Jackson,joshuarobinson@example.com,(07)84781302,Female,1962-09-17,Port Gloria,South Australia,Australia,2946,Silver,2025-02-16,False
+C411A1324,Michael,Ramirez,diane54@example.org,+61.3.7761.9835,Male,1959-07-07,Carolynmouth,Victoria,Australia,2554,Bronze,2025-01-25,False
+C271E62BA,Jennifer,Harper,amanda33@example.org,0450.249.118,Female,1957-03-20,Stephenton,Queensland,Australia,2512,Silver,2024-07-24,True
+C7C3EDC44,Melissa,Wong,rebecca32@example.org,03.3859.8297,Female,1983-07-07,New Nancy,New South Wales,Australia,0930,Silver,2021-10-23,True
+C49DB667D,Jennifer,Carter,jenniferpena@example.net,+61 441 388 300,Female,1990-08-13,Michellechester,Victoria,Australia,2924,Bronze,2022-01-08,True
+C0D371B5A,Lacey,Lane,rachelmurray@example.com,+61 8 6674 6375,Female,2002-03-17,Smithbury,South Australia,Australia,8582,Silver,2023-02-16,True
+C6532F888,Nichole,Nguyen,parkerroy@example.org,66058046,Female,2002-05-06,West Jennifermouth,Victoria,Australia,2986,Gold,2025-07-02,True
+CEA3C2637,Michelle,Richards,mooreebony@example.org,03.6645.1325,Female,1949-09-25,Vanessaburgh,Northern Territory,Australia,2987,Bronze,2023-03-10,False
+C637EEDAC,Toni,Patterson,stephaniecasey@example.com,65545035,Female,1998-04-25,Thomasstad,Northern Territory,Australia,6745,Silver,2023-03-07,True
+C5E309141,Michael,Phelps,jimmy49@example.net,+61.3.2981.8433,Male,1952-08-13,Natalieville,Western Australia,Australia,2144,Bronze,2025-08-05,True
+C22157724,Timothy,Martin,yvonnesmith@example.net,+61 8 9027 1212,Male,1949-03-13,West Krystalborough,Queensland,Australia,9901,Bronze,2024-06-01,True
+C45F75E2C,Sonia,Keller,knappjennifer@example.com,5333 1622,Female,1978-11-25,South Adamburgh,Tasmania,Australia,2657,Bronze,2023-11-14,True
+CC781F161,Alexander,Gray,jamesfloyd@example.org,(08) 9278 8742,Male,1956-09-12,South Jeffrey,Tasmania,Australia,2100,Silver,2022-03-23,True
+C135FBA30,Matthew,Taylor,martineztina@example.com,+61.461.398.613,Male,2004-03-25,Shaneport,South Australia,Australia,2630,Bronze,2025-08-05,False
+C5193AF37,Eric,Armstrong,espinozadiana@example.com,7028 1420,Male,1966-05-26,Kellyfurt,South Australia,Australia,0974,Platinum,2026-07-16,True
+C0841D0CA,Michele,Gardner,jason86@example.org,08 5657 1684,Female,1973-02-07,Brookschester,Tasmania,Australia,2379,Silver,2023-10-21,True
+CFE23D4C2,David,Robertson,april39@example.org,03 7600 8676,Male,2001-06-09,Angelicamouth,Australian Capital Territory,Australia,2685,Gold,2021-11-22,True
+C0F60123E,Angela,Scott,rosezachary@example.net,0410.848.460,Female,1977-07-28,Smithborough,Queensland,Australia,0874,Gold,2022-03-03,True
+C5BD689FD,Tyler,Schmidt,nathan42@example.net,0456 358 213,Male,1968-10-29,North Desireeville,Western Australia,Australia,2915,Bronze,2026-03-14,True
+C878535CE,Jeffrey,Larson,adamssamuel@example.com,78430817,Male,2006-06-12,New Jacobberg,Tasmania,Australia,6981,Silver,2022-10-11,True
+CF267CDFC,Vincent,Lutz,thomasjohn@example.org,+61.8.4239.9034,Male,1984-02-02,Victoriastad,Northern Territory,Australia,7013,Bronze,2022-11-18,True
+CB20AE059,Crystal,Jones,mannmary@example.net,2687-1760,Female,1971-04-21,Port Angelaville,New South Wales,Australia,0992,Silver,2025-06-11,True
+CC1B90E1B,Michael,Jackson,pguerrero@example.net,+61-495-790-203,Male,1978-01-24,Ritashire,Queensland,Australia,0935,Silver,2024-02-13,True
+C7C1036FA,David,Holmes,garciajonathan@example.com,0467-662-719,Male,1974-10-01,Lake Kevinview,Victoria,Australia,2978,Bronze,2026-06-28,False
+C462F7A8A,Rebecca,Andrews,rodgerserin@example.net,07 7217 5166,Female,1957-09-23,Lake Andre,Queensland,Australia,2974,Bronze,2022-11-16,True
+C64447709,Timothy,Buchanan,williamharris@example.net,(07)24522300,Male,1994-05-26,Spenceborough,Western Australia,Australia,2964,Silver,2023-05-28,True
+C329B6BF1,Michael,Obrien,jasoncampbell@example.org,0437 153 521,Male,1964-07-30,Henrystad,Queensland,Australia,2986,Bronze,2024-04-27,True
+CEE9D831D,Kelly,Molina,baileybarbara@example.com,5040-9796,Female,1995-01-10,Rodgersstad,Australian Capital Territory,Australia,2623,Bronze,2022-01-08,True
+C3AF7E13C,Robert,Nguyen,taylorstephanie@example.com,(03) 7002 9798,Male,1980-04-25,Smithbury,Western Australia,Australia,2925,Silver,2024-06-01,True
+C50E1AD08,Frank,Chang,sharon95@example.net,7196 3965,Male,1962-04-27,North Zacharybury,Australian Capital Territory,Australia,2804,Bronze,2024-06-29,True
+C1495AF7A,Sara,Murphy,msimmons@example.org,0464.104.390,Female,1954-10-09,New Angelicaborough,Victoria,Australia,2948,Silver,2022-11-25,False
+CF1AD29D3,Daniel,Wyatt,bpaul@example.org,08 4075 5500,Male,1989-06-03,Colechester,Australian Capital Territory,Australia,4400,Gold,2024-06-11,True
+CC0DE03C3,Jeffrey,Thomas,ellisfernando@example.org,07962158,Male,1951-02-10,Nataliehaven,New South Wales,Australia,6062,Silver,2022-03-20,True
+CEF66B78A,Elizabeth,Mckenzie,vcarroll@example.org,+61-8-7874-8251,Female,1974-10-20,West John,Victoria,Australia,2525,Bronze,2024-03-29,True
+C5E99878A,Mark,Prince,deanamy@example.org,(02)-3202-8591,Male,1956-08-06,Anthonychester,Tasmania,Australia,0272,Silver,2026-01-05,True
+C1F649E1F,John,Murphy,travisfrench@example.com,+61 3 9026 4211,Male,1974-12-19,Christopherside,South Australia,Australia,2912,Bronze,2026-06-22,True
+C8967BB7D,Yvette,Ryan,dmeyer@example.com,(08)-0131-1013,Female,1965-10-20,Moseschester,New South Wales,Australia,2687,Silver,2026-04-23,True
+C6EAF8384,Matthew,Andersen,mckeeanthony@example.org,(03).5502.8145,Male,1950-10-04,South Alejandro,Australian Capital Territory,Australia,2656,Bronze,2024-01-03,True
+CE151362A,Christopher,Fry,nicole45@example.net,+61 492 918 323,Male,1982-05-22,Lake Brett,South Australia,Australia,2826,Bronze,2021-08-22,True
+C19A211AA,Pamela,Schroeder,stacey85@example.org,5889.7236,Female,1996-07-13,Port Tracymouth,South Australia,Australia,2269,Gold,2024-10-18,True
+C86A07E34,Charles,Lowe,stephanie48@example.com,0438.617.050,Male,1972-07-21,West Jordanchester,Tasmania,Australia,6684,Bronze,2022-01-12,True
+C4300082F,Kristina,Mcfarland,kevinwyatt@example.com,+61 8 2171 1202,Female,1986-12-05,North Dianachester,New South Wales,Australia,5673,Silver,2024-03-09,True
+CA1CDD4F1,Brett,Wise,laurenmitchell@example.net,+61.7.4300.9927,Male,1998-01-11,Donnaberg,New South Wales,Australia,2906,Silver,2022-04-29,True
+CCE238530,Lucas,Zuniga,brianna42@example.com,03 9576 4415,Male,1982-01-21,New Lori,Northern Territory,Australia,2682,Silver,2025-05-01,True
+C584F9E2A,Lisa,Weaver,donna69@example.net,03 7515 7073,Female,1989-11-09,West Katherine,Australian Capital Territory,Australia,2183,Bronze,2023-01-03,True
+C015B7482,Veronica,Baldwin,nmoore@example.com,0403-174-387,Female,1973-10-16,Holmestown,Victoria,Australia,1392,Bronze,2023-12-16,True
+CB3068094,Albert,Patterson,richard29@example.org,07.0782.2160,Male,1979-11-23,North Kimberly,Northern Territory,Australia,3149,Silver,2023-10-22,True
+C4A18D4D2,William,Jones,melvin43@example.org,0491-865-014,Male,2003-10-04,East Emily,Western Australia,Australia,6002,Silver,2021-11-17,True
+C6FE49B05,Ann,Branch,chasebaxter@example.com,11483715,Female,1987-07-05,Lake Andrewton,Tasmania,Australia,2900,Bronze,2021-09-09,True
+CE5A7D55A,Robert,Burns,zsmith@example.org,3499-3497,Male,2004-05-30,South Olivia,New South Wales,Australia,2683,Bronze,2022-01-05,True
+CD0E43362,James,Klein,william67@example.org,(08)-1924-0052,Male,1947-08-07,Levimouth,New South Wales,Australia,3065,Gold,2025-05-17,True
+CABAC953B,Chelsea,Stewart,staceyford@example.net,61715401,Female,1985-02-10,Annbury,Western Australia,Australia,0956,Silver,2026-05-02,True
+C5A8EF645,Samantha,Walsh,hallhaley@example.org,+61-2-9391-5936,Female,1992-07-31,Danielville,Victoria,Australia,2071,Bronze,2021-11-03,True
+C5E35C224,David,Lewis,samuelmclean@example.net,+61 469 071 098,Male,1956-11-11,South Levi,Northern Territory,Australia,6286,Gold,2026-07-21,True
+C639B0398,Veronica,Mcclain,christian51@example.org,+61 8 7156 2014,Female,1972-08-26,Meganhaven,Australian Capital Territory,Australia,2347,Bronze,2025-08-24,True
+CD46E0E4D,Michael,Padilla,kathleen97@example.net,0456 001 768,Male,1981-09-20,South Briannaburgh,South Australia,Australia,2285,Silver,2024-10-03,True
+CE07E6BF1,Courtney,Brown,turnerstanley@example.net,(02).4559.8433,Female,1976-01-30,Jonathanshire,Queensland,Australia,2997,Bronze,2026-05-28,False
+CD37618C1,Lisa,Hansen,dmclaughlin@example.net,+61 498 605 517,Female,1959-01-08,Jessicaside,Western Australia,Australia,2688,Bronze,2023-02-19,True
+C8161551F,Dustin,Pena,jvasquez@example.com,2766-2211,Male,1996-08-28,Greermouth,Western Australia,Australia,4082,Bronze,2021-10-13,True
+C19610894,Brian,Tyler,dianawashington@example.net,2095-3383,Male,1971-04-05,St. Susanland,South Australia,Australia,9861,Silver,2023-09-15,True
+C7B65E569,Tanya,Fernandez,shawnporter@example.net,(03)-3793-0019,Female,1990-06-03,Dawsonbury,Australian Capital Territory,Australia,2906,Platinum,2024-01-14,True
+CB9F87BDF,Gerald,Gregory,joseph34@example.net,(03).6779.3186,Male,1954-02-26,Warnerville,Queensland,Australia,3387,Bronze,2023-02-04,True
+CD1D52019,Robert,Lewis,vincentkaren@example.com,5555.8880,Male,1990-08-02,East Mark,South Australia,Australia,2672,Bronze,2026-03-05,True
+C9040F8C8,Stephanie,Gonzalez,qpadilla@example.com,+61.7.5695.3954,Female,1972-09-25,Alisonhaven,Northern Territory,Australia,2666,Gold,2023-11-08,True
+C64F84446,Julia,Lewis,mariegreen@example.org,(02) 6949 6931,Female,1986-01-09,Petersburgh,Western Australia,Australia,2947,Bronze,2023-05-10,True
+CE5841129,Jason,Hill,michaeljimenez@example.net,+61.3.7533.8201,Male,2005-12-11,Roseside,Northern Territory,Australia,2679,Bronze,2022-10-17,True
+C6FB4ACF5,Justin,Rhodes,kallen@example.com,08-1382-4081,Male,1963-01-20,St. Caleb,Victoria,Australia,2650,Bronze,2025-10-29,True
+C0A1C3731,James,Nelson,thompsonpamela@example.com,+61 7 5537 3508,Male,1991-03-30,St. Christyberg,Queensland,Australia,2606,Platinum,2025-12-16,True
+CF49DD3EF,Toni,Murray,kcontreras@example.org,9049-0736,Female,2002-08-05,St. Danieltown,Queensland,Australia,2900,Silver,2023-06-06,False
+C005749B7,Amy,Cook,amyponce@example.com,08-3579-9746,Female,1945-12-19,Jessemouth,Western Australia,Australia,2912,Gold,2022-11-16,True
+C827CBD64,Jose,Dennis,uroberson@example.com,+61.8.8026.7534,Male,2007-07-29,South Brett,Tasmania,Australia,2527,Gold,2023-07-17,True
+CD794EFDA,Brenda,Johnson,pmiller@example.org,(08).2807.5967,Female,1950-04-23,Riosberg,Victoria,Australia,2927,Bronze,2022-07-01,True
+CBBFD8FB5,Nicole,Hinton,fhodges@example.net,(03)-1121-3812,Female,1998-01-14,South Samanthahaven,South Australia,Australia,3361,Bronze,2024-09-18,True
+C4F33BF3A,Jordan,Williams,kimberly83@example.com,0455.614.481,Female,1997-10-09,West Daniel,South Australia,Australia,2554,Bronze,2023-02-01,False
+CF7E03308,Eric,Davis,ytaylor@example.net,+61.457.449.977,Male,1998-01-31,Port William,Victoria,Australia,2600,Silver,2026-04-02,True
+C167F1EFB,Crystal,Powell,thomasmason@example.com,(08)-5538-2147,Female,1988-10-08,Taylorbury,Victoria,Australia,2646,Bronze,2026-06-08,True
+CDF678C3F,Alyssa,Gross,anthony74@example.org,02 3839 1699,Female,1966-06-29,Allisonhaven,Australian Capital Territory,Australia,2967,Bronze,2026-02-04,True
+CD7A854E2,John,Buck,eric37@example.org,+61 430 548 511,Male,1987-12-08,Terrihaven,Tasmania,Australia,2920,Bronze,2023-10-10,True
+CAECDD0F9,Michael,Cain,hgrimes@example.com,2315-6473,Male,1958-02-26,Alyssaview,Queensland,Australia,2896,Bronze,2024-09-23,True
+CB6AA8DB3,Courtney,Lopez,xmiller@example.com,+61.461.870.558,Female,1971-12-21,Timothyhaven,Northern Territory,Australia,2968,Bronze,2022-01-17,True
+CA42AD5B2,Briana,Herrera,scott17@example.com,+61380782426,Female,1994-02-04,Edwardston,Western Australia,Australia,2673,Bronze,2026-05-29,True
+C8EFE6FC4,Christopher,Mills,mrogers@example.net,0429.738.309,Male,1953-07-30,New John,South Australia,Australia,2913,Silver,2022-10-16,True
+C74F5AE63,Emily,Rogers,ybrown@example.com,08.9938.9755,Female,2008-07-01,Jamesside,Queensland,Australia,2983,Bronze,2025-02-26,True
+C0596B129,Angela,Douglas,bsanchez@example.net,0418.539.208,Female,1950-10-29,Moyermouth,Tasmania,Australia,5956,Gold,2022-07-11,True
+C82892FDB,Karen,Jackson,laurenbarnes@example.com,(02) 3564 7094,Female,1964-10-10,Cynthiaburgh,South Australia,Australia,2968,Silver,2023-03-20,True
+C4C6EC3E1,Sarah,Campbell,scottbullock@example.net,+61-427-360-399,Female,1951-03-18,Jonesfort,Western Australia,Australia,2678,Bronze,2023-11-05,True
+C23ED86E1,Richard,Avery,wrussell@example.net,7856-0075,Male,1954-06-09,Parksburgh,Western Australia,Australia,3323,Bronze,2025-03-12,True
+CB074C9D1,Sarah,Cook,mannroy@example.com,+61.3.4401.2031,Female,1963-10-25,New Becky,Victoria,Australia,2920,Silver,2021-09-08,True
+C53363986,Christine,King,zgreer@example.net,+61.487.680.014,Female,1967-10-05,Port Lori,Tasmania,Australia,2937,Silver,2023-06-02,True
+CBF8DBA10,Shannon,Taylor,glawrence@example.com,(07)-0495-1467,Female,1949-07-20,Lake Erin,New South Wales,Australia,1365,Platinum,2024-08-19,True
+CDF200D40,Thomas,Harmon,holly98@example.org,5998-3624,Male,1977-04-08,West Craigside,Australian Capital Territory,Australia,2611,Bronze,2021-09-24,False
+C76EECFBB,Amanda,Johnson,nicholas96@example.com,(07) 3211 3705,Female,1963-04-07,Aaronmouth,Queensland,Australia,2957,Bronze,2024-07-18,False
+CC8CC36EE,Heather,Olsen,alejandrokim@example.net,(08)64852238,Female,1998-10-14,Williamshaven,Northern Territory,Australia,2608,Bronze,2025-03-05,True
+C2857DF5E,Timothy,Johnson,stokesjulie@example.net,+61.7.2246.3278,Male,1967-06-11,Thomashaven,South Australia,Australia,4254,Bronze,2024-07-01,True
+CA5939A9C,Donald,Crawford,ujones@example.net,(02)-7587-7219,Male,1998-04-13,Port Logan,Queensland,Australia,2947,Gold,2023-10-19,True
+CF4A8C1F6,Robert,Sexton,rhonda55@example.net,08 7370 8874,Male,1982-01-04,East Jacobport,Australian Capital Territory,Australia,2564,Bronze,2024-10-03,True
+C4F7E11E9,Elizabeth,Leonard,nspencer@example.net,+61798673245,Female,1948-11-05,Melindaland,Northern Territory,Australia,2921,Bronze,2026-01-27,True
+C5821CC1F,Sean,Martin,walterdavid@example.com,+61229690866,Male,1951-03-18,South Christina,Victoria,Australia,2793,Silver,2023-09-14,True
+CBAE6E03C,Lisa,Orr,agolden@example.org,+61877560013,Female,1948-02-23,Shawntown,Victoria,Australia,2827,Platinum,2025-08-09,True
+CC4F0F154,Timothy,Nunez,shelia70@example.org,(02).3258.3868,Male,1953-08-17,Johnsonberg,Northern Territory,Australia,2683,Bronze,2024-06-07,True
+C1B0333C5,Christopher,Delgado,ycisneros@example.org,0476-171-404,Male,1986-06-10,Grantborough,Queensland,Australia,2628,Silver,2022-08-17,True
+CB54F7879,Carolyn,Espinoza,edwardssusan@example.org,+61.3.8214.6695,Female,1957-02-10,Gentryhaven,Queensland,Australia,2646,Silver,2025-05-09,True
+C965E4F2D,Alisha,Walls,juanhenderson@example.net,07-6947-7867,Female,1973-09-22,South Joseph,Western Australia,Australia,8132,Silver,2021-09-30,True
+C9E101A9A,Edward,Terry,murraybethany@example.org,+61320935490,Male,1974-12-30,Port Jennifer,New South Wales,Australia,0205,Bronze,2024-10-14,True
+C28ED92DD,Amber,Leblanc,youngmelissa@example.com,0432.769.847,Female,1988-09-01,Mathisview,Northern Territory,Australia,2920,Silver,2026-01-08,True
+C354E6723,Michael,Garza,andrew27@example.org,+61 7 5024 9005,Male,1987-03-10,Lake Patrickfurt,Victoria,Australia,2956,Bronze,2024-08-07,True
+CB784F889,Nancy,Clarke,virginia83@example.org,+61.8.7609.1549,Female,1975-04-17,Lake Carolynfurt,Queensland,Australia,7399,Bronze,2022-02-04,True
+C41060A91,Richard,Avery,odavis@example.org,(02) 4080 0907,Male,1999-09-14,Lake Jodi,Queensland,Australia,8828,Gold,2024-11-03,True
+C09B799DF,John,Diaz,amandadrake@example.net,+61-466-016-727,Male,1947-07-09,Johnport,Tasmania,Australia,8346,Silver,2023-05-14,True
+C747F986A,Amber,Randolph,djacobson@example.org,+61-7-7593-8482,Female,1991-09-21,Greenview,Western Australia,Australia,2632,Silver,2024-08-06,True
+C294563EF,Megan,Thomas,knoxrobert@example.com,38390475,Female,1999-05-01,Charlesport,Queensland,Australia,3502,Bronze,2022-10-31,True
+C78D17A4E,Karen,Sutton,mcarrillo@example.org,+61.2.6301.7512,Female,1979-04-08,Elizabethville,New South Wales,Australia,2017,Gold,2023-06-28,True
+C4097EAC5,Brian,Myers,bennettteresa@example.com,+61759438899,Male,2003-01-02,Lisaburgh,Western Australia,Australia,2990,Bronze,2025-02-27,True
+CC2FB33E4,James,Hicks,dawn05@example.org,0425.4388,Male,1993-05-27,Justinfort,Northern Territory,Australia,9657,Bronze,2026-02-22,True
+C68FFFD8D,Stephen,Williams,lsherman@example.com,08 2417 2278,Male,1996-08-31,East Edwardton,Western Australia,Australia,2959,Bronze,2021-12-11,True
+C1EC80AB5,Riley,Johnson,morrischristopher@example.com,(07).4898.5151,Male,1953-01-16,Lake Loriport,Western Australia,Australia,2661,Bronze,2021-10-30,True
+CBA107F4F,Emily,Willis,nathan62@example.com,0450 069 027,Female,1989-11-11,West Amandaburgh,Northern Territory,Australia,2941,Bronze,2026-06-23,True
+C3A9B063E,Daniel,Moreno,beanchristine@example.com,0444 611 966,Male,1994-10-22,St. Steven,Victoria,Australia,2668,Bronze,2024-08-25,False
+CAF43693E,David,Roberts,zhangamy@example.net,0450.741.412,Male,1956-02-02,West Stephaniehaven,Northern Territory,Australia,2975,Silver,2022-12-12,False
+C6F0A23F1,Billy,Jensen,shawn98@example.org,0833134259,Male,1950-11-11,Amberberg,Western Australia,Australia,2986,Bronze,2024-08-17,True
+C3A93BFDF,Melissa,Henry,joshua98@example.net,0722992046,Female,1980-02-22,Kristenhaven,New South Wales,Australia,0889,Bronze,2022-07-24,True
+CBD4BDD29,Robert,Molina,longjamie@example.com,(02).6486.4648,Male,1967-06-22,South Bryanland,South Australia,Australia,1928,Bronze,2026-03-03,True
+C4E643C4B,Jeffrey,Conley,ahubbard@example.org,0427.972.644,Male,2002-01-01,Chadshire,Tasmania,Australia,2968,Platinum,2024-12-31,False
+CF0867AFD,Kevin,Smith,lmiller@example.org,07-9693-4130,Male,1987-11-10,Woodston,South Australia,Australia,2688,Bronze,2023-01-18,True
+CDD40A8BC,Eric,Anderson,qthompson@example.com,1198-0132,Male,2006-12-05,South Michaelside,New South Wales,Australia,2929,Bronze,2024-05-13,True
+C9A897343,Dana,Hayes,smithpatricia@example.org,+61-3-1916-9223,Female,1957-05-02,St. Bryanfort,Tasmania,Australia,2214,Silver,2025-07-14,True
+CD340D87D,Richard,Gentry,smithjoy@example.org,6966 9576,Male,1947-01-22,Lake Tanner,Australian Capital Territory,Australia,0851,Platinum,2024-02-07,False
+CCDC5AA5F,Christine,Ball,gweber@example.com,+61.404.513.278,Female,1989-04-01,South Albert,Australian Capital Territory,Australia,2779,Silver,2024-12-22,True
+C317C4283,Jon,Porter,davidflores@example.org,07.5209.6304,Male,1966-01-03,Gomezmouth,Queensland,Australia,2987,Silver,2022-06-27,True
+C5576A915,Rebecca,Church,ochurch@example.com,6824.3877,Female,2001-06-11,Petersonmouth,Tasmania,Australia,2960,Bronze,2023-12-12,True
+CD4B3B3FA,Michael,Johnson,maria75@example.com,7459.6895,Male,1982-11-14,Taylorberg,Tasmania,Australia,2662,Gold,2021-08-10,True
+C9FCB6C65,Manuel,Rios,ywilson@example.net,(02) 4259 2141,Male,2004-06-20,Josephbury,Northern Territory,Australia,2996,Bronze,2025-06-27,True
+CEF1E5024,Marisa,Martinez,salinastony@example.com,0448.535.236,Female,2002-04-30,New Ambermouth,Victoria,Australia,2255,Bronze,2022-08-08,True
+CEC2A1508,Ashley,Ross,msmith@example.org,+61257717585,Female,2007-10-12,East Barryhaven,Western Australia,Australia,5119,Bronze,2025-06-01,True
+CA9703845,Mitchell,Thompson,jerryjones@example.net,47058930,Male,1961-11-19,Davidstad,Australian Capital Territory,Australia,5552,Bronze,2026-02-23,True
+C6BB31ADE,Kevin,Price,websterandrew@example.org,0772131361,Male,1965-01-12,New Rebecca,Northern Territory,Australia,2615,Bronze,2024-12-13,True
+C30A5AD7F,Paul,Wilson,max28@example.org,+61-8-2019-1545,Male,1974-10-09,East Megan,New South Wales,Australia,2480,Bronze,2023-11-11,True
+C1E5C79A5,John,Russell,david47@example.org,+61721326109,Male,1999-02-28,Harrischester,Tasmania,Australia,2909,Bronze,2023-08-11,True
+C81F1E7E5,Zachary,Ferguson,emunoz@example.com,(07)60052752,Male,1988-02-26,St. Amyshire,Australian Capital Territory,Australia,2677,Bronze,2022-04-15,True
+C0C35AC69,Dennis,Haas,cynthia75@example.com,0446 666 143,Male,1965-04-07,Milesmouth,South Australia,Australia,9888,Bronze,2025-10-06,True
+CADD49CD6,Daniel,Arias,williamcarlson@example.org,+61375562899,Male,1981-12-11,Haynesmouth,Australian Capital Territory,Australia,2966,Bronze,2024-01-17,True
+C205B1176,Cory,Simpson,aliciamccoy@example.org,+61-3-5918-7276,Male,1986-09-10,West Katherinemouth,New South Wales,Australia,2671,Silver,2022-05-01,False
+C14156443,Tyler,Hubbard,sylviamartinez@example.org,+61 499 529 737,Male,2005-11-03,Campbellshire,Queensland,Australia,8167,Bronze,2025-07-31,True
+C1126082B,Monica,Butler,jim85@example.org,+61 7 4139 5253,Female,1963-12-30,West Lisaborough,New South Wales,Australia,2139,Gold,2022-05-28,True
+C65C45BC8,Suzanne,James,james61@example.com,(02)78368845,Female,1991-08-18,Lowerybury,South Australia,Australia,9450,Silver,2022-04-21,True
+CA16B2B88,Mitchell,Nelson,glenndavid@example.net,2030-0756,Male,1946-10-08,Parkershire,Northern Territory,Australia,2633,Bronze,2022-03-25,True
+C3FE9BE8B,Monica,Lyons,zcook@example.org,+61.3.6991.1568,Female,1983-06-19,South Peter,Queensland,Australia,2903,Silver,2026-01-26,True
+CDAAF8B19,Javier,White,diazdanielle@example.com,3848-3998,Male,1974-04-29,Fitzgeraldville,Western Australia,Australia,2914,Bronze,2023-04-25,True
+C9CD89C78,Tony,Davis,millerjeffrey@example.org,0483.708.100,Male,1961-05-30,East Tiffanystad,Tasmania,Australia,2685,Silver,2022-01-24,True
+CAF84207C,Benjamin,Ray,alejandra82@example.com,+61.7.9823.3452,Male,2001-10-09,Craigbury,South Australia,Australia,5323,Silver,2025-04-21,True
+C876723E2,Ashley,Dunlap,josephhunter@example.net,0426-702-474,Female,1946-02-06,Elizabethside,Queensland,Australia,2740,Silver,2023-12-26,True
+C9309759A,Joseph,Freeman,butlernancy@example.net,+61.3.9881.9727,Male,1969-03-05,St. Paigeport,Western Australia,Australia,2993,Bronze,2022-12-19,True
+CA8F89742,Jessica,Duke,terriosborne@example.org,+61705199991,Female,1980-09-01,Port Ronald,Western Australia,Australia,2683,Silver,2026-07-18,True
+CA6DB59C2,Lauren,Jackson,bcook@example.com,+61.416.487.605,Female,1947-10-10,East Michelle,Australian Capital Territory,Australia,2994,Silver,2025-02-17,True
+C13A9E9B3,Scott,Booth,shieldskristine@example.com,0416 604 767,Male,1957-02-24,North Joshua,New South Wales,Australia,1937,Bronze,2022-09-28,False
+C6332C07F,Kim,Bush,hwright@example.net,(02) 5697 8243,Female,1950-01-13,Brownberg,New South Wales,Australia,2956,Bronze,2026-04-21,False
+C4F26A069,Brenda,Solomon,stricklandbrett@example.org,02.6132.9917,Female,1960-02-06,Marioborough,Western Australia,Australia,2650,Bronze,2022-07-30,True
+C2C592522,Richard,Torres,ycarr@example.com,0429 052 834,Male,1971-12-18,Calebview,Tasmania,Australia,2920,Bronze,2024-08-26,True
+C004B90AF,Cody,Melendez,jenniferhill@example.org,(07).0872.2611,Male,1978-12-19,Miguelmouth,Victoria,Australia,2674,Bronze,2025-02-11,True
+CAFA3C883,Richard,Smith,lstewart@example.org,+61 3 2826 9362,Male,1992-05-13,Barberhaven,Victoria,Australia,4066,Bronze,2023-08-28,True
+C2DFC0259,John,Molina,gadams@example.net,+61 489 271 345,Male,1969-02-25,Calvinton,New South Wales,Australia,2073,Bronze,2023-08-20,True
+CED4BD809,Monica,Vega,johnjames@example.com,+61-426-167-994,Female,1989-01-18,St. Jessica,Australian Capital Territory,Australia,2934,Bronze,2022-04-18,True
+C7135E7ED,Shawn,Lee,lynchsteven@example.com,+61 8 1176 5722,Male,1999-02-14,East Roberto,Australian Capital Territory,Australia,2642,Gold,2024-12-15,True
+C83A41046,Samantha,Medina,brownvalerie@example.org,(02)55115771,Female,1959-11-28,Travisport,New South Wales,Australia,3928,Bronze,2023-06-21,True
+C684E837E,Richard,Gamble,williamestes@example.net,02.3984.4315,Male,1997-10-07,Waltonfurt,Australian Capital Territory,Australia,2560,Bronze,2022-01-11,True
+CE3C75309,Miguel,Alexander,lisa84@example.net,+61.2.6385.3735,Male,1967-06-04,Cooperton,Western Australia,Australia,2915,Bronze,2026-01-24,True
+CFAAE3F32,Anne,Cole,lopezmichelle@example.org,+61.7.8887.6954,Female,1986-10-23,Sarahhaven,South Australia,Australia,2627,Silver,2024-05-10,True
+C6C1D5B7B,Andrew,Ruiz,kimberlycastillo@example.com,2317.5902,Male,1949-04-09,Lake Edward,Western Australia,Australia,2616,Bronze,2026-02-27,True
+CAE94E8ED,Amanda,Smith,kristywilson@example.net,(03)21235154,Female,1983-03-09,Brooksland,Western Australia,Australia,2680,Silver,2025-07-23,True
+C80E4C459,Brenda,Guzman,tbolton@example.net,91565872,Female,2001-05-28,Lake John,Victoria,Australia,2941,Gold,2022-03-16,True
+C4C73B2BA,Larry,Grant,johnperez@example.org,+61-7-5228-5989,Male,1961-05-11,New Debbie,Northern Territory,Australia,0992,Bronze,2022-08-05,True
+CB1A8CA5C,Anthony,Smith,pamelamueller@example.org,28568609,Male,1973-02-14,Lake Jose,South Australia,Australia,2890,Bronze,2024-03-30,True
+CF1AA638F,Cindy,Ho,omcgee@example.com,0432 572 015,Female,2004-11-07,Lake Justin,Queensland,Australia,2947,Bronze,2022-11-09,True
+C1DD8FF50,Mary,Sosa,troy74@example.org,0418-675-564,Female,1997-04-05,Keyhaven,Western Australia,Australia,2978,Gold,2024-05-15,False
+C28663016,Brandy,Moore,johnbradley@example.com,+61 7 4481 3471,Female,1983-05-30,St. Andreafort,New South Wales,Australia,4309,Bronze,2024-03-23,True
+C3C05EBB3,Michael,Evans,christinamccoy@example.net,(03)56510798,Male,1959-11-10,Jacobport,South Australia,Australia,2885,Platinum,2026-04-22,True
+C8296234A,Julia,Nguyen,robertsmith@example.org,+61.444.424.531,Female,2002-03-28,West Andreaview,Western Australia,Australia,2584,Silver,2023-04-06,False
+CE77907F7,Joshua,Clay,anthony39@example.net,(02)48983842,Male,1948-11-24,Elizabethtown,Victoria,Australia,1115,Bronze,2026-03-19,True
+C827B61C0,Elizabeth,Bennett,imorales@example.org,(08) 7024 2875,Female,1961-09-28,Hallmouth,South Australia,Australia,2638,Gold,2021-09-22,False
+C29747D91,Jennifer,Obrien,daniellemcmillan@example.net,0499 214 844,Female,2005-10-02,Rayview,Queensland,Australia,2619,Bronze,2023-06-24,True
+C85E404D5,John,Davis,torresscott@example.net,02 3641 0560,Male,1974-03-12,Kerrifort,Queensland,Australia,6259,Bronze,2023-12-13,False
+CB0F81F88,Jeffrey,Gordon,lynn75@example.com,2814 0392,Male,1980-02-17,Ambertown,Victoria,Australia,2619,Bronze,2024-08-02,False
+CD27EA295,Craig,Sanchez,steven16@example.net,0297148540,Male,1960-02-27,South Amyview,Queensland,Australia,2257,Bronze,2023-11-16,True
+C23ABB192,Dennis,Walton,trodriguez@example.net,(08) 7912 3224,Male,1959-12-16,West Davidview,South Australia,Australia,2698,Bronze,2023-09-20,True
+C4A4C17B2,Francis,Moss,scottwright@example.net,+61.3.3055.3960,Male,1947-03-18,Gabrielafurt,Tasmania,Australia,2238,Platinum,2022-07-24,True
+CBDDB0690,Joshua,Green,kristine87@example.org,3616 1496,Male,1950-05-03,East Jonathantown,Western Australia,Australia,2654,Bronze,2026-07-12,True
+C6B38C8DE,Shaun,Jordan,millergloria@example.org,+61.400.502.212,Male,1960-12-09,West Jennifer,Northern Territory,Australia,2630,Bronze,2025-11-13,True
+C036983B5,David,Wood,rogertate@example.com,0427.266.717,Male,1991-05-15,Sarahhaven,South Australia,Australia,2673,Bronze,2023-11-03,True
+C08A67F3C,Matthew,Duncan,glen11@example.org,03 1086 7975,Male,1963-02-23,St. Wendy,Tasmania,Australia,2652,Silver,2021-10-22,True
+C72FE3F98,Gregory,Riley,ysimpson@example.org,0882880836,Male,1950-09-03,Smithhaven,South Australia,Australia,2671,Bronze,2023-06-05,True
+C2EBD14A1,Sean,Nash,chambersdiana@example.org,+61 3 7125 6778,Male,1978-07-06,St. Sylviaview,Western Australia,Australia,2656,Bronze,2022-07-12,True
+C3D8FC35D,Colton,Chen,brian48@example.com,07-1799-9648,Male,1959-06-16,Smithside,Victoria,Australia,6072,Bronze,2023-04-19,True
+C5F8FD219,Henry,Oconnor,annette23@example.net,+61 3 9805 4779,Male,1982-08-11,St. Katiehaven,Tasmania,Australia,0983,Silver,2025-09-10,True
+C1EF26F19,Sophia,George,wesley54@example.com,0718622461,Female,1965-06-16,Port Lauren,South Australia,Australia,2603,Bronze,2025-01-22,True
+CF5B307D3,Felicia,Lambert,imorgan@example.org,(03).9350.2552,Female,1948-09-08,Lisaville,New South Wales,Australia,2932,Silver,2026-06-17,False
+C393B1B0B,Joshua,Bowman,cruzkristina@example.net,+61-2-4381-6983,Male,1954-10-20,Crystalberg,Northern Territory,Australia,2252,Bronze,2025-07-24,True
+C57973D58,Amanda,Roy,michael50@example.org,08-1862-0977,Female,1970-05-14,Jonathanbury,Tasmania,Australia,2625,Bronze,2025-10-17,True
+C44552278,Justin,Jackson,browncarlos@example.com,5313-7470,Male,1972-11-10,Markborough,South Australia,Australia,2618,Silver,2025-09-10,True
+C3992FB6E,James,Smith,atkinsbrittney@example.com,69656948,Male,1986-05-30,West Willie,Queensland,Australia,2658,Silver,2021-08-21,True
+CCE997067,Ashley,Smith,elizabethhaynes@example.net,0492.419.955,Female,1953-11-01,Craigborough,Australian Capital Territory,Australia,2922,Bronze,2022-01-26,False
+C24D81D72,Kimberly,Friedman,doyleautumn@example.net,+61-7-8171-4497,Female,2006-10-24,West Christopherborough,Australian Capital Territory,Australia,2948,Bronze,2023-01-27,True
+C858B36C0,Brian,Gentry,tammytyler@example.net,(08) 5221 3330,Male,1973-12-12,Lake Jonathanbury,Queensland,Australia,2699,Bronze,2023-08-01,False
+C9CBD5DBF,Jared,Johnson,alexander21@example.com,(03)81814793,Male,1988-04-15,New Donna,Western Australia,Australia,2920,Gold,2025-04-20,False
+CEB496AB3,Jonathan,Mcbride,theresagaines@example.net,8147.2257,Male,1958-12-26,New Kaylachester,Tasmania,Australia,2614,Bronze,2025-12-03,True
+CBAE81E46,Cheryl,Nelson,timothy30@example.net,0457-152-089,Female,1952-07-10,Port Craigfort,Western Australia,Australia,2918,Platinum,2024-12-12,True
+C5922CEC9,Charlene,Cox,sellersronald@example.com,+61-417-955-009,Female,1955-02-14,South Patricia,Victoria,Australia,0879,Bronze,2023-01-09,False
+C7CEAA05B,Jeffery,Nichols,dennis02@example.com,07 9926 8038,Male,1980-03-13,North Douglas,Australian Capital Territory,Australia,2836,Silver,2025-11-11,True
+C5155EE85,Amber,Fernandez,tnguyen@example.org,+61.8.3012.9103,Female,1991-11-17,Rileybury,Victoria,Australia,2910,Bronze,2021-10-05,True
+C89CF6256,Wesley,Jones,anthonyray@example.com,(03) 7205 9768,Male,1976-08-28,Andrewstad,Queensland,Australia,2002,Bronze,2026-04-22,True
+C7F9336EC,Mary,Johns,ronald16@example.org,+61-3-8125-4387,Female,1961-06-17,Alvaradomouth,Australian Capital Territory,Australia,2953,Gold,2023-08-19,True
+CC31AF19E,David,Miller,jenniferrojas@example.com,+61 425 320 363,Male,1969-04-13,East Randybury,New South Wales,Australia,2671,Gold,2024-04-01,True
+CF0ACF9B4,Penny,Rice,michael53@example.net,0816006239,Female,1964-03-11,Wattsport,Tasmania,Australia,1436,Bronze,2024-08-27,True
+CCED84237,Nicole,Jenkins,cody47@example.net,+61350357925,Female,1994-10-26,New Katherineville,Tasmania,Australia,6715,Silver,2026-07-10,True
+C36CAE302,Nicole,Parker,michaelroberson@example.org,(08).8647.9206,Female,1964-12-13,Miguelchester,Tasmania,Australia,2566,Silver,2024-02-10,True
+CDBC04184,Amy,Silva,bauerdarryl@example.com,+61 490 918 407,Female,1988-09-23,South Billy,New South Wales,Australia,2626,Gold,2023-07-28,True
+C8AAA298D,Michael,Long,williamsthomas@example.org,+61.414.020.178,Male,2001-01-31,Meganmouth,Victoria,Australia,4741,Gold,2021-10-04,True
+C8B22456F,Allison,Bates,jonesjoseph@example.org,(02) 8349 7590,Female,1998-08-19,Lopeztown,Western Australia,Australia,2903,Bronze,2024-07-20,True
+C4170F849,Zachary,Armstrong,mallorysullivan@example.com,07 8313 3487,Male,1974-06-19,Rubenbury,Northern Territory,Australia,2981,Silver,2024-05-09,True
+C94B9A148,Michael,Joyce,fbrown@example.com,0407-585-330,Male,1998-08-10,Lindseymouth,Northern Territory,Australia,2816,Gold,2024-06-17,True
+C1D0B1B5F,Linda,Gonzalez,joshua66@example.net,27597355,Female,1956-05-21,Smithport,Northern Territory,Australia,5098,Bronze,2022-06-13,True
+CE8CD577A,Michael,Rowe,marksstefanie@example.net,(08)-1582-4337,Male,1951-12-18,Shawnchester,Tasmania,Australia,0838,Silver,2022-12-06,True
+C3A1733FE,Jamie,Walker,gwise@example.com,03.6039.4617,Female,2001-11-09,West Brendan,Queensland,Australia,0249,Bronze,2024-12-25,True
+CA9516E82,Natalie,Gutierrez,josephwilliams@example.net,0417-169-317,Female,1983-10-05,Williamton,Tasmania,Australia,6866,Platinum,2026-02-13,True
+C56004C55,Angela,Pineda,omiller@example.net,(02)-4296-6906,Female,1984-08-08,East Matthew,Tasmania,Australia,1228,Bronze,2025-10-27,True
+CB60B8543,Allen,Shaw,susanlawson@example.com,6851.6384,Male,2007-10-10,East Jeffport,Northern Territory,Australia,2634,Silver,2024-10-03,True
+C76A8DA3B,Jeffrey,Gutierrez,vcarpenter@example.net,(03)-7021-6615,Male,1998-03-05,Websterborough,Australian Capital Territory,Australia,2170,Gold,2022-05-01,True
+CE895E4A3,Stephen,Stone,raymond90@example.net,(02)27014781,Male,1965-10-20,Allisonview,Tasmania,Australia,9170,Bronze,2025-06-17,True
+C8C7BA890,Melissa,Bowers,dhodge@example.org,+61-3-1519-3773,Female,1979-09-07,Martinbury,Western Australia,Australia,2902,Silver,2022-06-16,True
+C071F4902,Margaret,Anderson,andrea48@example.com,(07).7045.3711,Female,1969-09-17,Jermainemouth,South Australia,Australia,2601,Bronze,2022-09-27,True
+C00005186,Michael,Obrien,daniellegomez@example.com,7804.1207,Male,2002-08-24,Maryland,Tasmania,Australia,2608,Silver,2023-04-08,False
+C634A9898,Julie,Baxter,andersenpatricia@example.net,0451.835.874,Female,1945-09-09,West Leah,New South Wales,Australia,4455,Silver,2023-01-08,True
+CBA7EC09E,Anthony,Curtis,kimberlycarr@example.com,+61 3 5772 4175,Male,1946-05-01,New Aprilland,Northern Territory,Australia,2995,Bronze,2025-02-15,True
+C8E0102F2,Kathleen,Sosa,hayesamanda@example.net,0493 769 883,Female,1993-04-23,Flemingberg,South Australia,Australia,2670,Bronze,2023-08-20,True
+C1D18D9FD,Dylan,Roberts,julie67@example.org,+61-8-6837-4015,Male,1963-02-08,Port Anthony,Tasmania,Australia,2685,Gold,2025-05-07,True
+C8AAA77E7,Justin,Acosta,smithashley@example.com,07-8053-8264,Male,1969-01-30,New Heather,Tasmania,Australia,0816,Silver,2025-09-06,True
+C3E59FD66,Scott,Romero,jensensarah@example.com,8748-6472,Male,1953-08-10,East Jose,Victoria,Australia,2697,Silver,2022-10-28,True
+C20B777D0,Miguel,Gonzales,fcarr@example.com,+61.3.5199.5503,Male,1986-02-03,New Wesley,Victoria,Australia,2358,Silver,2026-05-24,True
+C99236266,Michael,Palmer,sawyerkaren@example.com,+61-2-5894-5975,Male,1980-07-15,New Beverlyshire,Victoria,Australia,0858,Bronze,2026-02-07,True
+CBC2DED86,Shannon,Bowman,vmiller@example.net,0454-710-881,Female,1950-05-27,Heidiborough,South Australia,Australia,2974,Gold,2022-05-31,True
+CE40ED25C,Erin,White,amy43@example.net,+61.3.4023.8327,Female,1975-05-08,Justinfurt,New South Wales,Australia,2301,Bronze,2023-01-04,True
+CC5EC9A50,Jordan,Middleton,creynolds@example.org,(08).6722.3557,Male,1949-11-10,Diazville,Tasmania,Australia,2674,Silver,2024-03-19,True
+C38DEC50C,Heather,Horton,gbrown@example.com,(07)04902132,Female,1994-10-06,Lake Jessicaport,Western Australia,Australia,2316,Silver,2022-02-03,False
+C4C625F55,Chase,Smith,michaelbass@example.com,02.4237.4625,Male,2008-06-03,East Mark,Western Australia,Australia,3007,Bronze,2023-12-04,True
+C7BA1AFDF,James,Martinez,qhendricks@example.com,+61-8-9285-5010,Male,1997-03-09,East Seanland,Northern Territory,Australia,2921,Bronze,2024-11-16,True
+CF884B9D1,Shawn,Harvey,sandersthomas@example.com,02-3556-0471,Male,1989-02-12,New Scottport,New South Wales,Australia,2684,Bronze,2025-08-21,True
+C6A8C2FFC,Andrew,Thornton,alexisperez@example.com,02-5966-4074,Male,1952-01-22,St. Catherineberg,Western Australia,Australia,0861,Bronze,2023-12-08,True
+CD0D55AD7,Tanya,Duarte,marcia47@example.net,0418-462-600,Female,1974-11-12,Lake Andrew,South Australia,Australia,2755,Bronze,2022-03-26,True
+C05B68E54,Heidi,Galvan,crystal01@example.org,07.0076.3024,Female,1991-02-19,North Rachelport,South Australia,Australia,2619,Bronze,2025-05-03,True
+C192D92F5,Albert,Cox,ewall@example.net,(08)-5683-6438,Male,1995-05-10,New Courtneymouth,Northern Territory,Australia,9043,Bronze,2023-05-19,True
+CA6145A5D,Brittany,Butler,charlesjohnson@example.org,+61208547342,Female,2004-01-15,Kellerside,Western Australia,Australia,2647,Bronze,2021-07-30,True
+C168FD6F7,Grace,Gillespie,mcintoshmeredith@example.com,08-3081-7744,Female,1996-03-07,Danielmouth,South Australia,Australia,4796,Silver,2023-11-30,True
+CC9C8F8EC,Eric,Pollard,paulwright@example.com,(02)32694382,Male,1982-09-30,Dickersonview,New South Wales,Australia,2924,Bronze,2023-04-02,False
+C561BD99D,Brandon,Diaz,kbarnes@example.com,7922.4999,Male,1984-04-26,West Juliamouth,Northern Territory,Australia,2945,Bronze,2023-01-15,True
+C11795DD5,Anthony,Moore,llewis@example.org,+61-433-356-429,Male,1998-05-03,West Alexanderside,Tasmania,Australia,2656,Silver,2023-11-13,True
+C410441D6,Daniel,Webb,ericandrews@example.net,0409 320 816,Male,1963-04-28,Rhondaberg,Tasmania,Australia,2555,Silver,2024-10-29,True
+C9A00D987,James,Herrera,tyler58@example.org,8555-8534,Male,1999-03-31,Adamtown,Queensland,Australia,2645,Bronze,2024-03-23,True
+CF0B8412D,David,Carson,miguel20@example.com,(08)-6337-5717,Male,1984-07-29,Thomasport,South Australia,Australia,7939,Platinum,2023-03-08,True
+C03061FD4,Renee,Hodges,bking@example.org,7703-8973,Female,2006-11-09,Lake Wendy,Australian Capital Territory,Australia,2244,Bronze,2023-04-30,True
+CF24420B8,Dennis,Jordan,teresa48@example.com,+61369282705,Male,2004-06-05,South Williamburgh,New South Wales,Australia,2695,Silver,2021-12-23,True
+CC580ED1F,William,Meza,brandirussell@example.net,(03)-8027-4954,Male,1989-07-20,West Michael,New South Wales,Australia,2585,Bronze,2022-04-30,True
+C80D6A7DE,Kent,Mcgee,kellerconnor@example.org,+61-488-011-213,Male,1966-03-13,Lake Kendra,Australian Capital Territory,Australia,2974,Silver,2025-01-28,True
+C8C317299,Rachel,Moss,desiree95@example.org,+61-3-4306-9277,Female,1962-01-12,Loriland,New South Wales,Australia,4190,Silver,2025-08-24,True
+CABF61D5B,Richard,Austin,bmcmillan@example.net,0433 348 650,Male,1990-04-19,Lake Adam,Victoria,Australia,2664,Bronze,2024-11-27,False
+C927A85A1,Steven,Snyder,nancyjensen@example.net,(07)-2395-3248,Male,1959-04-18,Bryanborough,Queensland,Australia,5136,Bronze,2025-11-25,True
+C0625EB97,Jared,Allen,brian26@example.net,08-7543-9974,Male,1970-09-02,Aliciashire,South Australia,Australia,2965,Bronze,2026-02-18,True
+C33E3C768,Latasha,Johnson,jeffreygreen@example.org,(07)-1251-5052,Female,1973-08-05,New Scottfort,South Australia,Australia,2610,Silver,2023-04-08,True
+C4A544AFB,Matthew,Perez,rmccullough@example.net,(02)-4915-9629,Male,1959-11-24,Taylorside,Western Australia,Australia,2920,Gold,2025-03-03,True
+CC60FD039,Elizabeth,Alexander,jennifer49@example.net,+61.402.972.010,Female,1965-08-20,Davidland,Northern Territory,Australia,2615,Gold,2023-03-01,True
+C57453CFE,Crystal,Taylor,antonio84@example.com,2775-0432,Female,1945-10-01,Lake Sharon,New South Wales,Australia,2685,Bronze,2024-12-05,True
+CEB8989AF,Peggy,Ward,carlawalton@example.net,7250 0636,Female,1992-03-10,Lake Whitneyport,Western Australia,Australia,2802,Bronze,2026-05-02,True
+C09EE6284,Carrie,Edwards,jasonanderson@example.org,03 3638 0418,Female,1972-04-15,South Tinamouth,Western Australia,Australia,2924,Silver,2025-06-29,True
+CAD5E04EE,Nancy,Davis,rrodriguez@example.net,+61 421 611 764,Female,1987-07-14,Tonyburgh,South Australia,Australia,2636,Bronze,2025-10-30,True
+CC2541C41,Robert,White,ymora@example.com,03.8278.9501,Male,1953-02-25,St. Brianview,Australian Capital Territory,Australia,2619,Bronze,2022-07-24,True
+C1DBDB068,Brittany,Garcia,jennifer00@example.org,(07).4085.6863,Female,1997-09-20,Patriciaport,Northern Territory,Australia,2721,Platinum,2022-03-22,True
+CBB56FE43,Rachel,Perez,davidmcbride@example.com,0291506741,Female,1949-01-16,East Heidi,Northern Territory,Australia,2558,Silver,2022-02-25,True
+CDCD519A3,Erica,Crawford,rodriguezhannah@example.com,0428 740 775,Female,1987-12-31,Vaughnchester,Western Australia,Australia,2662,Bronze,2026-03-02,True
+C49AE5C6B,Joshua,Smith,mary25@example.org,(03).4562.3034,Male,1960-07-14,Port Kyle,New South Wales,Australia,2453,Bronze,2023-10-17,False
+CE7543D82,Daniel,Brown,lisatyler@example.com,(07) 8043 2312,Male,1953-07-30,East Michellebury,New South Wales,Australia,2626,Bronze,2026-07-02,True
+C52EE137F,Joel,Hill,barbara30@example.net,+61 491 395 614,Male,1999-01-28,South Rodneyberg,South Australia,Australia,7003,Bronze,2023-04-17,True
+C14978B24,Carolyn,Hughes,romanmark@example.org,(08)-9133-3337,Female,1974-09-27,Kennethfurt,Australian Capital Territory,Australia,2882,Silver,2021-12-27,True
+C70E6ECEA,Catherine,Ramirez,biancabarnett@example.org,+61 7 1445 6817,Female,1991-01-04,Lake Brandon,Northern Territory,Australia,2252,Bronze,2025-06-15,True
+CE64962D3,Miguel,Shelton,sanchezlindsey@example.com,0860586132,Male,1970-10-05,Brownberg,Northern Territory,Australia,5083,Silver,2025-04-03,False
+CD25E0720,Jerry,Washington,jessicameadows@example.net,+61-459-024-843,Male,1953-03-22,Aaronchester,Australian Capital Territory,Australia,2637,Bronze,2025-01-03,True
+CE6FA8131,Andrea,Jordan,opotts@example.com,0492 866 283,Female,1953-10-29,Hernandezmouth,Northern Territory,Australia,2959,Bronze,2024-09-02,True
+CEEF79263,Jared,Smith,brendapatel@example.org,(03)-9912-4593,Male,1989-10-11,Port Cameronhaven,Australian Capital Territory,Australia,2932,Bronze,2021-10-25,True
+C2881DACF,Jay,Davis,katie20@example.com,(02)83075809,Male,1997-02-08,North Connieport,Northern Territory,Australia,2648,Gold,2025-04-03,True
+C817F1C3D,Stephanie,Stewart,charrison@example.org,+61-8-2064-4381,Female,2002-05-01,Alyssamouth,Australian Capital Territory,Australia,0809,Silver,2022-05-12,True
+C31FC261E,Tyler,Suarez,blackpatricia@example.com,+61 490 956 405,Male,1964-01-19,Tuckermouth,South Australia,Australia,2932,Bronze,2023-01-31,True
+C89BA947A,Joshua,Delacruz,ricardo08@example.net,+61 422 374 653,Male,1960-03-31,Lake Justinview,Australian Capital Territory,Australia,2653,Silver,2023-01-12,True
+CBB5BA9D3,Gabriel,Chavez,dana31@example.org,+61 3 4216 6743,Male,1952-07-27,New Michael,Western Australia,Australia,2732,Bronze,2021-09-05,False
+C79DD7448,Randall,Gay,mary26@example.com,3092.7977,Male,1955-09-03,Jackmouth,Tasmania,Australia,2946,Gold,2024-12-02,True
+CA4FCD8F5,James,Dickson,kingjohn@example.net,+61-406-053-325,Male,1970-04-17,Jeremyberg,Northern Territory,Australia,2599,Bronze,2022-04-14,True
+CDAF76AA4,Douglas,Douglas,jguzman@example.org,(08)22568979,Male,1953-09-26,Lake Nicholasstad,New South Wales,Australia,2694,Bronze,2025-10-28,True
+C608E546F,Joyce,Grant,colemanpatrick@example.org,(02).3602.4277,Female,2001-01-13,Alvareztown,New South Wales,Australia,2954,Bronze,2024-04-03,True
+CBD39A240,Thomas,Anthony,nicholassingh@example.org,0472 183 560,Male,2005-04-22,Martinezchester,Northern Territory,Australia,3905,Silver,2026-04-25,True
+CCBE483FF,Sean,Ochoa,diamondsantos@example.com,+61.2.2891.1700,Male,1972-04-15,Blakeport,Australian Capital Territory,Australia,9923,Gold,2023-02-12,True
+C0658F527,Sarah,Jimenez,houstonedgar@example.org,08.4098.0219,Female,1969-11-03,South Jamesville,Australian Capital Territory,Australia,2696,Silver,2026-02-17,True
+C65F703A7,Amy,Miller,nicole67@example.com,(03)48467070,Female,1953-11-14,Mullenville,Northern Territory,Australia,2625,Silver,2023-02-01,True
+CFC2AD85F,Chris,Li,crystalschneider@example.org,(03).6137.6480,Male,1996-04-09,New William,New South Wales,Australia,0242,Bronze,2022-11-09,True
+C275AA513,Amber,Blevins,chahn@example.net,+61 2 3353 6638,Female,1958-08-13,South Claytonmouth,South Australia,Australia,2953,Gold,2025-06-21,True
+C1C4F8D92,Adrian,Peterson,bthompson@example.com,02 6734 8553,Male,1953-02-23,Lake Alexander,New South Wales,Australia,2636,Bronze,2022-11-25,True
+C47D84E76,Pamela,Patterson,karen52@example.net,(07)88611522,Female,1970-05-02,Pittmanport,Victoria,Australia,2970,Gold,2024-04-06,True
+C6E3608F0,Austin,Martinez,varcher@example.org,0484.558.673,Male,1978-11-23,Henryport,Victoria,Australia,0879,Platinum,2024-07-18,True
+C8934043A,Joseph,Morris,ycarlson@example.net,0460-293-930,Male,1962-10-26,Livingstonfurt,Queensland,Australia,1190,Silver,2025-11-11,True
+C2A326CC4,Tracy,Cannon,alleneric@example.org,(02) 3251 2424,Female,1977-06-24,Clintonmouth,Tasmania,Australia,0865,Bronze,2023-09-05,True
+C110B0089,Richard,Martin,charlesshannon@example.com,+61-2-0773-6511,Male,1996-08-23,St. James,Victoria,Australia,9438,Bronze,2021-11-24,True
+C44C179C1,Christina,Gonzales,nicholsonkenneth@example.com,+61764452963,Female,1957-12-03,South Michaelville,Australian Capital Territory,Australia,7996,Silver,2026-04-14,True
+C63BA2332,Maria,Bell,brendawashington@example.com,0236870397,Female,2002-01-10,New Kimberlyland,Queensland,Australia,2920,Gold,2022-05-06,True
+CB3CC70EF,Joshua,Arias,rpeterson@example.com,+61 7 0771 6462,Male,1970-02-24,South Christopher,Australian Capital Territory,Australia,2698,Bronze,2023-07-26,True
+CF1EB18DA,James,Simmons,bergbrandy@example.org,+61.465.337.794,Male,1972-03-03,Lisamouth,South Australia,Australia,4132,Bronze,2025-03-10,True
+CC2A7DA9A,Heather,Petty,warrenvincent@example.com,0427.153.158,Female,1997-01-22,New Matthew,Tasmania,Australia,2695,Gold,2021-12-21,True
+C961514A3,Joseph,Bennett,oneilljoshua@example.com,+61.438.203.180,Male,1981-01-22,Suebury,Victoria,Australia,2971,Bronze,2025-10-08,True
+CCB8F7F35,Ryan,Wu,robert30@example.net,02810528,Male,1975-07-29,South Robertborough,Western Australia,Australia,2974,Bronze,2023-04-13,True
+C9EE6AB0C,Amanda,Griffin,gregory47@example.org,(07)58656667,Female,1964-01-24,New Douglasfurt,New South Wales,Australia,2831,Bronze,2026-04-27,True
+CE064E7F1,Craig,Duarte,jennifer03@example.org,(03).1038.8823,Male,1956-12-05,West Brittanytown,Northern Territory,Australia,2648,Bronze,2022-02-23,True
+CF2B518A5,Lawrence,Hughes,tiffanyjohnson@example.com,+61 2 1710 6681,Male,1974-10-15,St. Craigbury,Northern Territory,Australia,2693,Bronze,2023-07-31,True
+CE1A2C713,Mary,Singleton,iangonzalez@example.net,0411-940-033,Female,1950-05-17,Osborneville,Tasmania,Australia,2618,Silver,2025-03-26,True
+CEE8142B0,Jasmine,Walsh,lrodriguez@example.com,0711287279,Female,1977-11-29,Kellyberg,Australian Capital Territory,Australia,4856,Bronze,2025-02-27,True
+C71557E4B,Tiffany,Riley,stacey14@example.com,0394122248,Female,1998-03-19,Sherryberg,Tasmania,Australia,2669,Silver,2022-07-01,True
+CDDE98B1B,Johnny,Williams,douglas55@example.net,+61 7 9414 6190,Male,1988-10-05,St. Dillonberg,South Australia,Australia,2277,Bronze,2023-12-12,False
+CD783C960,Amanda,Fox,alex36@example.com,+61-8-7959-1597,Female,1964-03-23,Raymondside,New South Wales,Australia,3905,Gold,2024-04-30,False
+CC3697868,Francisco,Walker,bethany89@example.net,+61 491 903 890,Male,1996-09-20,New Michellefort,South Australia,Australia,8279,Silver,2024-05-28,True
+CCAEC8A41,James,Bailey,isaacbaker@example.org,97761419,Male,1988-06-29,New Lisa,Tasmania,Australia,2920,Bronze,2022-07-11,True
+C42B83B12,Caitlin,Miller,rhondabradford@example.com,08 0381 9383,Female,1953-11-15,Dannystad,South Australia,Australia,0258,Bronze,2025-06-04,True
+CEF55439E,Lisa,Thompson,priggs@example.org,+61 8 1883 4911,Female,1994-05-05,East Shannonton,Western Australia,Australia,0275,Bronze,2024-12-25,True
+CECE5EF0B,Kenneth,Marquez,welchalexander@example.org,+61 440 225 530,Male,1977-03-11,West Marktown,Northern Territory,Australia,2619,Bronze,2021-11-03,True
+C7ED795A7,Matthew,Patterson,carlsonmadison@example.org,+61-462-459-319,Male,1961-06-16,Terrellfurt,Australian Capital Territory,Australia,5397,Platinum,2023-11-01,True
+C27ED3860,George,Clark,susanshaw@example.net,6052-2197,Male,2007-03-19,North Deniseburgh,South Australia,Australia,2686,Bronze,2022-04-05,True
+CFE51B6CB,Nicholas,Chung,xwilson@example.org,6465.4994,Male,2003-06-12,Owenmouth,South Australia,Australia,2360,Silver,2024-01-06,True
+CF8F08DAA,Jeremy,Weiss,david51@example.net,(07)64204611,Male,1995-06-20,Georgefurt,South Australia,Australia,2648,Bronze,2025-11-22,True
+C45AF20F1,Troy,Vang,pamelamercer@example.org,08.3508.8520,Male,2000-08-26,Nicholeshire,Northern Territory,Australia,6085,Bronze,2021-08-08,True
+CCDD72706,Andrew,Ross,jacksoncarolyn@example.org,+61 446 407 145,Male,1957-08-09,Port Dillon,Northern Territory,Australia,2175,Bronze,2021-10-07,True
+C486E1A76,Joshua,Jones,lorikey@example.com,03.2538.4161,Male,1967-07-30,North Travisburgh,Western Australia,Australia,2685,Bronze,2021-12-24,True
+C302AC383,Eric,Cohen,bkrueger@example.net,15386537,Male,1979-06-29,Greerhaven,Northern Territory,Australia,2678,Bronze,2024-04-02,True
+C46944F49,William,Martin,gutierrezjoseph@example.com,+61 2 5138 7301,Male,1947-06-09,Cartershire,Queensland,Australia,2920,Gold,2024-08-01,True
+C7711C637,Darlene,Turner,martinezrobert@example.com,08 4996 3945,Female,1959-03-25,Woodton,Northern Territory,Australia,2963,Bronze,2024-01-09,True
+C312E6D28,Amy,Edwards,raymondreed@example.com,(03).7704.5714,Female,1947-05-07,North Hannahport,South Australia,Australia,2963,Bronze,2025-11-24,True
+C0A066988,Jessica,Ali,uowens@example.com,7369-9083,Female,1965-03-02,Henryton,South Australia,Australia,2690,Bronze,2023-03-16,True
+CAEDFCEDD,Mark,Hutchinson,qstone@example.com,20665009,Male,1953-03-07,St. Miguel,Victoria,Australia,7143,Silver,2025-04-25,True
+C7FEDE7BE,Jennifer,Smith,melissapena@example.org,07-2989-1884,Female,1977-03-10,New Traciton,Victoria,Australia,0909,Bronze,2026-06-08,True
+C8B013D7A,Jennifer,Gillespie,ujohnson@example.org,+61 3 5411 2545,Female,1950-08-14,Port Daniel,Victoria,Australia,2938,Bronze,2023-06-14,True
+C32FE915A,John,Phillips,kevinjackson@example.com,8348.3531,Male,1962-04-20,North Peggyside,Western Australia,Australia,2486,Gold,2025-05-16,True
+C5AD02798,Tanya,Riley,edgarbaird@example.net,03 0437 7516,Female,1988-05-24,West Tina,Western Australia,Australia,2037,Bronze,2026-04-28,True
+C9AF11ED2,Michelle,Lewis,smithmaria@example.net,0476.730.999,Female,1951-07-26,Justintown,Queensland,Australia,2658,Gold,2024-04-17,True
+CC8D0E025,Sandra,Martinez,bfoster@example.net,03.8988.6106,Female,1973-06-19,Woodsville,Tasmania,Australia,2982,Bronze,2026-03-12,True
+C09E14B29,Kathleen,Wright,travis63@example.com,08 0510 8059,Female,1950-02-06,Craigstad,Western Australia,Australia,2992,Bronze,2021-07-28,True
+C995DEEBC,Kevin,Hardy,fyoung@example.com,+61266606596,Male,1949-12-30,West Amanda,New South Wales,Australia,0951,Bronze,2021-12-25,True
+C2DEFB249,Kelsey,Carter,ramseybrooke@example.org,+61 485 557 465,Female,1957-04-14,East Bradley,Northern Territory,Australia,2608,Bronze,2026-04-20,True
+CF4C09544,Ashley,Simmons,hkim@example.org,0449 456 215,Female,1978-05-07,West Jesus,Australian Capital Territory,Australia,2983,Bronze,2023-08-28,True
+C116215E3,Carmen,Berry,ndillon@example.net,07-7904-1919,Female,1978-12-23,Kleintown,Northern Territory,Australia,2640,Silver,2021-11-07,True
+C2C50FFC8,John,Fowler,daniel72@example.net,+61-439-747-763,Male,1989-10-18,Jennifermouth,Western Australia,Australia,9472,Silver,2022-02-18,True
+C7DD414C9,Kristina,Vazquez,kirkjohnson@example.com,(07)-4223-3838,Female,1948-07-26,West Diane,Western Australia,Australia,2642,Silver,2022-01-26,False
+C67F7E7E7,Amanda,Brown,williamselizabeth@example.com,02 5574 8990,Female,1970-02-01,Norrisstad,Queensland,Australia,2694,Gold,2022-08-17,True
+C765AA70F,John,Smith,wmiddleton@example.org,+61-461-447-770,Male,1988-08-25,St. Victoria,South Australia,Australia,3206,Bronze,2023-09-23,True
+C852EB09F,John,Rodriguez,joelcastillo@example.org,3180.4885,Male,1986-11-10,Murphyton,New South Wales,Australia,0201,Bronze,2021-12-01,True
+C0E0A366C,Ryan,Smith,hannah96@example.net,+61.3.9933.6909,Male,1979-09-18,Brownburgh,Australian Capital Territory,Australia,2614,Gold,2023-06-19,True
+CA72266FC,Brandon,Morales,darius53@example.com,0472.810.196,Male,1997-03-30,Margaretfurt,Australian Capital Territory,Australia,2162,Bronze,2026-03-15,True
+C6BA95DF4,Ralph,Gomez,haleylevine@example.net,(07) 7003 2930,Male,2003-07-11,St. Savannah,Victoria,Australia,2955,Bronze,2024-07-22,True
+C49AF377A,Thomas,Bell,frankjessica@example.org,+61-2-5547-4473,Male,1978-04-29,Kyleville,Northern Territory,Australia,2903,Gold,2025-07-28,True
+C7CF8D14C,Julie,Garza,hendersonrachael@example.org,(07)26620772,Female,1953-02-05,Wyattville,Australian Capital Territory,Australia,8668,Gold,2025-11-19,True
+CFD0E4EC7,James,Davis,williamgarrett@example.org,4365 3985,Male,1949-05-08,South Holly,Victoria,Australia,2863,Bronze,2023-05-13,True
+C379CF535,Jeff,Brandt,wmcconnell@example.net,6929-1593,Male,1952-07-20,Markside,New South Wales,Australia,1773,Bronze,2024-10-29,False
+C9B580B2A,Shane,Frank,imarsh@example.org,03-9317-0513,Male,1979-10-16,Everettport,Western Australia,Australia,9653,Bronze,2023-09-25,False
+CB8759751,Rhonda,Martin,rbradford@example.org,(02).2977.0943,Female,1993-11-28,Morrowhaven,Australian Capital Territory,Australia,0265,Platinum,2024-07-22,True
+CD6401EF6,Robert,Cox,eric41@example.org,8505.3069,Male,1984-06-13,North Ashleyton,Queensland,Australia,2902,Bronze,2021-08-29,True
+C0D9140A1,Renee,Hodge,timothyjohnson@example.net,(02)84121369,Female,1965-01-03,Juliemouth,Australian Capital Territory,Australia,2920,Bronze,2023-06-28,True
+CF6B222EC,Christopher,Allison,timothylambert@example.com,07 1108 0285,Male,1994-12-23,St. Crystal,Northern Territory,Australia,2960,Bronze,2021-11-29,True
+C4E103547,Scott,Washington,goneal@example.org,(08).5090.3907,Male,1984-08-08,Christopherport,Northern Territory,Australia,2966,Bronze,2026-04-25,True
+C97C62D45,Andrew,Lee,dalton99@example.org,03547577,Male,1952-09-14,Williamside,South Australia,Australia,2912,Bronze,2025-03-01,True
+CC6BA39AE,Linda,Frederick,williamssteven@example.org,+61.2.0771.3620,Female,1980-09-12,West Barbara,Tasmania,Australia,2996,Silver,2023-05-03,False
+C291DB2D5,George,Moore,meganpadilla@example.com,+61 3 9773 5397,Male,1979-01-08,New Ryanfort,South Australia,Australia,2685,Bronze,2022-06-29,True
+C3B6DA5F2,Alexandra,Sullivan,thoward@example.org,0498.501.203,Female,1993-04-11,South Jennifer,Western Australia,Australia,5192,Bronze,2021-12-12,True
+CDF25FD85,Joshua,Castillo,maria78@example.com,03 2072 7777,Male,2008-06-26,Sarahshire,Australian Capital Territory,Australia,2903,Bronze,2024-05-29,True
+CCF47B669,Michael,Hicks,jerry28@example.org,0888619613,Male,2008-05-12,South Elizabethberg,New South Wales,Australia,2124,Bronze,2025-04-08,True
+C41C5DB1C,Jared,Rangel,diana66@example.com,07 4206 4191,Male,1995-06-02,South Michaeltown,Australian Capital Territory,Australia,2976,Bronze,2023-11-02,True
+C7CB3B636,Jeffery,Mcclain,rhernandez@example.org,02 7828 8762,Male,1992-03-14,Erikafort,Queensland,Australia,2946,Bronze,2023-06-07,True
+C0F4F1A62,Elizabeth,Weaver,wongheidi@example.net,0417-196-016,Female,1977-10-05,West Travis,Northern Territory,Australia,2408,Bronze,2026-05-26,True
+C5D5181F2,Michael,Barton,reidrodney@example.org,0433.608.473,Male,2000-02-15,Kingfort,Australian Capital Territory,Australia,2619,Silver,2021-12-07,False
+C5C9D0A3C,Marissa,Salazar,alejandra35@example.com,0424-486-785,Female,1975-10-20,Graystad,Victoria,Australia,2947,Bronze,2023-10-08,True
+C01FA6004,Brian,Fox,echapman@example.net,0465 636 121,Male,1990-06-11,Lake Richardborough,Australian Capital Territory,Australia,2925,Bronze,2025-11-08,True
+C551AC26B,Christopher,Mora,melissarangel@example.com,0232704522,Male,1969-06-07,Wilsonville,Tasmania,Australia,2680,Bronze,2025-10-29,True
+C961058CA,Amanda,Harris,fullerbrittany@example.com,+61 3 0511 2018,Female,1991-12-25,South Lisa,Western Australia,Australia,2973,Bronze,2022-06-06,True
+CA3FBE97B,Jenna,Schmidt,ngarner@example.com,+61 422 379 450,Female,2005-09-25,North Stephenside,New South Wales,Australia,2120,Silver,2024-04-22,True
+C22D37BC1,Samantha,Brown,brenda26@example.net,(02).0477.6743,Female,1948-05-13,Lake Bryan,Northern Territory,Australia,2946,Bronze,2024-03-13,True
+CCF20DD0F,Marie,Price,psmith@example.net,03.5976.2189,Female,1997-06-22,Robertshaven,Western Australia,Australia,2623,Bronze,2025-10-25,True
+C902FA56F,Audrey,Lindsey,xfields@example.org,+61.3.9806.6177,Female,1958-10-03,Lawrencefort,Tasmania,Australia,5219,Bronze,2022-12-06,True
+CFDC979F3,Marie,Green,christophercardenas@example.net,(02).8938.3535,Female,1984-03-06,Heatherport,Queensland,Australia,2409,Bronze,2024-08-17,True
+CBA2E9568,Charles,Mcmillan,makayla27@example.org,6040-7999,Male,1974-03-07,West Maryton,Queensland,Australia,2659,Platinum,2025-11-22,True
+C546D1AC1,Donna,Wagner,kaitlynlopez@example.com,0428.022.680,Female,1990-04-11,Carolynland,Tasmania,Australia,2956,Gold,2021-10-30,True
+CCC22B711,Jessica,Wilkins,erica77@example.org,+61-461-146-882,Female,1969-01-09,Nicholasborough,Western Australia,Australia,2660,Silver,2023-04-06,True
+CBFC385C5,Charles,Valencia,mitchell27@example.com,+61896838423,Male,1988-09-25,Millershire,South Australia,Australia,2811,Silver,2025-07-19,True
+CEEBD78EA,Christopher,Williams,drowe@example.com,+61788241011,Male,1974-01-11,Timothyland,Victoria,Australia,2908,Bronze,2022-04-16,True
+CE34AA6F6,Jacob,Joseph,daniel02@example.net,03.3473.0041,Male,1951-11-10,St. Anita,Northern Territory,Australia,1295,Bronze,2022-01-30,True
+CE8F59193,Erica,Johnson,vwright@example.net,9510 1971,Female,1980-08-06,Coreystad,New South Wales,Australia,2619,Bronze,2022-03-26,True
+CA3480D10,Nicole,Davis,cody90@example.org,+61.2.9031.2449,Female,1975-03-12,North Brittanybury,Tasmania,Australia,2394,Bronze,2023-03-16,True
+C37586EB8,Patricia,Savage,nicholas71@example.com,0478 733 628,Female,1954-12-03,Port Loriside,Queensland,Australia,2635,Bronze,2022-09-01,False
+CBF3EA840,Mary,Brown,flemingsamuel@example.net,6379.4105,Female,1949-12-02,New Matthew,Victoria,Australia,2056,Bronze,2025-09-10,True
+CC9691A47,Shannon,Holmes,reynoldsmatthew@example.org,4081 6107,Female,1976-08-12,East Pattyburgh,Australian Capital Territory,Australia,2619,Silver,2023-04-28,True
+C533B25EC,Thomas,Diaz,brittany00@example.com,+61-436-122-906,Male,1963-08-03,North Sandra,South Australia,Australia,2356,Bronze,2024-06-05,True
+CE0F86AF4,James,Atkinson,robrien@example.net,(08)-3610-7096,Male,1986-07-29,South Rebecca,Northern Territory,Australia,2978,Bronze,2021-08-08,True
+C6B542785,Raymond,Macdonald,mccarthybrett@example.com,0739538304,Male,1990-07-22,West Alyssa,New South Wales,Australia,1784,Platinum,2022-07-30,True
+CB0CB657F,Todd,Doyle,kristikim@example.com,4384.8159,Male,1955-04-26,New Emily,New South Wales,Australia,2670,Bronze,2024-09-21,True
+C99007EBB,Scott,Strickland,broberts@example.org,(07).7722.3921,Male,1962-11-20,Castillobury,Queensland,Australia,2671,Bronze,2024-05-26,True
+CBC66893C,Jessica,Mooney,jessicagarrison@example.net,+61 2 5188 7171,Female,1994-03-06,West Daniel,Victoria,Australia,2191,Bronze,2022-12-15,True
+C8B2751F0,Carol,Walton,hendersonjohn@example.com,+61.3.4228.3006,Female,1978-04-05,Lake Jamesport,Tasmania,Australia,2974,Gold,2021-11-03,True
+CC844C92A,Kent,Melendez,iyoung@example.net,(08).7222.7177,Male,1977-03-21,East Christieborough,Queensland,Australia,7502,Bronze,2024-04-22,True
+C66B9B611,Keith,Campbell,omaralexander@example.com,0486 324 637,Male,1981-10-12,Port Andrew,Tasmania,Australia,6001,Silver,2023-01-23,True
+C7FF08992,John,Perry,jenniferwashington@example.org,0473 322 698,Male,1973-02-20,North Stevenfurt,New South Wales,Australia,0841,Bronze,2023-11-10,True
+CF83B2823,Michael,Green,anthony96@example.com,0773100530,Male,1972-01-26,Aguirreborough,Queensland,Australia,2658,Bronze,2024-08-17,True
+CEBB60C4F,Nathaniel,Nichols,taylorcastro@example.org,0449-786-400,Male,1954-12-02,Mercadostad,Australian Capital Territory,Australia,2619,Gold,2022-04-10,True
+C5DA83982,Justin,Swanson,xmosley@example.org,+61.2.5416.4493,Male,2000-02-13,Jillfurt,Tasmania,Australia,1057,Bronze,2023-09-21,True
+C84D08022,Ryan,Torres,gswanson@example.org,08 1971 6843,Male,1949-12-22,Buckleyborough,South Australia,Australia,3923,Bronze,2022-06-12,True
+C1380B66C,Jessica,Rice,ymills@example.com,03 3768 1225,Female,1995-08-13,North Whitney,New South Wales,Australia,2902,Gold,2025-12-11,True
+CDDFAA59B,Barbara,Smith,vyoung@example.net,+61 2 7302 9810,Female,1985-03-20,Tuckerhaven,Queensland,Australia,2670,Bronze,2025-06-08,True
+C912ED8DB,Alexis,Tate,brett11@example.net,0452 089 580,Female,1974-01-25,Austinbury,Northern Territory,Australia,3341,Bronze,2026-02-10,True
+C4FC68424,Leonard,Chan,bboone@example.org,02 2711 7889,Male,1947-06-25,North Tracie,Australian Capital Territory,Australia,4124,Bronze,2025-11-06,True
+C713BBA85,Samantha,Banks,samantha65@example.net,(07).1247.6952,Female,1987-04-04,Lake Dennis,South Australia,Australia,2934,Gold,2024-11-03,True
+C54FC0953,Ashley,Nielsen,ashley79@example.net,+61.466.146.623,Female,2000-03-21,Erinland,Western Australia,Australia,2984,Bronze,2024-04-18,True
+C2114A634,Daniel,Rodriguez,georgelove@example.com,38110098,Male,1987-09-10,Bellborough,New South Wales,Australia,2615,Bronze,2022-11-02,True
+C46D48081,Shawn,Fox,tracy73@example.net,+61-408-500-301,Male,1954-04-23,North Amberport,Queensland,Australia,2602,Platinum,2024-12-21,True
+CF33E584B,Aaron,Harvey,mooremichael@example.com,03-7132-7641,Male,1962-09-25,Cynthiashire,Tasmania,Australia,2967,Bronze,2026-01-16,True
+C548B386C,Anthony,Campbell,donaldalexander@example.com,(03)-8741-1622,Male,1980-06-05,Port Natalieberg,Victoria,Australia,0872,Bronze,2025-03-25,True
+CEB31EE92,Yvette,Baker,kimberly42@example.net,5758.8750,Female,1985-10-02,Lake Dylanborough,Queensland,Australia,2650,Bronze,2025-04-01,True
+CE408ACB3,Christine,West,mrobinson@example.org,+61.8.7210.7869,Female,2002-12-10,Brandybury,New South Wales,Australia,2926,Platinum,2023-09-04,True
+C6E2C8E2D,Christine,Stevens,hermanjoanna@example.net,0496-866-663,Female,1946-06-07,New Patrickberg,Northern Territory,Australia,0284,Gold,2026-05-15,False
+CEEE56196,Nichole,Williams,scottbell@example.com,08-1569-1126,Female,1985-04-13,Gonzalezview,Queensland,Australia,2962,Bronze,2024-06-15,True
+CC95F38CB,Jessica,Moss,karen54@example.org,+61-2-1358-2365,Female,1984-10-01,North Catherinehaven,Northern Territory,Australia,2620,Bronze,2024-08-17,True
+C128D7248,Melvin,Thompson,dianawilliams@example.com,0430.136.400,Male,1961-11-08,Paulfurt,Australian Capital Territory,Australia,2966,Bronze,2022-03-02,True
+CEA308D1B,Ariel,Perez,fellis@example.org,+61-2-1533-2037,Female,1972-05-31,Rodriguezshire,New South Wales,Australia,2621,Bronze,2026-05-23,True
+CB75C3034,Taylor,Hall,fwalsh@example.net,+61 493 507 460,Female,1979-10-08,East Sandra,Western Australia,Australia,3538,Bronze,2022-08-04,True
+C6F3FD9D5,Ryan,Boyle,kaitlynflores@example.com,02.5843.6345,Male,1956-09-21,South Catherine,Northern Territory,Australia,0246,Gold,2024-05-09,True
+C3215656D,Miguel,Harris,tiffany21@example.net,03 4972 4000,Male,1953-08-25,Anthonyshire,Australian Capital Territory,Australia,1064,Bronze,2026-01-03,True
+CCD785437,Morgan,Pratt,hollanddeborah@example.net,0724561308,Female,1996-11-21,Matthewville,Queensland,Australia,2615,Bronze,2022-04-26,True
+C8CE0CE70,Daniel,Page,amanda82@example.net,3722 7522,Male,1996-09-06,Port Williambury,Western Australia,Australia,8285,Bronze,2025-07-28,True
+CFA1A3E0F,Henry,Mcgrath,pruittjean@example.com,08 2231 1123,Male,1974-01-15,Stephaniechester,New South Wales,Australia,2600,Bronze,2025-12-21,True
+C0DA9D3AA,Megan,Gibson,andersonjamie@example.org,+61 428 938 847,Female,2007-11-25,West Josephhaven,Victoria,Australia,5830,Gold,2023-05-02,True
+C463A3FDC,Victor,Todd,elizabethshannon@example.org,4352.8770,Male,2006-09-24,Hallberg,Queensland,Australia,2957,Bronze,2026-01-03,True
+C055DBDFA,William,Guzman,nicole38@example.net,+61 3 0728 3801,Male,1967-10-13,New Patrick,South Australia,Australia,3273,Silver,2025-08-15,True
+C5F0A2DF1,Sarah,Ryan,jessica38@example.net,07.6772.2182,Female,1967-11-15,Port Anna,Australian Capital Territory,Australia,2510,Gold,2022-04-13,False

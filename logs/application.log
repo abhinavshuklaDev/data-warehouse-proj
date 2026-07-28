@@ -7,3 +7,69 @@
 2026-07-28 16:26:23 | ERROR | test_logger:test_logger:10 | Error message
 2026-07-28 16:26:23 | SUCCESS | test_logger:test_logger:12 | Success message
 2026-07-28 17:59:18 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/output/test/sample.csv
+2026-07-28 18:04:58 | INFO | src.master_data.generators.customer_generator:generate:36 | Generating customer master data...
+2026-07-28 18:04:58 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/customers/customers.csv
+2026-07-28 18:04:58 | SUCCESS | src.master_data.generators.customer_generator:generate:78 | 1000 customers generated successfully.
+2026-07-28 18:05:27 | INFO | __main__:main:11 | Starting Master Data Generation
+2026-07-28 18:05:27 | INFO | src.master_data.generators.customer_generator:generate:36 | Generating customer master data...
+2026-07-28 18:05:27 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/customers/customers.csv
+2026-07-28 18:05:27 | SUCCESS | src.master_data.generators.customer_generator:generate:78 | 1000 customers generated successfully.
+2026-07-28 18:05:27 | INFO | __main__:main:17 | Generated 1000 customers
+2026-07-28 18:08:57 | INFO | src.master_data.generators.customer_generator:generate:32 | Generating customer master data...
+2026-07-28 18:08:57 | INFO | src.master_data.services.customer_service:to_dataframe:35 | Converting customer objects to DataFrame
+2026-07-28 18:08:57 | INFO | src.master_data.services.customer_service:save:49 | Saving customer master data
+2026-07-28 18:08:57 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/customers/customers.csv
+2026-07-28 18:08:57 | SUCCESS | src.master_data.services.customer_service:save:57 | Customer master data saved successfully
+2026-07-28 18:08:57 | SUCCESS | src.master_data.generators.customer_generator:generate:83 | 1000 customers generated successfully.
+2026-07-28 18:13:46 | INFO | src.master_data.generators.category_generator:generate:14 | Generating categories
+2026-07-28 18:13:46 | INFO | src.master_data.services.category_service:to_dataframe:29 | Converting category objects to DataFrame
+2026-07-28 18:13:46 | INFO | src.master_data.services.category_service:save:41 | Saving category master data
+2026-07-28 18:13:46 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/categories/categories.csv
+2026-07-28 18:13:46 | SUCCESS | src.master_data.services.category_service:save:49 | Category master data saved successfully
+2026-07-28 18:13:46 | SUCCESS | src.master_data.generators.category_generator:generate:71 | 8 categories generated.
+2026-07-28 18:13:58 | INFO | __main__:main:12 | Starting Master Data Generation
+2026-07-28 18:13:58 | INFO | __main__:main:14 | Generating Categories...
+2026-07-28 18:13:58 | INFO | src.master_data.generators.category_generator:generate:14 | Generating categories
+2026-07-28 18:13:58 | INFO | src.master_data.services.category_service:to_dataframe:29 | Converting category objects to DataFrame
+2026-07-28 18:13:58 | INFO | src.master_data.services.category_service:save:41 | Saving category master data
+2026-07-28 18:13:58 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/categories/categories.csv
+2026-07-28 18:13:58 | SUCCESS | src.master_data.services.category_service:save:49 | Category master data saved successfully
+2026-07-28 18:13:58 | SUCCESS | src.master_data.generators.category_generator:generate:71 | 8 categories generated.
+2026-07-28 18:13:58 | INFO | __main__:main:17 | Generating Customers...
+2026-07-28 18:13:58 | INFO | src.master_data.generators.customer_generator:generate:32 | Generating customer master data...
+2026-07-28 18:13:58 | INFO | src.master_data.services.customer_service:to_dataframe:35 | Converting customer objects to DataFrame
+2026-07-28 18:13:58 | INFO | src.master_data.services.customer_service:save:49 | Saving customer master data
+2026-07-28 18:13:58 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/customers/customers.csv
+2026-07-28 18:13:58 | SUCCESS | src.master_data.services.customer_service:save:57 | Customer master data saved successfully
+2026-07-28 18:13:58 | SUCCESS | src.master_data.generators.customer_generator:generate:83 | 1000 customers generated successfully.
+2026-07-28 18:13:58 | SUCCESS | __main__:main:20 | Master Data Generation Completed Successfully
+2026-07-28 18:17:58 | INFO | test_logger:test_logger:6 | Info message
+2026-07-28 18:17:58 | WARNING | test_logger:test_logger:8 | Warning message
+2026-07-28 18:17:58 | ERROR | test_logger:test_logger:10 | Error message
+2026-07-28 18:17:58 | SUCCESS | test_logger:test_logger:12 | Success message
+2026-07-28 18:17:58 | INFO | src.master_data.generators.category_generator:generate:14 | Generating categories
+2026-07-28 18:17:58 | INFO | src.master_data.services.base_service:to_dataframe:30 | Creating DataFrame for CategoryService
+2026-07-28 18:17:58 | INFO | src.master_data.services.base_service:save:42 | Writing categories.csv
+2026-07-28 18:17:58 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/categories/categories.csv
+2026-07-28 18:17:58 | SUCCESS | src.master_data.generators.category_generator:generate:71 | 8 categories generated.
+2026-07-28 18:17:58 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/output/test/sample.csv
+2026-07-28 18:17:58 | INFO | src.master_data.generators.customer_generator:generate:32 | Generating customer master data...
+2026-07-28 18:17:58 | INFO | src.master_data.services.base_service:to_dataframe:30 | Creating DataFrame for CustomerService
+2026-07-28 18:17:58 | INFO | src.master_data.services.base_service:save:42 | Writing customers.csv
+2026-07-28 18:17:58 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/customers/customers.csv
+2026-07-28 18:17:58 | SUCCESS | src.master_data.generators.customer_generator:generate:83 | 1000 customers generated successfully.
+2026-07-28 18:17:58 | INFO | src.master_data.generators.customer_generator:generate:32 | Generating customer master data...
+2026-07-28 18:17:58 | INFO | src.master_data.services.base_service:to_dataframe:30 | Creating DataFrame for CustomerService
+2026-07-28 18:17:59 | INFO | src.master_data.services.base_service:save:42 | Writing customers.csv
+2026-07-28 18:17:59 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/customers/customers.csv
+2026-07-28 18:17:59 | SUCCESS | src.master_data.generators.customer_generator:generate:83 | 1000 customers generated successfully.
+2026-07-28 18:34:16 | INFO | src.master_data.generators.brand_generator:generate:17 | Generating brand master data...
+2026-07-28 18:34:16 | INFO | src.master_data.services.base_service:to_dataframe:30 | Creating DataFrame for BrandService
+2026-07-28 18:34:16 | INFO | src.master_data.services.base_service:save:42 | Writing brands.csv
+2026-07-28 18:34:16 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/brands/brands.csv
+2026-07-28 18:34:16 | SUCCESS | src.master_data.generators.brand_generator:generate:33 | 19 brands generated successfully.
+2026-07-28 18:38:05 | INFO | src.master_data.generators.supplier_generator:generate:17 | Generating supplier master data...
+2026-07-28 18:38:05 | INFO | src.master_data.services.base_service:to_dataframe:30 | Creating DataFrame for SupplierService
+2026-07-28 18:38:05 | INFO | src.master_data.services.base_service:save:42 | Writing suppliers.csv
+2026-07-28 18:38:05 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/suppliers/suppliers.csv
+2026-07-28 18:38:05 | SUCCESS | src.master_data.generators.supplier_generator:generate:34 | 8 suppliers generated successfully.
