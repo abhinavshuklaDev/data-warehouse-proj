@@ -1,0 +1,9 @@
+2026-07-28 16:24:31 | INFO | test_logger:test_logger:6 | Info message
+2026-07-28 16:24:31 | WARNING | test_logger:test_logger:8 | Warning message
+2026-07-28 16:24:31 | ERROR | test_logger:test_logger:10 | Error message
+2026-07-28 16:24:31 | SUCCESS | test_logger:test_logger:12 | Success message
+2026-07-28 16:26:23 | INFO | test_logger:test_logger:6 | Info message
+2026-07-28 16:26:23 | WARNING | test_logger:test_logger:8 | Warning message
+2026-07-28 16:26:23 | ERROR | test_logger:test_logger:10 | Error message
+2026-07-28 16:26:23 | SUCCESS | test_logger:test_logger:12 | Success message
+2026-07-28 17:59:18 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/output/test/sample.csv

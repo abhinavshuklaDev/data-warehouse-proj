@@ -22,4 +22,4 @@ kafka:
 snowflake:
   warehouse: COMPUTE_WH
   database: ECOMMERCE_DW
-  schema: RAW
+  schema_name: RAW
