@@ -1,8 +1,16 @@
-project_name: data-warehouse-proj
+project:
+  name: data-warehouse-proj
+  environment: development
 
-environment: development
+master_data:
+  customers: 1000
+  products: 200
+  suppliers: 20
+  warehouses: 4
+  categories: 15
 
-event_rate_per_second: 20
+producer:
+  events_per_second: 20
 
 aws:
   region: ap-southeast-2

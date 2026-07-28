@@ -1,13 +1,16 @@
 annotated-types==0.8.0
 click==8.4.2
+et_xmlfile==2.0.0
 Faker==40.36.0
 kafka-python==3.0.9
 loguru==0.7.3
 numpy==2.5.1
+openpyxl==3.1.5
 packaging==26.2
 pandas==3.0.5
 pillow==12.3.0
 pydantic==2.13.4
+pydantic-settings==2.14.2
 pydantic_core==2.46.4
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.2
