@@ -21,6 +21,7 @@ class BrandGenerator:
                 brand_id=item["brand_id"],
                 brand_name=item["brand_name"],
                 category_id=item["category_id"],
+                supplier_id=item["supplier_id"],
                 is_active=True,
             )
             for item in BRANDS

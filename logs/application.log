@@ -73,3 +73,13 @@
 2026-07-28 18:38:05 | INFO | src.master_data.services.base_service:save:42 | Writing suppliers.csv
 2026-07-28 18:38:05 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/suppliers/suppliers.csv
 2026-07-28 18:38:05 | SUCCESS | src.master_data.generators.supplier_generator:generate:34 | 8 suppliers generated successfully.
+2026-07-29 14:12:02 | INFO | src.master_data.generators.warehouse_generator:generate:17 | Generating warehouse master data...
+2026-07-29 14:12:02 | INFO | src.master_data.services.base_service:to_dataframe:30 | Creating DataFrame for WarehouseService
+2026-07-29 14:12:02 | INFO | src.master_data.services.base_service:save:42 | Writing warehouses.csv
+2026-07-29 14:12:02 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/warehouses/warehouses.csv
+2026-07-29 14:12:02 | SUCCESS | src.master_data.generators.warehouse_generator:generate:36 | 5 warehouses generated successfully.
+2026-07-29 18:32:50 | INFO | src.master_data.generators.product_generator:generate:27 | Generating product master data...
+2026-07-29 18:32:50 | INFO | src.master_data.services.base_service:to_dataframe:30 | Creating DataFrame for ProductService
+2026-07-29 18:32:50 | INFO | src.master_data.services.base_service:save:42 | Writing products.csv
+2026-07-29 18:32:50 | SUCCESS | src.master_data.services.csv_writer:write:59 | CSV written successfully: data/master/products/products.csv
+2026-07-29 18:32:50 | SUCCESS | src.master_data.generators.product_generator:generate:112 | 68 products generated successfully.

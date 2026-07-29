@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,country,capacity,is_active
+WH001,Sydney Distribution Centre,Sydney,New South Wales,Australia,100000,True
+WH002,Melbourne Distribution Centre,Melbourne,Victoria,Australia,90000,True
+WH003,Brisbane Distribution Centre,Brisbane,Queensland,Australia,75000,True
+WH004,Perth Distribution Centre,Perth,Western Australia,Australia,60000,True
+WH005,Adelaide Distribution Centre,Adelaide,South Australia,Australia,50000,True
