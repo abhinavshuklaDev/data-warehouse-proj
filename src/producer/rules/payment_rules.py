@@ -1,0 +1,7 @@
+"""
+Payment Rules
+"""
+
+PAYMENT_SUCCESS = 0.95
+
+PAYMENT_FAILURE = 0.05
