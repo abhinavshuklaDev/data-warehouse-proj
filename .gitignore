@@ -1,0 +1,77 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# ==========================
+# Virtual Environment
+# ==========================
+.venv/
+venv/
+env/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+
+# ==========================
+# Kafka
+# ==========================
+kafka/
+kafka_*/
+*.tgz
+
+# ==========================
+# Generated Data
+# ==========================
+data/generated/
+data/archive/
+data/output/
+
+# Keep master data if you want sample datasets
+# Uncomment the next line if you don't want to push them
+# data/master/
+
+# ==========================
+# Spark
+# ==========================
+spark-warehouse/
+metastore_db/
+
+# ==========================
+# Airflow
+# ==========================
+airflow/logs/
+airflow/airflow.db
+
+# ==========================
+# macOS
+# ==========================
+.DS_Store
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
