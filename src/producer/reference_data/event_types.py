@@ -1,0 +1,15 @@
+"""
+Supported event types.
+"""
+
+PRODUCT_VIEW = "PRODUCT_VIEW"
+
+CART = "CART"
+
+ORDER = "ORDER"
+
+PAYMENT = "PAYMENT"
+
+INVENTORY = "INVENTORY"
+
+RETURN = "RETURN"

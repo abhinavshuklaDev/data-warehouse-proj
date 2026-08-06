@@ -4,8 +4,13 @@ from src.producer.schemas.base_schema import (
 
 
 class ProductViewSchema(BaseEventSchema):
-    """
-    Product view schema.
-    """
 
     view_duration_seconds: int
+
+    device_type: str
+
+    referrer: str
+
+    page_number: int
+
+    search_keyword: str

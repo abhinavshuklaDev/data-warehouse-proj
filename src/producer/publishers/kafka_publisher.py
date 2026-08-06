@@ -1,52 +1,60 @@
 """
 Kafka Publisher
+
+Publishes events to Kafka.
 """
 
 import json
 
 from confluent_kafka import Producer
+
 from src.common.logger import logger
-from src.producer.config.kafka_config import KAFKA_CONFIG
-from src.producer.publishers.publisher import Publisher
+from src.config.config import config
 
 
-class KafkaPublisher(Publisher):
-    """
-    Publishes events to Kafka.
-    """
+class KafkaPublisher:
 
-    def __init__(self, topic: str):
+    def __init__(
+        self,
+        topic: str,
+    ) -> None:
 
         self.topic = topic
 
-        self.producer = Producer(KAFKA_CONFIG)
+        self.producer = Producer(
+            {
+                "bootstrap.servers": config.config.kafka.bootstrap_servers,
+                "client.id": "data-warehouse-producer",
+            }
+        )
 
     @staticmethod
-    def delivery_report(err, msg):
-        """
-        Callback invoked once Kafka acknowledges delivery.
-        """
+    def delivery_report(
+        err,
+        msg,
+    ):
 
         if err:
+
             logger.error(
-                "Kafka delivery failed: %s",
-                err,
+                f"Delivery failed: {err}"
             )
+
         else:
+
             logger.info(
-                "Message delivered to %s [%d] offset %d",
-                msg.topic(),
-                msg.partition(),
-                msg.offset(),
+                f"Delivered to {msg.topic()} "
+                f"partition={msg.partition()} "
+                f"offset={msg.offset()}"
             )
 
     def publish(
         self,
         event: dict,
-    ) -> None:
+    ):
 
         self.producer.produce(
-            topic=self.topic,
+            self.topic,
             value=json.dumps(event),
             callback=self.delivery_report,
         )

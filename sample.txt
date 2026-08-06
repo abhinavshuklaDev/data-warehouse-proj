@@ -1,1 +1,28 @@
-Hello S3
+from src.producer.repository.master_data_repository import (
+    MasterDataRepository,
+)
+
+from src.producer.services.context_service import (
+    ContextService,
+)
+
+from src.producer.events.product_view_event import (
+    ProductViewEvent,
+)
+
+
+repo = MasterDataRepository()
+
+context_service = ContextService(repo)
+
+context = context_service.create()
+
+event = ProductViewEvent.create(
+    context
+)
+
+print(event)
+
+print()
+
+print(event.to_dict())

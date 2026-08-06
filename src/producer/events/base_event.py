@@ -1,18 +1,20 @@
 """
 Base Event
 
-Contains common metadata shared by every event.
+Common functionality for all streaming events.
 """
 
 from dataclasses import asdict, dataclass
 from datetime import UTC, datetime
 from uuid import uuid4
 
+from pydantic import BaseModel
+
 
 @dataclass(slots=True)
 class BaseEvent:
     """
-    Parent class for all streaming events.
+    Parent class for all events.
     """
 
     event_id: str
@@ -25,27 +27,33 @@ class BaseEvent:
 
     @staticmethod
     def generate_event_id() -> str:
-        """
-        Generate a unique event ID.
-        """
         return f"EVT-{uuid4().hex.upper()}"
 
     @staticmethod
     def generate_timestamp() -> str:
-        """
-        Generate an ISO-8601 UTC timestamp.
-        """
-        return datetime.now(UTC).isoformat()
+        return datetime.now(
+            UTC
+        ).isoformat()
 
     @staticmethod
     def generate_session_id() -> str:
-        """
-        Generate a session identifier.
-        """
         return f"SES-{uuid4().hex[:12].upper()}"
 
     def to_dict(self) -> dict:
         """
-        Convert event to dictionary.
+        Convert event into dictionary.
         """
         return asdict(self)
+
+    def validate(
+        self,
+        schema: type[BaseModel],
+    ):
+        """
+        Validate event using Pydantic schema.
+        """
+        schema(
+            **self.to_dict()
+        )
+
+        return self

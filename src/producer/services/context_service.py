@@ -1,37 +1,43 @@
 """
 Context Service
+
+Creates a realistic customer session context.
 """
 
 from random import choice
 
-import pandas as pd
-
 from src.producer.models.event_context import EventContext
-from src.producer.events.base_event import BaseEvent
 from src.producer.reference_data.event_sources import EVENT_SOURCES
+from src.producer.repository.master_data_repository import (
+    MasterDataRepository,
+)
+from src.producer.events.base_event import BaseEvent
 
 
 class ContextService:
     """
-    Creates event contexts.
+    Creates realistic event contexts.
     """
 
     def __init__(
         self,
-        customers: pd.DataFrame,
-        products: pd.DataFrame,
-    ):
-        self.customers = customers
-        self.products = products
+        repository: MasterDataRepository,
+    ) -> None:
+
+        self.repository = repository
 
     def create(self) -> EventContext:
         """
-        Create one realistic browsing context.
+        Create a customer session.
         """
 
-        customer = self.customers.sample().iloc[0]
+        customer = (
+            self.repository.get_random_customer()
+        )
 
-        product = self.products.sample().iloc[0]
+        product = (
+            self.repository.get_random_product()
+        )
 
         return EventContext(
             customer_id=customer["customer_id"],
