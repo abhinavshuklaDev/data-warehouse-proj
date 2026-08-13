@@ -1,0 +1,9 @@
+"""
+Inventory Status Constants
+"""
+
+RESERVED = "RESERVED"
+
+ALLOCATED = "ALLOCATED"
+
+OUT_OF_STOCK = "OUT_OF_STOCK"

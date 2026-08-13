@@ -1,0 +1,7 @@
+"""
+Payment Status Constants
+"""
+
+PAYMENT_SUCCESS = "SUCCESS"
+PAYMENT_FAILED = "FAILED"
+PAYMENT_PENDING = "PENDING"

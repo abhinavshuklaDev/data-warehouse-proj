@@ -1,0 +1,9 @@
+"""
+Return status constants.
+"""
+
+RETURN_REQUESTED = "REQUESTED"
+
+RETURN_APPROVED = "APPROVED"
+
+RETURN_COMPLETED = "COMPLETED"

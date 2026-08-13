@@ -15,7 +15,7 @@ from src.producer.reference_data.event_sources import (
 from src.producer.reference_data.referrers import (
     REFERRERS,
 )
-from src.producer.reference_data.event_types import (
+from src.producer.constants.event_types import (
     PRODUCT_VIEW,
 )
 from src.producer.schemas.product_view_schema import (

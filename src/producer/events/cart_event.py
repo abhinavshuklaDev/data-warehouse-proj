@@ -14,7 +14,7 @@ from src.producer.reference_data.cart_rules import (
     MIN_CART_QUANTITY,
     MAX_CART_QUANTITY,
 )
-from src.producer.reference_data.event_types import (
+from src.producer.constants.event_types import (
     CART,
 )
 from src.producer.schemas.cart_schema import (

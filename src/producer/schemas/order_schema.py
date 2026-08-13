@@ -1,3 +1,9 @@
+"""
+Order Event Schema
+"""
+
+from pydantic import Field
+
 from src.producer.schemas.base_schema import (
     BaseEventSchema,
 )
@@ -7,8 +13,14 @@ class OrderSchema(BaseEventSchema):
 
     order_id: str
 
-    quantity: int
+    warehouse_id: str
 
-    unit_price: float
+    supplier_id: str
 
-    total_amount: float
+    quantity: int = Field(gt=0)
+
+    unit_price: float = Field(gt=0)
+
+    total_amount: float = Field(gt=0)
+
+    order_status: str

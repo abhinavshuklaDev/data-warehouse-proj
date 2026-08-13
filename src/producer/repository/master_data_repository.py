@@ -86,3 +86,67 @@ class MasterDataRepository:
             return None
 
         return product.iloc[0].to_dict()
+
+    def get_customer(
+        self,
+        customer_id: str,
+    ) -> dict:
+
+        customer = self.customers[
+            self.customers["customer_id"] == customer_id
+        ]
+
+        if customer.empty:
+            raise ValueError(
+                f"Customer not found: {customer_id}"
+            )
+
+        return customer.iloc[0].to_dict()
+
+    def get_product(
+        self,
+        product_id: str,
+    ) -> dict:
+
+        product = self.products[
+            self.products["product_id"] == product_id
+        ]
+
+        if product.empty:
+            raise ValueError(
+                f"Product not found: {product_id}"
+            )
+
+        return product.iloc[0].to_dict()
+
+    def get_supplier(
+        self,
+        supplier_id: str,
+    ) -> dict:
+
+        supplier = self.suppliers[
+            self.suppliers["supplier_id"] == supplier_id
+        ]
+
+        if supplier.empty:
+            raise ValueError(
+                f"Supplier not found: {supplier_id}"
+            )
+
+        return supplier.iloc[0].to_dict()
+
+    def get_warehouse(
+        self,
+        warehouse_id: str,
+    ) -> dict:
+
+        warehouse = self.warehouses[
+            self.warehouses["warehouse_id"] == warehouse_id
+        ]
+
+        if warehouse.empty:
+            raise ValueError(
+                f"Warehouse not found: {warehouse_id}"
+            )
+
+        return warehouse.iloc[0].to_dict()

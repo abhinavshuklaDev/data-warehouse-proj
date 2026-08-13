@@ -1,7 +1,23 @@
 """
-Inventory Rules
+Business rules for Inventory events.
 """
 
-MIN_PURCHASE_QTY = 1
+from src.producer.constants.inventory_status import RESERVED
 
-MAX_PURCHASE_QTY = 5
+
+class InventoryRules:
+
+    @staticmethod
+    def remaining_stock(
+        current_stock: int,
+        ordered_quantity: int,
+    ) -> int:
+
+        return max(
+            0,
+            current_stock - ordered_quantity,
+        )
+
+    @staticmethod
+    def status() -> str:
+        return RESERVED

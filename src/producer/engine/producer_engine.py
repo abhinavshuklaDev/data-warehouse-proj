@@ -24,7 +24,7 @@ class ProducerEngine:
         self.simulator = simulator
 
         self.publisher = KafkaPublisher(
-            topic=topic
+            topic=topic,
         )
 
     def run(self):

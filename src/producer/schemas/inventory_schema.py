@@ -2,16 +2,23 @@
 Inventory Event Schema
 """
 
-from src.producer.schemas.base_schema import BaseEventSchema
+from pydantic import Field
+
+from src.producer.schemas.base_schema import (
+    BaseEventSchema,
+)
 
 
 class InventorySchema(BaseEventSchema):
-    """
-    Inventory event schema.
-    """
+
+    inventory_id: str
+
+    order_id: str
 
     warehouse_id: str
 
-    quantity_change: int
+    quantity_reserved: int = Field(gt=0)
 
-    reason: str
+    remaining_stock: int = Field(ge=0)
+
+    inventory_status: str

@@ -2,13 +2,14 @@
 Payment Event Schema
 """
 
-from src.producer.schemas.base_schema import BaseEventSchema
+from pydantic import Field
+
+from src.producer.schemas.base_schema import (
+    BaseEventSchema,
+)
 
 
 class PaymentSchema(BaseEventSchema):
-    """
-    Payment event schema.
-    """
 
     payment_id: str
 
@@ -18,4 +19,6 @@ class PaymentSchema(BaseEventSchema):
 
     payment_status: str
 
-    amount: float   
+    transaction_amount: float = Field(
+        gt=0
+    )
