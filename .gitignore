@@ -30,18 +30,8 @@ env/
 # ==========================
 .env
 
-# ==========================
-# Logs
-# ==========================
-logs/
-*.log
-
-# ==========================
-# Kafka
-# ==========================
-kafka/
-kafka_*/
-*.tgz
+# Application logs
+logs/*.log
 
 # ==========================
 # Generated Data
@@ -75,3 +65,6 @@ airflow/airflow.db
 # Jupyter
 # ==========================
 .ipynb_checkpoints/
+
+# Local Kafka installation
+kafka/
